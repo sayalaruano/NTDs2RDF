@@ -1,0 +1,5 @@
+pandas 
+rdflib
+streamlit
+plotly
+PIL 

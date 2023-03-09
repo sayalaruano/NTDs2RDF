@@ -1,0 +1,2692 @@
+"hgnc_symbol","reactpathID","description","entrezgene_id"
+"ABCB1","R-HSA-9757110","Prednisone ADME",5243
+"ABCB1","R-HSA-382556","ABC-family proteins mediated transport",5243
+"ABCB1","R-HSA-9748784","Drug ADME",5243
+"ABCG2","R-HSA-189451","Heme biosynthesis",9429
+"ABCG2","R-HSA-189483","Heme degradation",9429
+"ABCG2","R-HSA-189445","Metabolism of porphyrins",9429
+"ABCG2","R-HSA-9753281","Paracetamol ADME",9429
+"ABCG2","R-HSA-917937","Iron uptake and transport",9429
+"ABCG2","R-HSA-9748784","Drug ADME",9429
+"ACE","R-HSA-2022377","Metabolism of Angiotensinogen to Angiotensins",1636
+"ACE","R-HSA-2980736","Peptide hormone metabolism",1636
+"ADCY1","R-HSA-170660","Adenylate cyclase activating pathway",107
+"ADCY1","R-HSA-170670","Adenylate cyclase inhibitory pathway",107
+"ADCY1","R-HSA-442720","CREB1 phosphorylation through the activation of Adenylate Cyclase",107
+"ADCY1","R-HSA-164378","PKA activation in glucagon signalling",107
+"ADCY1","R-HSA-163615","PKA activation",107
+"ADCY1","R-HSA-111931","PKA-mediated phosphorylation of CREB",107
+"ADCY1","R-HSA-163359","Glucagon signaling in metabolic regulation",107
+"ADCY1","R-HSA-111933","Calmodulin induced events",107
+"ADCY1","R-HSA-111997","CaM pathway",107
+"ADCY1","R-HSA-111996","Ca-dependent events",107
+"ADCY1","R-HSA-9664323","FCGR3A-mediated IL10 synthesis",107
+"ADCY1","R-HSA-1489509","DAG and IP3 signaling",107
+"ADCY1","R-HSA-432040","Vasopressin regulates renal water homeostasis via Aquaporins",107
+"ADCY1","R-HSA-9660821","ADORA2B mediated anti-inflammatory cytokines production",107
+"ADCY1","R-HSA-977444","GABA B receptor activation",107
+"ADCY1","R-HSA-991365","Activation of GABAB receptors",107
+"ADCY1","R-HSA-9634597","GPER1 signaling",107
+"ADCY1","R-HSA-418597","G alpha (z) signalling events",107
+"ADCY1","R-HSA-112043","PLC beta mediated events",107
+"ADCY1","R-HSA-445717","Aquaporin-mediated transport",107
+"ADCY1","R-HSA-112040","G-protein mediated events",107
+"ADCY1","R-HSA-977443","GABA receptor activation",107
+"ADCY1","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",107
+"ADCY1","R-HSA-9664433","Leishmania parasite growth and survival",107
+"ADCY1","R-HSA-438064","Post NMDA receptor activation events",107
+"ADCY1","R-HSA-111885","Opioid Signalling",107
+"ADCY1","R-HSA-442755","Activation of NMDA receptors and postsynaptic events",107
+"ADCY1","R-HSA-163685","Integration of energy metabolism",107
+"ADCY1","R-HSA-5610787","Hedgehog 'off' state",107
+"ADCY1","R-HSA-5358351","Signaling by Hedgehog",107
+"AKT1","R-HSA-9614399","Regulation of localization of FOXO transcription factors",207
+"AKT1","R-HSA-1474151","Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",207
+"AKT1","R-HSA-9755779","SARS-CoV-2 targets host intracellular signalling and regulatory pathways",207
+"AKT1","R-HSA-1358803","Downregulation of ERBB2:ERBB3 signaling",207
+"AKT1","R-HSA-203615","eNOS activation",207
+"AKT1","R-HSA-198323","AKT phosphorylates targets in the cytosol",207
+"AKT1","R-HSA-6804759","Regulation of TP53 Activity through Association with Co-factors",207
+"AKT1","R-HSA-111447","Activation of BAD and translocation to mitochondria ",207
+"AKT1","R-HSA-202131","Metabolism of nitric oxide: NOS3 activation and regulation",207
+"AKT1","R-HSA-450385","Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA",207
+"AKT1","R-HSA-450604","KSRP (KHSRP) binds and destabilizes mRNA",207
+"AKT1","R-HSA-8978934","Metabolism of cofactors",207
+"AKT1","R-HSA-210745","Regulation of gene expression in beta cells",207
+"AKT1","R-HSA-389513","CTLA4 inhibitory signaling",207
+"AKT1","R-HSA-389357","CD28 dependent PI3K/Akt signaling",207
+"AKT1","R-HSA-9634638","Estrogen-dependent nuclear events downstream of ESR-membrane signaling",207
+"AKT1","R-HSA-392451","G beta:gamma signalling through PI3Kgamma",207
+"AKT1","R-HSA-5674400","Constitutive Signaling by AKT1 E17K in Cancer",207
+"AKT1","R-HSA-354192","Integrin signaling",207
+"AKT1","R-HSA-5218920","VEGFR2 mediated vascular permeability",207
+"AKT1","R-HSA-8863795","Downregulation of ERBB2 signaling",207
+"AKT1","R-HSA-114452","Activation of BH3-only proteins",207
+"AKT1","R-HSA-6804758","Regulation of TP53 Activity through Acetylation",207
+"AKT1","R-HSA-397795","G-protein beta:gamma signalling",207
+"AKT1","R-HSA-389356","CD28 co-stimulation",207
+"AKT1","R-HSA-6804757","Regulation of TP53 Degradation",207
+"AKT1","R-HSA-6806003","Regulation of TP53 Expression and Degradation",207
+"AKT1","R-HSA-9607240","FLT3 Signaling",207
+"AKT1","R-HSA-76009","Platelet Aggregation (Plug Formation)",207
+"AKT1","R-HSA-165159","MTOR signalling",207
+"AKT2","R-HSA-9614399","Regulation of localization of FOXO transcription factors",208
+"AKT2","R-HSA-9755779","SARS-CoV-2 targets host intracellular signalling and regulatory pathways",208
+"AKT2","R-HSA-1358803","Downregulation of ERBB2:ERBB3 signaling",208
+"AKT2","R-HSA-198323","AKT phosphorylates targets in the cytosol",208
+"AKT2","R-HSA-6804759","Regulation of TP53 Activity through Association with Co-factors",208
+"AKT2","R-HSA-111447","Activation of BAD and translocation to mitochondria ",208
+"AKT2","R-HSA-210745","Regulation of gene expression in beta cells",208
+"AKT2","R-HSA-389513","CTLA4 inhibitory signaling",208
+"AKT2","R-HSA-389357","CD28 dependent PI3K/Akt signaling",208
+"AKT2","R-HSA-9634638","Estrogen-dependent nuclear events downstream of ESR-membrane signaling",208
+"AKT2","R-HSA-392451","G beta:gamma signalling through PI3Kgamma",208
+"AKT2","R-HSA-5674400","Constitutive Signaling by AKT1 E17K in Cancer",208
+"AKT2","R-HSA-5218920","VEGFR2 mediated vascular permeability",208
+"AKT2","R-HSA-8863795","Downregulation of ERBB2 signaling",208
+"AKT2","R-HSA-114452","Activation of BH3-only proteins",208
+"AKT2","R-HSA-6804758","Regulation of TP53 Activity through Acetylation",208
+"AKT2","R-HSA-397795","G-protein beta:gamma signalling",208
+"AKT2","R-HSA-389356","CD28 co-stimulation",208
+"AKT2","R-HSA-6804757","Regulation of TP53 Degradation",208
+"AKT2","R-HSA-6806003","Regulation of TP53 Expression and Degradation",208
+"AKT2","R-HSA-9607240","FLT3 Signaling",208
+"AKT2","R-HSA-165159","MTOR signalling",208
+"AKT2","R-HSA-186712","Regulation of beta-cell development",208
+"AKT2","R-HSA-3769402","Deactivation of the beta-catenin transactivating complex",208
+"AKT2","R-HSA-109704","PI3K Cascade",208
+"AKT2","R-HSA-112399","IRS-mediated signalling",208
+"AKT2","R-HSA-1227986","Signaling by ERBB2",208
+"AKT2","R-HSA-2428928","IRS-related events triggered by IGF1R",208
+"AKT2","R-HSA-2428924","IGF1R signaling cascade",208
+"AKT2","R-HSA-2404192","Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)",208
+"AKT3","R-HSA-9614399","Regulation of localization of FOXO transcription factors",10000
+"AKT3","R-HSA-9755779","SARS-CoV-2 targets host intracellular signalling and regulatory pathways",10000
+"AKT3","R-HSA-1358803","Downregulation of ERBB2:ERBB3 signaling",10000
+"AKT3","R-HSA-198323","AKT phosphorylates targets in the cytosol",10000
+"AKT3","R-HSA-6804759","Regulation of TP53 Activity through Association with Co-factors",10000
+"AKT3","R-HSA-111447","Activation of BAD and translocation to mitochondria ",10000
+"AKT3","R-HSA-210745","Regulation of gene expression in beta cells",10000
+"AKT3","R-HSA-389513","CTLA4 inhibitory signaling",10000
+"AKT3","R-HSA-389357","CD28 dependent PI3K/Akt signaling",10000
+"AKT3","R-HSA-9634638","Estrogen-dependent nuclear events downstream of ESR-membrane signaling",10000
+"AKT3","R-HSA-392451","G beta:gamma signalling through PI3Kgamma",10000
+"AKT3","R-HSA-5674400","Constitutive Signaling by AKT1 E17K in Cancer",10000
+"AKT3","R-HSA-5218920","VEGFR2 mediated vascular permeability",10000
+"AKT3","R-HSA-8863795","Downregulation of ERBB2 signaling",10000
+"AKT3","R-HSA-114452","Activation of BH3-only proteins",10000
+"AKT3","R-HSA-6804758","Regulation of TP53 Activity through Acetylation",10000
+"AKT3","R-HSA-397795","G-protein beta:gamma signalling",10000
+"AKT3","R-HSA-389356","CD28 co-stimulation",10000
+"AKT3","R-HSA-6804757","Regulation of TP53 Degradation",10000
+"AKT3","R-HSA-6806003","Regulation of TP53 Expression and Degradation",10000
+"AKT3","R-HSA-9607240","FLT3 Signaling",10000
+"AKT3","R-HSA-186712","Regulation of beta-cell development",10000
+"AKT3","R-HSA-1227986","Signaling by ERBB2",10000
+"AKT3","R-HSA-109606","Intrinsic Pathway for Apoptosis",10000
+"AKT3","R-HSA-9614085","FOXO-mediated transcription",10000
+"AKT3","R-HSA-388841","Costimulation by the CD28 family",10000
+"AKT3","R-HSA-8948751","Regulation of PTEN stability and activity",10000
+"AKT3","R-HSA-9009391","Extra-nuclear estrogen signaling",10000
+"AKT3","R-HSA-69202","Cyclin E associated events during G1/S transition ",10000
+"AKT3","R-HSA-69656","Cyclin A:Cdk2-associated events at S phase entry",10000
+"ALB","R-HSA-8964058","HDL remodeling",213
+"ALB","R-HSA-9757110","Prednisone ADME",213
+"ALB","R-HSA-2168880","Scavenging of heme from plasma",213
+"ALB","R-HSA-189451","Heme biosynthesis",213
+"ALB","R-HSA-189483","Heme degradation",213
+"ALB","R-HSA-159418","Recycling of bile acids and salts",213
+"ALB","R-HSA-189445","Metabolism of porphyrins",213
+"ALB","R-HSA-8963899","Plasma lipoprotein remodeling",213
+"ALB","R-HSA-2173782","Binding and Uptake of Ligands by Scavenger Receptors",213
+"ALB","R-HSA-9749641","Aspirin ADME",213
+"ALB","R-HSA-194068","Bile acid and bile salt metabolism",213
+"ALB","R-HSA-9707564","Cytoprotection by HMOX1",213
+"ALB","R-HSA-174824","Plasma lipoprotein assembly, remodeling, and clearance",213
+"ALB","R-HSA-8957275","Post-translational protein phosphorylation",213
+"ALB","R-HSA-9748784","Drug ADME",213
+"ALB","R-HSA-381426","Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",213
+"ALB","R-HSA-114608","Platelet degranulation ",213
+"ALB","R-HSA-76005","Response to elevated platelet cytosolic Ca2+",213
+"ALB","R-HSA-8957322","Metabolism of steroids",213
+"ALB","R-HSA-9711123","Cellular response to chemical stress",213
+"ALB","R-HSA-76002","Platelet activation, signaling and aggregation",213
+"BDKRB2","R-HSA-375276","Peptide ligand-binding receptors",624
+"BDKRB2","R-HSA-416476","G alpha (q) signalling events",624
+"BDKRB2","R-HSA-418594","G alpha (i) signalling events",624
+"BDKRB2","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",624
+"BDKRB2","R-HSA-500792","GPCR ligand binding",624
+"C1QA","R-HSA-166786","Creation of C4 and C2 activators",712
+"C1QA","R-HSA-166663","Initial triggering of complement",712
+"C1QA","R-HSA-977606","Regulation of Complement cascade",712
+"C1QA","R-HSA-166658","Complement cascade",712
+"C1QB","R-HSA-166786","Creation of C4 and C2 activators",713
+"C1QB","R-HSA-166663","Initial triggering of complement",713
+"C1QB","R-HSA-977606","Regulation of Complement cascade",713
+"C1QB","R-HSA-166658","Complement cascade",713
+"C1QC","R-HSA-166786","Creation of C4 and C2 activators",714
+"C1QC","R-HSA-166663","Initial triggering of complement",714
+"C1QC","R-HSA-977606","Regulation of Complement cascade",714
+"C1QC","R-HSA-166658","Complement cascade",714
+"C3","R-HSA-166663","Initial triggering of complement",718
+"C3","R-HSA-9660826","Purinergic signaling in leishmaniasis infection",718
+"C3","R-HSA-9664424","Cell recruitment (pro-inflammatory response)",718
+"C3","R-HSA-977606","Regulation of Complement cascade",718
+"C3","R-HSA-166658","Complement cascade",718
+"C3","R-HSA-8957275","Post-translational protein phosphorylation",718
+"C3","R-HSA-381426","Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",718
+"C3","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",718
+"C3","R-HSA-9658195","Leishmania infection",718
+"C3","R-HSA-375276","Peptide ligand-binding receptors",718
+"C3","R-HSA-418594","G alpha (i) signalling events",718
+"C3","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",718
+"C3","R-HSA-500792","GPCR ligand binding",718
+"C3","R-HSA-6798695","Neutrophil degranulation",718
+"CALR","R-HSA-381183","ATF6 (ATF6-alpha) activates chaperone genes",811
+"CALR","R-HSA-381033","ATF6 (ATF6-alpha) activates chaperones",811
+"CALR","R-HSA-3000480","Scavenging by Class A Receptors",811
+"CALR","R-HSA-901042","Calnexin/calreticulin cycle",811
+"CALR","R-HSA-983170","Antigen Presentation: Folding, assembly and peptide loading of class I MHC",811
+"CALR","R-HSA-532668","N-glycan trimming in the ER and Calnexin/Calreticulin cycle",811
+"CALR","R-HSA-2173782","Binding and Uptake of Ligands by Scavenger Receptors",811
+"CALR","R-HSA-1236974","ER-Phagosome pathway",811
+"CALR","R-HSA-381119","Unfolded Protein Response (UPR)",811
+"CALR","R-HSA-1236975","Antigen processing-Cross presentation",811
+"CALR","R-HSA-168255","Influenza Infection",811
+"CALR","R-HSA-446203","Asparagine N-linked glycosylation",811
+"CALR","R-HSA-983169","Class I MHC mediated antigen processing & presentation",811
+"CASP8","R-HSA-2562578","TRIF-mediated programmed cell death",841
+"CASP8","R-HSA-3371378","Regulation by c-FLIP",841
+"CASP8","R-HSA-5218900","CASP8 activity is inhibited",841
+"CASP8","R-HSA-69416","Dimerization of procaspase-8",841
+"CASP8","R-HSA-264870","Caspase-mediated cleavage of cytoskeletal proteins",841
+"CASP8","R-HSA-5357786","TNFR1-induced proapoptotic signaling",841
+"CASP8","R-HSA-933543","NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10",841
+"CASP8","R-HSA-140534","Caspase activation via Death Receptors in the presence of ligand",841
+"CASP8","R-HSA-9758274","Regulation of NF-kappa B signaling",841
+"CASP8","R-HSA-5357769","Caspase activation via extrinsic apoptotic signalling pathway",841
+"CASP8","R-HSA-5213460","RIPK1-mediated regulated necrosis",841
+"CASP8","R-HSA-5675482","Regulation of necroptotic cell death",841
+"CASP8","R-HSA-168638","NOD1/2 Signaling Pathway",841
+"CASP8","R-HSA-111465","Apoptotic cleavage of cellular proteins",841
+"CASP8","R-HSA-5357905","Regulation of TNFR1 signaling",841
+"CASP8","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",841
+"CASP8","R-HSA-75893","TNF signaling",841
+"CASP8","R-HSA-75153","Apoptotic execution phase",841
+"CASP8","R-HSA-109606","Intrinsic Pathway for Apoptosis",841
+"CASP8","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",841
+"CASP8","R-HSA-5218859","Regulated Necrosis",841
+"CASP8","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",841
+"CASP8","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",841
+"CASP8","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",841
+"CASP8","R-HSA-975871","MyD88 cascade initiated on plasma membrane",841
+"CASP8","R-HSA-5607764","CLEC7A (Dectin-1) signaling",841
+"CASP8","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",841
+"CASP8","R-HSA-975155","MyD88 dependent cascade initiated on endosome",841
+"CASP8","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",841
+"CASP8","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",841
+"CCL2","R-HSA-380994","ATF4 activates genes in response to endoplasmic reticulum  stress",6347
+"CCL2","R-HSA-381042","PERK regulates gene expression",6347
+"CCL2","R-HSA-6783783","Interleukin-10 signaling",6347
+"CCL2","R-HSA-380108","Chemokine receptors bind chemokines",6347
+"CCL2","R-HSA-381119","Unfolded Protein Response (UPR)",6347
+"CCL2","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",6347
+"CCL2","R-HSA-375276","Peptide ligand-binding receptors",6347
+"CCL2","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",6347
+"CCL2","R-HSA-500792","GPCR ligand binding",6347
+"CCL2","R-HSA-449147","Signaling by Interleukins",6347
+"CCL3","R-HSA-6783783","Interleukin-10 signaling",6348
+"CCL3","R-HSA-380108","Chemokine receptors bind chemokines",6348
+"CCL3","R-HSA-375276","Peptide ligand-binding receptors",6348
+"CCL3","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",6348
+"CCL3","R-HSA-500792","GPCR ligand binding",6348
+"CCL3","R-HSA-449147","Signaling by Interleukins",6348
+"CCL3L1","R-HSA-6783783","Interleukin-10 signaling",6349
+"CCL3L1","R-HSA-380108","Chemokine receptors bind chemokines",6349
+"CCL3L1","R-HSA-375276","Peptide ligand-binding receptors",6349
+"CCL3L1","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",6349
+"CCL3L1","R-HSA-500792","GPCR ligand binding",6349
+"CCL3L1","R-HSA-449147","Signaling by Interleukins",6349
+"CCL3L3","R-HSA-6783783","Interleukin-10 signaling",414062
+"CCL3L3","R-HSA-380108","Chemokine receptors bind chemokines",414062
+"CCL3L3","R-HSA-375276","Peptide ligand-binding receptors",414062
+"CCL3L3","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",414062
+"CCL3L3","R-HSA-500792","GPCR ligand binding",414062
+"CCL3L3","R-HSA-449147","Signaling by Interleukins",414062
+"CCL5","R-HSA-6783783","Interleukin-10 signaling",6352
+"CCL5","R-HSA-380108","Chemokine receptors bind chemokines",6352
+"CCL5","R-HSA-375276","Peptide ligand-binding receptors",6352
+"CCL5","R-HSA-418594","G alpha (i) signalling events",6352
+"CCL5","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",6352
+"CCL5","R-HSA-500792","GPCR ligand binding",6352
+"CCL5","R-HSA-449147","Signaling by Interleukins",6352
+"CD247","R-HSA-2029481","FCGR activation",919
+"CD247","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",919
+"CD247","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",919
+"CD247","R-HSA-389948","PD-1 signaling",919
+"CD247","R-HSA-2029485","Role of phospholipids in phagocytosis",919
+"CD247","R-HSA-164952","The role of Nef in HIV-1 replication and disease pathogenesis",919
+"CD247","R-HSA-202433","Generation of second messenger molecules",919
+"CD247","R-HSA-9664323","FCGR3A-mediated IL10 synthesis",919
+"CD247","R-HSA-9664407","Parasite infection",919
+"CD247","R-HSA-9664417","Leishmania phagocytosis",919
+"CD247","R-HSA-9664422","FCGR3A-mediated phagocytosis",919
+"CD247","R-HSA-2029482","Regulation of actin dynamics for phagocytic cup formation",919
+"CD247","R-HSA-388841","Costimulation by the CD28 family",919
+"CD247","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",919
+"CD247","R-HSA-9664433","Leishmania parasite growth and survival",919
+"CD247","R-HSA-2029480","Fcgamma receptor (FCGR) dependent phagocytosis",919
+"CD247","R-HSA-202424","Downstream TCR signaling",919
+"CD247","R-HSA-202403","TCR signaling",919
+"CD247","R-HSA-162909","Host Interactions of HIV factors",919
+"CD247","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",919
+"CD247","R-HSA-9658195","Leishmania infection",919
+"CD247","R-HSA-162906","HIV Infection",919
+"CD3D","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",915
+"CD3D","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",915
+"CD3D","R-HSA-389948","PD-1 signaling",915
+"CD3D","R-HSA-202433","Generation of second messenger molecules",915
+"CD3D","R-HSA-388841","Costimulation by the CD28 family",915
+"CD3D","R-HSA-202424","Downstream TCR signaling",915
+"CD3D","R-HSA-8856825","Cargo recognition for clathrin-mediated endocytosis",915
+"CD3D","R-HSA-202403","TCR signaling",915
+"CD3D","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",915
+"CD3D","R-HSA-8856828","Clathrin-mediated endocytosis",915
+"CD3E","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",916
+"CD3E","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",916
+"CD3E","R-HSA-389948","PD-1 signaling",916
+"CD3E","R-HSA-202433","Generation of second messenger molecules",916
+"CD3E","R-HSA-388841","Costimulation by the CD28 family",916
+"CD3E","R-HSA-202424","Downstream TCR signaling",916
+"CD3E","R-HSA-202403","TCR signaling",916
+"CD3E","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",916
+"CD3G","R-HSA-2029481","FCGR activation",917
+"CD3G","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",917
+"CD3G","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",917
+"CD3G","R-HSA-389948","PD-1 signaling",917
+"CD3G","R-HSA-2029485","Role of phospholipids in phagocytosis",917
+"CD3G","R-HSA-202433","Generation of second messenger molecules",917
+"CD3G","R-HSA-9664323","FCGR3A-mediated IL10 synthesis",917
+"CD3G","R-HSA-9664407","Parasite infection",917
+"CD3G","R-HSA-9664417","Leishmania phagocytosis",917
+"CD3G","R-HSA-9664422","FCGR3A-mediated phagocytosis",917
+"CD3G","R-HSA-2029482","Regulation of actin dynamics for phagocytic cup formation",917
+"CD3G","R-HSA-388841","Costimulation by the CD28 family",917
+"CD3G","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",917
+"CD3G","R-HSA-9664433","Leishmania parasite growth and survival",917
+"CD3G","R-HSA-2029480","Fcgamma receptor (FCGR) dependent phagocytosis",917
+"CD3G","R-HSA-202424","Downstream TCR signaling",917
+"CD3G","R-HSA-8856825","Cargo recognition for clathrin-mediated endocytosis",917
+"CD3G","R-HSA-202403","TCR signaling",917
+"CD3G","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",917
+"CD3G","R-HSA-8856828","Clathrin-mediated endocytosis",917
+"CD3G","R-HSA-9658195","Leishmania infection",917
+"CFLAR","R-HSA-3371378","Regulation by c-FLIP",8837
+"CFLAR","R-HSA-5218900","CASP8 activity is inhibited",8837
+"CFLAR","R-HSA-69416","Dimerization of procaspase-8",8837
+"CFLAR","R-HSA-140534","Caspase activation via Death Receptors in the presence of ligand",8837
+"CFLAR","R-HSA-5357769","Caspase activation via extrinsic apoptotic signalling pathway",8837
+"CFLAR","R-HSA-5213460","RIPK1-mediated regulated necrosis",8837
+"CFLAR","R-HSA-5675482","Regulation of necroptotic cell death",8837
+"CFLAR","R-HSA-5357905","Regulation of TNFR1 signaling",8837
+"CFLAR","R-HSA-75893","TNF signaling",8837
+"CFLAR","R-HSA-5218859","Regulated Necrosis",8837
+"CFLAR","R-HSA-73887","Death Receptor Signalling",8837
+"CFLAR","R-HSA-109581","Apoptosis",8837
+"CFLAR","R-HSA-5357801","Programmed Cell Death",8837
+"CHUK","R-HSA-933543","NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10",1147
+"CHUK","R-HSA-198323","AKT phosphorylates targets in the cytosol",1147
+"CHUK","R-HSA-937039","IRAK1 recruits IKK complex",1147
+"CHUK","R-HSA-975144","IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation",1147
+"CHUK","R-HSA-5684264","MAP3K8 (TPL2)-dependent MAPK1/3 activation",1147
+"CHUK","R-HSA-1810476","RIP-mediated NFkB activation via ZBP1",1147
+"CHUK","R-HSA-9758274","Regulation of NF-kappa B signaling",1147
+"CHUK","R-HSA-168927","TICAM1, RIP1-mediated IKK complex recruitment",1147
+"CHUK","R-HSA-1606322","ZBP1(DAI) mediated induction of type I IFNs",1147
+"CHUK","R-HSA-5674400","Constitutive Signaling by AKT1 E17K in Cancer",1147
+"CHUK","R-HSA-933542","TRAF6 mediated NF-kB activation",1147
+"CHUK","R-HSA-937041","IKK complex recruitment mediated by RIP1",1147
+"CHUK","R-HSA-5357956","TNFR1-induced NFkappaB signaling pathway",1147
+"CHUK","R-HSA-5260271","Diseases of Immune System",1147
+"CHUK","R-HSA-5602358","Diseases associated with the TLR signaling cascade",1147
+"CHUK","R-HSA-168638","NOD1/2 Signaling Pathway",1147
+"CHUK","R-HSA-5357905","Regulation of TNFR1 signaling",1147
+"CHUK","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",1147
+"CHUK","R-HSA-75893","TNF signaling",1147
+"CHUK","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",1147
+"CHUK","R-HSA-5676590","NIK-->noncanonical NF-kB signaling",1147
+"CHUK","R-HSA-5607761","Dectin-1 mediated noncanonical NF-kB signaling",1147
+"CHUK","R-HSA-1834949","Cytosolic sensors of pathogen-associated DNA ",1147
+"CHUK","R-HSA-450294","MAP kinase activation",1147
+"CHUK","R-HSA-1169091","Activation of NF-kappaB in B cells",1147
+"CHUK","R-HSA-448424","Interleukin-17 signaling",1147
+"CHUK","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",1147
+"CHUK","R-HSA-2871837","FCERI mediated NF-kB activation",1147
+"CHUK","R-HSA-1168372","Downstream signaling events of B Cell Receptor (BCR)",1147
+"CHUK","R-HSA-1236974","ER-Phagosome pathway",1147
+"CR1","R-HSA-8877330","RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)",1378
+"CR1","R-HSA-977606","Regulation of Complement cascade",1378
+"CR1","R-HSA-166658","Complement cascade",1378
+"CR1","R-HSA-8878171","Transcriptional regulation by RUNX1",1378
+"CR1","R-HSA-6798695","Neutrophil degranulation",1378
+"CXCL8","R-HSA-380994","ATF4 activates genes in response to endoplasmic reticulum  stress",3576
+"CXCL8","R-HSA-381042","PERK regulates gene expression",3576
+"CXCL8","R-HSA-6783783","Interleukin-10 signaling",3576
+"CXCL8","R-HSA-380108","Chemokine receptors bind chemokines",3576
+"CXCL8","R-HSA-381119","Unfolded Protein Response (UPR)",3576
+"CXCL8","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3576
+"CXCL8","R-HSA-2559582","Senescence-Associated Secretory Phenotype (SASP)",3576
+"CXCL8","R-HSA-2559583","Cellular Senescence",3576
+"CXCL8","R-HSA-375276","Peptide ligand-binding receptors",3576
+"CXCL8","R-HSA-418594","G alpha (i) signalling events",3576
+"CXCL8","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",3576
+"CXCL8","R-HSA-500792","GPCR ligand binding",3576
+"CXCL8","R-HSA-449147","Signaling by Interleukins",3576
+"CYBA","R-HSA-9664420","Killing mechanisms",1535
+"CYBA","R-HSA-9673324","WNT5:FZD7-mediated leishmania damping",1535
+"CYBA","R-HSA-5668599","RHO GTPases Activate NADPH Oxidases",1535
+"CYBA","R-HSA-1222556","ROS and RNS production in phagocytes",1535
+"CYBA","R-HSA-3299685","Detoxification of Reactive Oxygen Species",1535
+"CYBA","R-HSA-9013404","RAC2 GTPase cycle",1535
+"CYBA","R-HSA-9013423","RAC3 GTPase cycle",1535
+"CYBA","R-HSA-4420097","VEGFA-VEGFR2 Pathway",1535
+"CYBA","R-HSA-1236975","Antigen processing-Cross presentation",1535
+"CYBA","R-HSA-194138","Signaling by VEGF",1535
+"CYBA","R-HSA-9658195","Leishmania infection",1535
+"CYBA","R-HSA-9013149","RAC1 GTPase cycle",1535
+"CYBA","R-HSA-9711123","Cellular response to chemical stress",1535
+"CYBA","R-HSA-195258","RHO GTPase Effectors",1535
+"CYBA","R-HSA-983169","Class I MHC mediated antigen processing & presentation",1535
+"CYBA","R-HSA-9012999","RHO GTPase cycle",1535
+"CYBA","R-HSA-6798695","Neutrophil degranulation",1535
+"CYBB","R-HSA-5668599","RHO GTPases Activate NADPH Oxidases",1536
+"CYBB","R-HSA-1222556","ROS and RNS production in phagocytes",1536
+"CYBB","R-HSA-3299685","Detoxification of Reactive Oxygen Species",1536
+"CYBB","R-HSA-9013404","RAC2 GTPase cycle",1536
+"CYBB","R-HSA-9013423","RAC3 GTPase cycle",1536
+"CYBB","R-HSA-4420097","VEGFA-VEGFR2 Pathway",1536
+"CYBB","R-HSA-1236975","Antigen processing-Cross presentation",1536
+"CYBB","R-HSA-194138","Signaling by VEGF",1536
+"CYBB","R-HSA-9013149","RAC1 GTPase cycle",1536
+"CYBB","R-HSA-9711123","Cellular response to chemical stress",1536
+"CYBB","R-HSA-195258","RHO GTPase Effectors",1536
+"CYBB","R-HSA-983169","Class I MHC mediated antigen processing & presentation",1536
+"CYBB","R-HSA-9012999","RHO GTPase cycle",1536
+"CYBB","R-HSA-6798695","Neutrophil degranulation",1536
+"CYP1A2","R-HSA-156581","Methylation",1544
+"CYP1A2","R-HSA-9018677","Biosynthesis of DHA-derived SPMs",1544
+"CYP1A2","R-HSA-5423646","Aflatoxin activation and detoxification",1544
+"CYP1A2","R-HSA-9018678","Biosynthesis of specialized proresolving mediators (SPMs)",1544
+"CYP1A2","R-HSA-211981","Xenobiotics",1544
+"CYP1A2","R-HSA-2142753","Arachidonic acid metabolism",1544
+"CYP1A2","R-HSA-211897","Cytochrome P450 - arranged by substrate type",1544
+"CYP1A2","R-HSA-211945","Phase I - Functionalization of compounds",1544
+"CYP1A2","R-HSA-156580","Phase II - Conjugation of compounds",1544
+"CYP1A2","R-HSA-8978868","Fatty acid metabolism",1544
+"CYP1A2","R-HSA-211859","Biological oxidations",1544
+"CYP2B6","R-HSA-211999","CYP2E1 reactions",1555
+"CYP2B6","R-HSA-211935","Fatty acids",1555
+"CYP2B6","R-HSA-211981","Xenobiotics",1555
+"CYP2B6","R-HSA-211897","Cytochrome P450 - arranged by substrate type",1555
+"CYP2B6","R-HSA-211945","Phase I - Functionalization of compounds",1555
+"CYP2B6","R-HSA-211859","Biological oxidations",1555
+"CYP2C19","R-HSA-211999","CYP2E1 reactions",1557
+"CYP2C19","R-HSA-211981","Xenobiotics",1557
+"CYP2C19","R-HSA-9749641","Aspirin ADME",1557
+"CYP2C19","R-HSA-2142753","Arachidonic acid metabolism",1557
+"CYP2C19","R-HSA-211897","Cytochrome P450 - arranged by substrate type",1557
+"CYP2C19","R-HSA-211945","Phase I - Functionalization of compounds",1557
+"CYP2C19","R-HSA-9748784","Drug ADME",1557
+"CYP2C19","R-HSA-8978868","Fatty acid metabolism",1557
+"CYP2C19","R-HSA-211859","Biological oxidations",1557
+"CYP2D6","R-HSA-211999","CYP2E1 reactions",1565
+"CYP2D6","R-HSA-211958","Miscellaneous substrates",1565
+"CYP2D6","R-HSA-211935","Fatty acids",1565
+"CYP2D6","R-HSA-9018677","Biosynthesis of DHA-derived SPMs",1565
+"CYP2D6","R-HSA-9018678","Biosynthesis of specialized proresolving mediators (SPMs)",1565
+"CYP2D6","R-HSA-211981","Xenobiotics",1565
+"CYP2D6","R-HSA-9749641","Aspirin ADME",1565
+"CYP2D6","R-HSA-211897","Cytochrome P450 - arranged by substrate type",1565
+"CYP2D6","R-HSA-211945","Phase I - Functionalization of compounds",1565
+"CYP2D6","R-HSA-9748784","Drug ADME",1565
+"CYP2D6","R-HSA-211859","Biological oxidations",1565
+"CYP3A4","R-HSA-9757110","Prednisone ADME",1576
+"CYP3A4","R-HSA-9018677","Biosynthesis of DHA-derived SPMs",1576
+"CYP3A4","R-HSA-5423646","Aflatoxin activation and detoxification",1576
+"CYP3A4","R-HSA-9018678","Biosynthesis of specialized proresolving mediators (SPMs)",1576
+"CYP3A4","R-HSA-211981","Xenobiotics",1576
+"CYP3A4","R-HSA-9749641","Aspirin ADME",1576
+"CYP3A4","R-HSA-211897","Cytochrome P450 - arranged by substrate type",1576
+"CYP3A4","R-HSA-211945","Phase I - Functionalization of compounds",1576
+"CYP3A4","R-HSA-9748784","Drug ADME",1576
+"CYP3A4","R-HSA-211859","Biological oxidations",1576
+"CYP3A5","R-HSA-5423646","Aflatoxin activation and detoxification",1577
+"CYP3A5","R-HSA-211981","Xenobiotics",1577
+"CYP3A5","R-HSA-211897","Cytochrome P450 - arranged by substrate type",1577
+"CYP3A5","R-HSA-211945","Phase I - Functionalization of compounds",1577
+"CYP3A5","R-HSA-211859","Biological oxidations",1577
+"EEF1A1","R-HSA-3371511","HSF1 activation",1915
+"EEF1A1","R-HSA-8876725","Protein methylation",1915
+"EEF1A1","R-HSA-9613829","Chaperone Mediated Autophagy",1915
+"EEF1A1","R-HSA-9735869","SARS-CoV-1 modulates host translation machinery",1915
+"EEF1A1","R-HSA-156902","Peptide chain elongation",1915
+"EEF1A1","R-HSA-3371556","Cellular response to heat stress",1915
+"EEF1A1","R-HSA-156842","Eukaryotic Translation Elongation",1915
+"EEF1A1","R-HSA-9692914","SARS-CoV-1-host interactions",1915
+"EEF1A1","R-HSA-9678108","SARS-CoV-1 Infection",1915
+"EEF1A1","R-HSA-9612973","Autophagy",1915
+"EEF1A1","R-HSA-72766","Translation",1915
+"EEF1A1","R-HSA-9679506","SARS-CoV Infections",1915
+"EEF1A1","R-HSA-6798695","Neutrophil degranulation",1915
+"EEF1A2","R-HSA-156842","Eukaryotic Translation Elongation",1917
+"EEF1A2","R-HSA-72766","Translation",1917
+"ELK1","R-HSA-198753","ERK/MAPK targets",2002
+"ELK1","R-HSA-9634638","Estrogen-dependent nuclear events downstream of ESR-membrane signaling",2002
+"ELK1","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",2002
+"ELK1","R-HSA-9031628","NGF-stimulated transcription",2002
+"ELK1","R-HSA-198725","Nuclear Events (kinase and transcription factor activation)",2002
+"ELK1","R-HSA-450294","MAP kinase activation",2002
+"ELK1","R-HSA-448424","Interleukin-17 signaling",2002
+"ELK1","R-HSA-9009391","Extra-nuclear estrogen signaling",2002
+"ELK1","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",2002
+"ELK1","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",2002
+"ELK1","R-HSA-975871","MyD88 cascade initiated on plasma membrane",2002
+"ELK1","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",2002
+"ELK1","R-HSA-975155","MyD88 dependent cascade initiated on endosome",2002
+"ELK1","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",2002
+"ELK1","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",2002
+"ELK1","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",2002
+"ELK1","R-HSA-166166","MyD88-independent TLR4 cascade ",2002
+"ELK1","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",2002
+"ELK1","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",2002
+"ELK1","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",2002
+"ELK1","R-HSA-187037","Signaling by NTRK1 (TRKA)",2002
+"ELK1","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",2002
+"ELK1","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",2002
+"ELK1","R-HSA-166520","Signaling by NTRKs",2002
+"ELK1","R-HSA-9609690","HCMV Early Events",2002
+"ELK1","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",2002
+"ELK1","R-HSA-9609646","HCMV Infection",2002
+"ELK1","R-HSA-168898","Toll-like Receptor Cascades",2002
+"ELK1","R-HSA-8939211","ESR-mediated signaling",2002
+"ELK1","R-HSA-9006931","Signaling by Nuclear Receptors",2002
+"F2","R-HSA-159740","Gamma-carboxylation of protein precursors",2147
+"F2","R-HSA-159782","Removal of aminoterminal propeptides from gamma-carboxylated proteins",2147
+"F2","R-HSA-159854","Gamma-carboxylation, transport, and amino-terminal cleavage of proteins",2147
+"F2","R-HSA-9651496","Defects of contact activation system (CAS) and kallikrein/kinin system (KKS)",2147
+"F2","R-HSA-9671793","Diseases of hemostasis",2147
+"F2","R-HSA-140875","Common Pathway of Fibrin Clot Formation",2147
+"F2","R-HSA-140837","Intrinsic Pathway of Fibrin Clot Formation",2147
+"F2","R-HSA-456926","Thrombin signalling through proteinase activated receptors (PARs)",2147
+"F2","R-HSA-140877","Formation of Fibrin Clot (Clotting Cascade)",2147
+"F2","R-HSA-76009","Platelet Aggregation (Plug Formation)",2147
+"F2","R-HSA-163841","Gamma carboxylation, hypusine formation and arylsulfatase activation",2147
+"F2","R-HSA-977606","Regulation of Complement cascade",2147
+"F2","R-HSA-166658","Complement cascade",2147
+"F2","R-HSA-381426","Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",2147
+"F2","R-HSA-202733","Cell surface interactions at the vascular wall",2147
+"F2","R-HSA-375276","Peptide ligand-binding receptors",2147
+"F2","R-HSA-416476","G alpha (q) signalling events",2147
+"F2","R-HSA-76002","Platelet activation, signaling and aggregation",2147
+"F2","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",2147
+"F2","R-HSA-500792","GPCR ligand binding",2147
+"FADD","R-HSA-2562578","TRIF-mediated programmed cell death",8772
+"FADD","R-HSA-3371378","Regulation by c-FLIP",8772
+"FADD","R-HSA-5218900","CASP8 activity is inhibited",8772
+"FADD","R-HSA-69416","Dimerization of procaspase-8",8772
+"FADD","R-HSA-5357786","TNFR1-induced proapoptotic signaling",8772
+"FADD","R-HSA-933543","NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10",8772
+"FADD","R-HSA-140534","Caspase activation via Death Receptors in the presence of ligand",8772
+"FADD","R-HSA-5357769","Caspase activation via extrinsic apoptotic signalling pathway",8772
+"FADD","R-HSA-5213460","RIPK1-mediated regulated necrosis",8772
+"FADD","R-HSA-5675482","Regulation of necroptotic cell death",8772
+"FADD","R-HSA-5357905","Regulation of TNFR1 signaling",8772
+"FADD","R-HSA-75893","TNF signaling",8772
+"FADD","R-HSA-5218859","Regulated Necrosis",8772
+"FADD","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",8772
+"FADD","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",8772
+"FADD","R-HSA-9645723","Diseases of programmed cell death",8772
+"FADD","R-HSA-166166","MyD88-independent TLR4 cascade ",8772
+"FADD","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",8772
+"FADD","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",8772
+"FADD","R-HSA-73887","Death Receptor Signalling",8772
+"FADD","R-HSA-168898","Toll-like Receptor Cascades",8772
+"FADD","R-HSA-109581","Apoptosis",8772
+"FADD","R-HSA-5357801","Programmed Cell Death",8772
+"FAS","R-HSA-3371378","Regulation by c-FLIP",355
+"FAS","R-HSA-5218900","CASP8 activity is inhibited",355
+"FAS","R-HSA-69416","Dimerization of procaspase-8",355
+"FAS","R-HSA-6803211","TP53 Regulates Transcription of Death Receptors and Ligands",355
+"FAS","R-HSA-140534","Caspase activation via Death Receptors in the presence of ligand",355
+"FAS","R-HSA-5357769","Caspase activation via extrinsic apoptotic signalling pathway",355
+"FAS","R-HSA-5213460","RIPK1-mediated regulated necrosis",355
+"FAS","R-HSA-5675482","Regulation of necroptotic cell death",355
+"FAS","R-HSA-5633008","TP53 Regulates Transcription of Cell Death Genes",355
+"FAS","R-HSA-5218859","Regulated Necrosis",355
+"FAS","R-HSA-73887","Death Receptor Signalling",355
+"FAS","R-HSA-109581","Apoptosis",355
+"FAS","R-HSA-5357801","Programmed Cell Death",355
+"FAS","R-HSA-3700989","Transcriptional Regulation by TP53",355
+"FASLG","R-HSA-3371378","Regulation by c-FLIP",356
+"FASLG","R-HSA-5218900","CASP8 activity is inhibited",356
+"FASLG","R-HSA-69416","Dimerization of procaspase-8",356
+"FASLG","R-HSA-9614657","FOXO-mediated transcription of cell death genes",356
+"FASLG","R-HSA-140534","Caspase activation via Death Receptors in the presence of ligand",356
+"FASLG","R-HSA-8862803","Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models",356
+"FASLG","R-HSA-8863678","Neurodegenerative Diseases",356
+"FASLG","R-HSA-9734009","Defective Intrinsic Pathway for Apoptosis",356
+"FASLG","R-HSA-5357769","Caspase activation via extrinsic apoptotic signalling pathway",356
+"FASLG","R-HSA-5213460","RIPK1-mediated regulated necrosis",356
+"FASLG","R-HSA-5669034","TNFs bind their physiological receptors",356
+"FASLG","R-HSA-5675482","Regulation of necroptotic cell death",356
+"FASLG","R-HSA-5218859","Regulated Necrosis",356
+"FASLG","R-HSA-9614085","FOXO-mediated transcription",356
+"FASLG","R-HSA-5668541","TNFR2 non-canonical NF-kB pathway",356
+"FASLG","R-HSA-9645723","Diseases of programmed cell death",356
+"FASLG","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",356
+"FASLG","R-HSA-73887","Death Receptor Signalling",356
+"FASLG","R-HSA-109581","Apoptosis",356
+"FASLG","R-HSA-5357801","Programmed Cell Death",356
+"FASLG","R-HSA-449147","Signaling by Interleukins",356
+"FCGR1A","R-HSA-2029481","FCGR activation",2209
+"FCGR1A","R-HSA-2029485","Role of phospholipids in phagocytosis",2209
+"FCGR1A","R-HSA-9664323","FCGR3A-mediated IL10 synthesis",2209
+"FCGR1A","R-HSA-1236978","Cross-presentation of soluble exogenous antigens (endosomes)",2209
+"FCGR1A","R-HSA-2029482","Regulation of actin dynamics for phagocytic cup formation",2209
+"FCGR1A","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",2209
+"FCGR1A","R-HSA-9664433","Leishmania parasite growth and survival",2209
+"FCGR1A","R-HSA-2029480","Fcgamma receptor (FCGR) dependent phagocytosis",2209
+"FCGR1A","R-HSA-877300","Interferon gamma signaling",2209
+"FCGR1A","R-HSA-1236975","Antigen processing-Cross presentation",2209
+"FCGR1A","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",2209
+"FCGR1A","R-HSA-9658195","Leishmania infection",2209
+"FCGR1A","R-HSA-913531","Interferon Signaling",2209
+"FCGR1A","R-HSA-983169","Class I MHC mediated antigen processing & presentation",2209
+"FCGR2A","R-HSA-2029481","FCGR activation",2212
+"FCGR2A","R-HSA-2029485","Role of phospholipids in phagocytosis",2212
+"FCGR2A","R-HSA-9664323","FCGR3A-mediated IL10 synthesis",2212
+"FCGR2A","R-HSA-2029482","Regulation of actin dynamics for phagocytic cup formation",2212
+"FCGR2A","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",2212
+"FCGR2A","R-HSA-9664433","Leishmania parasite growth and survival",2212
+"FCGR2A","R-HSA-2029480","Fcgamma receptor (FCGR) dependent phagocytosis",2212
+"FCGR2A","R-HSA-9658195","Leishmania infection",2212
+"FCGR2A","R-HSA-6798695","Neutrophil degranulation",2212
+"FCGR3A","R-HSA-2029481","FCGR activation",2214
+"FCGR3A","R-HSA-2029485","Role of phospholipids in phagocytosis",2214
+"FCGR3A","R-HSA-9664323","FCGR3A-mediated IL10 synthesis",2214
+"FCGR3A","R-HSA-9664407","Parasite infection",2214
+"FCGR3A","R-HSA-9664417","Leishmania phagocytosis",2214
+"FCGR3A","R-HSA-9664422","FCGR3A-mediated phagocytosis",2214
+"FCGR3A","R-HSA-2029482","Regulation of actin dynamics for phagocytic cup formation",2214
+"FCGR3A","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",2214
+"FCGR3A","R-HSA-9664433","Leishmania parasite growth and survival",2214
+"FCGR3A","R-HSA-2029480","Fcgamma receptor (FCGR) dependent phagocytosis",2214
+"FCGR3A","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",2214
+"FCGR3A","R-HSA-9658195","Leishmania infection",2214
+"FCGR3B","R-HSA-163125","Post-translational modification: synthesis of GPI-anchored proteins",124905743
+"FCGR3B","R-HSA-163125","Post-translational modification: synthesis of GPI-anchored proteins",2215
+"FCGR3B","R-HSA-6798695","Neutrophil degranulation",124905743
+"FCGR3B","R-HSA-6798695","Neutrophil degranulation",2215
+"FMO3","R-HSA-5579029","Metabolic disorders of biological oxidation enzymes",2328
+"FMO3","R-HSA-211945","Phase I - Functionalization of compounds",2328
+"FMO3","R-HSA-211859","Biological oxidations",2328
+"FMO3","R-HSA-5668914","Diseases of metabolism",2328
+"FOS","R-HSA-450341","Activation of the AP-1 family of transcription factors",2353
+"FOS","R-HSA-9768919","NPAS4 regulates expression of target genes",2353
+"FOS","R-HSA-9634638","Estrogen-dependent nuclear events downstream of ESR-membrane signaling",2353
+"FOS","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",2353
+"FOS","R-HSA-2871796","FCERI mediated MAPK activation",2353
+"FOS","R-HSA-9634815","Transcriptional Regulation by NPAS4",2353
+"FOS","R-HSA-9031628","NGF-stimulated transcription",2353
+"FOS","R-HSA-198725","Nuclear Events (kinase and transcription factor activation)",2353
+"FOS","R-HSA-6796648","TP53 Regulates Transcription of DNA Repair Genes",2353
+"FOS","R-HSA-450294","MAP kinase activation",2353
+"FOS","R-HSA-448424","Interleukin-17 signaling",2353
+"FOS","R-HSA-9009391","Extra-nuclear estrogen signaling",2353
+"FOS","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",2353
+"FOS","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",2353
+"FOS","R-HSA-975871","MyD88 cascade initiated on plasma membrane",2353
+"FOS","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",2353
+"FOS","R-HSA-975155","MyD88 dependent cascade initiated on endosome",2353
+"FOS","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",2353
+"FOS","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",2353
+"FOS","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",2353
+"FOS","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",2353
+"FOS","R-HSA-166166","MyD88-independent TLR4 cascade ",2353
+"FOS","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",2353
+"FOS","R-HSA-2559582","Senescence-Associated Secretory Phenotype (SASP)",2353
+"FOS","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",2353
+"FOS","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",2353
+"FOS","R-HSA-187037","Signaling by NTRK1 (TRKA)",2353
+"FOS","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",2353
+"FOS","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",2353
+"FOS","R-HSA-2559580","Oxidative Stress Induced Senescence",2353
+"GNA11","R-HSA-399997","Acetylcholine regulates insulin secretion",2767
+"GNA11","R-HSA-400451","Free fatty acids regulate insulin secretion",2767
+"GNA11","R-HSA-202040","G-protein activation",2767
+"GNA11","R-HSA-428930","Thromboxane signalling through TP receptor",2767
+"GNA11","R-HSA-418592","ADP signalling through P2Y purinoceptor 1",2767
+"GNA11","R-HSA-456926","Thrombin signalling through proteinase activated receptors (PARs)",2767
+"GNA11","R-HSA-392518","Signal amplification",2767
+"GNA11","R-HSA-6814122","Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding",2767
+"GNA11","R-HSA-112043","PLC beta mediated events",2767
+"GNA11","R-HSA-112040","G-protein mediated events",2767
+"GNA11","R-HSA-422356","Regulation of insulin secretion",2767
+"GNA11","R-HSA-390466","Chaperonin-mediated protein folding",2767
+"GNA11","R-HSA-111885","Opioid Signalling",2767
+"GNA11","R-HSA-391251","Protein folding",2767
+"GNA11","R-HSA-163685","Integration of energy metabolism",2767
+"GNA11","R-HSA-416476","G alpha (q) signalling events",2767
+"GNA11","R-HSA-76002","Platelet activation, signaling and aggregation",2767
+"GNA11","R-HSA-418594","G alpha (i) signalling events",2767
+"GNA14","R-HSA-399997","Acetylcholine regulates insulin secretion",9630
+"GNA14","R-HSA-400451","Free fatty acids regulate insulin secretion",9630
+"GNA14","R-HSA-202040","G-protein activation",9630
+"GNA14","R-HSA-428930","Thromboxane signalling through TP receptor",9630
+"GNA14","R-HSA-418592","ADP signalling through P2Y purinoceptor 1",9630
+"GNA14","R-HSA-456926","Thrombin signalling through proteinase activated receptors (PARs)",9630
+"GNA14","R-HSA-392518","Signal amplification",9630
+"GNA14","R-HSA-6814122","Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding",9630
+"GNA14","R-HSA-112043","PLC beta mediated events",9630
+"GNA14","R-HSA-112040","G-protein mediated events",9630
+"GNA14","R-HSA-422356","Regulation of insulin secretion",9630
+"GNA14","R-HSA-390466","Chaperonin-mediated protein folding",9630
+"GNA14","R-HSA-111885","Opioid Signalling",9630
+"GNA14","R-HSA-391251","Protein folding",9630
+"GNA14","R-HSA-163685","Integration of energy metabolism",9630
+"GNA14","R-HSA-416476","G alpha (q) signalling events",9630
+"GNA14","R-HSA-76002","Platelet activation, signaling and aggregation",9630
+"GNA14","R-HSA-418594","G alpha (i) signalling events",9630
+"GNA15","R-HSA-399997","Acetylcholine regulates insulin secretion",2769
+"GNA15","R-HSA-400451","Free fatty acids regulate insulin secretion",2769
+"GNA15","R-HSA-202040","G-protein activation",2769
+"GNA15","R-HSA-428930","Thromboxane signalling through TP receptor",2769
+"GNA15","R-HSA-418592","ADP signalling through P2Y purinoceptor 1",2769
+"GNA15","R-HSA-456926","Thrombin signalling through proteinase activated receptors (PARs)",2769
+"GNA15","R-HSA-392518","Signal amplification",2769
+"GNA15","R-HSA-6814122","Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding",2769
+"GNA15","R-HSA-112043","PLC beta mediated events",2769
+"GNA15","R-HSA-112040","G-protein mediated events",2769
+"GNA15","R-HSA-422356","Regulation of insulin secretion",2769
+"GNA15","R-HSA-390466","Chaperonin-mediated protein folding",2769
+"GNA15","R-HSA-111885","Opioid Signalling",2769
+"GNA15","R-HSA-391251","Protein folding",2769
+"GNA15","R-HSA-163685","Integration of energy metabolism",2769
+"GNA15","R-HSA-416476","G alpha (q) signalling events",2769
+"GNA15","R-HSA-76002","Platelet activation, signaling and aggregation",2769
+"GNA15","R-HSA-418594","G alpha (i) signalling events",2769
+"GNAI1","R-HSA-170670","Adenylate cyclase inhibitory pathway",2770
+"GNAI1","R-HSA-392170","ADP signalling through P2Y purinoceptor 12",2770
+"GNAI1","R-HSA-400042","Adrenaline,noradrenaline inhibits insulin secretion",2770
+"GNAI1","R-HSA-392518","Signal amplification",2770
+"GNAI1","R-HSA-9660821","ADORA2B mediated anti-inflammatory cytokines production",2770
+"GNAI1","R-HSA-977444","GABA B receptor activation",2770
+"GNAI1","R-HSA-991365","Activation of GABAB receptors",2770
+"GNAI1","R-HSA-9634597","GPER1 signaling",2770
+"GNAI1","R-HSA-418597","G alpha (z) signalling events",2770
+"GNAI1","R-HSA-112040","G-protein mediated events",2770
+"GNAI1","R-HSA-977443","GABA receptor activation",2770
+"GNAI1","R-HSA-9009391","Extra-nuclear estrogen signaling",2770
+"GNAI1","R-HSA-422356","Regulation of insulin secretion",2770
+"GNAI1","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",2770
+"GNAI1","R-HSA-9664433","Leishmania parasite growth and survival",2770
+"GNAI1","R-HSA-111885","Opioid Signalling",2770
+"GNAI1","R-HSA-163685","Integration of energy metabolism",2770
+"GNAI1","R-HSA-418555","G alpha (s) signalling events",2770
+"GNAI1","R-HSA-9658195","Leishmania infection",2770
+"GNAI1","R-HSA-112314","Neurotransmitter receptors and postsynaptic signal transmission",2770
+"GNAI1","R-HSA-8939211","ESR-mediated signaling",2770
+"GNAI1","R-HSA-76002","Platelet activation, signaling and aggregation",2770
+"GNAI1","R-HSA-112315","Transmission across Chemical Synapses",2770
+"GNAI1","R-HSA-9006931","Signaling by Nuclear Receptors",2770
+"GNAI1","R-HSA-418594","G alpha (i) signalling events",2770
+"GNAI1","R-HSA-112316","Neuronal System",2770
+"GNAI2","R-HSA-170670","Adenylate cyclase inhibitory pathway",2771
+"GNAI2","R-HSA-392170","ADP signalling through P2Y purinoceptor 12",2771
+"GNAI2","R-HSA-400042","Adrenaline,noradrenaline inhibits insulin secretion",2771
+"GNAI2","R-HSA-392518","Signal amplification",2771
+"GNAI2","R-HSA-9660821","ADORA2B mediated anti-inflammatory cytokines production",2771
+"GNAI2","R-HSA-977444","GABA B receptor activation",2771
+"GNAI2","R-HSA-991365","Activation of GABAB receptors",2771
+"GNAI2","R-HSA-9634597","GPER1 signaling",2771
+"GNAI2","R-HSA-418597","G alpha (z) signalling events",2771
+"GNAI2","R-HSA-112040","G-protein mediated events",2771
+"GNAI2","R-HSA-977443","GABA receptor activation",2771
+"GNAI2","R-HSA-9009391","Extra-nuclear estrogen signaling",2771
+"GNAI2","R-HSA-422356","Regulation of insulin secretion",2771
+"GNAI2","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",2771
+"GNAI2","R-HSA-9664433","Leishmania parasite growth and survival",2771
+"GNAI2","R-HSA-111885","Opioid Signalling",2771
+"GNAI2","R-HSA-163685","Integration of energy metabolism",2771
+"GNAI2","R-HSA-418555","G alpha (s) signalling events",2771
+"GNAI2","R-HSA-9658195","Leishmania infection",2771
+"GNAI2","R-HSA-112314","Neurotransmitter receptors and postsynaptic signal transmission",2771
+"GNAI2","R-HSA-8939211","ESR-mediated signaling",2771
+"GNAI2","R-HSA-76002","Platelet activation, signaling and aggregation",2771
+"GNAI2","R-HSA-112315","Transmission across Chemical Synapses",2771
+"GNAI2","R-HSA-9006931","Signaling by Nuclear Receptors",2771
+"GNAI2","R-HSA-418594","G alpha (i) signalling events",2771
+"GNAI2","R-HSA-112316","Neuronal System",2771
+"GNAI3","R-HSA-170670","Adenylate cyclase inhibitory pathway",2773
+"GNAI3","R-HSA-392170","ADP signalling through P2Y purinoceptor 12",2773
+"GNAI3","R-HSA-392518","Signal amplification",2773
+"GNAI3","R-HSA-9660821","ADORA2B mediated anti-inflammatory cytokines production",2773
+"GNAI3","R-HSA-977444","GABA B receptor activation",2773
+"GNAI3","R-HSA-991365","Activation of GABAB receptors",2773
+"GNAI3","R-HSA-9634597","GPER1 signaling",2773
+"GNAI3","R-HSA-418597","G alpha (z) signalling events",2773
+"GNAI3","R-HSA-112040","G-protein mediated events",2773
+"GNAI3","R-HSA-977443","GABA receptor activation",2773
+"GNAI3","R-HSA-9009391","Extra-nuclear estrogen signaling",2773
+"GNAI3","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",2773
+"GNAI3","R-HSA-9664433","Leishmania parasite growth and survival",2773
+"GNAI3","R-HSA-111885","Opioid Signalling",2773
+"GNAI3","R-HSA-418555","G alpha (s) signalling events",2773
+"GNAI3","R-HSA-9658195","Leishmania infection",2773
+"GNAI3","R-HSA-112314","Neurotransmitter receptors and postsynaptic signal transmission",2773
+"GNAI3","R-HSA-8939211","ESR-mediated signaling",2773
+"GNAI3","R-HSA-76002","Platelet activation, signaling and aggregation",2773
+"GNAI3","R-HSA-112315","Transmission across Chemical Synapses",2773
+"GNAI3","R-HSA-9006931","Signaling by Nuclear Receptors",2773
+"GNAI3","R-HSA-418594","G alpha (i) signalling events",2773
+"GNAI3","R-HSA-112316","Neuronal System",2773
+"GNAL","R-HSA-170660","Adenylate cyclase activating pathway",2774
+"GNAL","R-HSA-170670","Adenylate cyclase inhibitory pathway",2774
+"GNAL","R-HSA-977444","GABA B receptor activation",2774
+"GNAL","R-HSA-991365","Activation of GABAB receptors",2774
+"GNAL","R-HSA-112040","G-protein mediated events",2774
+"GNAL","R-HSA-977443","GABA receptor activation",2774
+"GNAL","R-HSA-111885","Opioid Signalling",2774
+"GNAL","R-HSA-112314","Neurotransmitter receptors and postsynaptic signal transmission",2774
+"GNAL","R-HSA-112315","Transmission across Chemical Synapses",2774
+"GNAL","R-HSA-418594","G alpha (i) signalling events",2774
+"GNAL","R-HSA-381753","Olfactory Signaling Pathway",2774
+"GNAL","R-HSA-112316","Neuronal System",2774
+"GNAO1","R-HSA-4086398","Ca2+ pathway",2775
+"GNAO1","R-HSA-3858494","Beta-catenin independent WNT signaling",2775
+"GNAO1","R-HSA-195721","Signaling by WNT",2775
+"GNAQ","R-HSA-399997","Acetylcholine regulates insulin secretion",2776
+"GNAQ","R-HSA-400451","Free fatty acids regulate insulin secretion",2776
+"GNAQ","R-HSA-202040","G-protein activation",2776
+"GNAQ","R-HSA-428930","Thromboxane signalling through TP receptor",2776
+"GNAQ","R-HSA-418592","ADP signalling through P2Y purinoceptor 1",2776
+"GNAQ","R-HSA-456926","Thrombin signalling through proteinase activated receptors (PARs)",2776
+"GNAQ","R-HSA-392518","Signal amplification",2776
+"GNAQ","R-HSA-6814122","Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding",2776
+"GNAQ","R-HSA-112043","PLC beta mediated events",2776
+"GNAQ","R-HSA-112040","G-protein mediated events",2776
+"GNAQ","R-HSA-422356","Regulation of insulin secretion",2776
+"GNAQ","R-HSA-390466","Chaperonin-mediated protein folding",2776
+"GNAQ","R-HSA-111885","Opioid Signalling",2776
+"GNAQ","R-HSA-391251","Protein folding",2776
+"GNAQ","R-HSA-163685","Integration of energy metabolism",2776
+"GNAQ","R-HSA-416476","G alpha (q) signalling events",2776
+"GNAQ","R-HSA-76002","Platelet activation, signaling and aggregation",2776
+"GNAQ","R-HSA-418594","G alpha (i) signalling events",2776
+"GNAS","R-HSA-164378","PKA activation in glucagon signalling",2778
+"GNAS","R-HSA-392851","Prostacyclin signalling through prostacyclin receptor",2778
+"GNAS","R-HSA-163359","Glucagon signaling in metabolic regulation",2778
+"GNAS","R-HSA-420092","Glucagon-type ligand receptors",2778
+"GNAS","R-HSA-381676","Glucagon-like Peptide-1 (GLP1) regulates insulin secretion",2778
+"GNAS","R-HSA-432040","Vasopressin regulates renal water homeostasis via Aquaporins",2778
+"GNAS","R-HSA-9660821","ADORA2B mediated anti-inflammatory cytokines production",2778
+"GNAS","R-HSA-9634597","GPER1 signaling",2778
+"GNAS","R-HSA-418597","G alpha (z) signalling events",2778
+"GNAS","R-HSA-445717","Aquaporin-mediated transport",2778
+"GNAS","R-HSA-422356","Regulation of insulin secretion",2778
+"GNAS","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",2778
+"GNAS","R-HSA-9664433","Leishmania parasite growth and survival",2778
+"GNAS","R-HSA-418346","Platelet homeostasis",2778
+"GNAS","R-HSA-373080","Class B/2 (Secretin family receptors)",2778
+"GNAS","R-HSA-163685","Integration of energy metabolism",2778
+"GNAS","R-HSA-5610787","Hedgehog 'off' state",2778
+"GNAS","R-HSA-5358351","Signaling by Hedgehog",2778
+"GNAS","R-HSA-418555","G alpha (s) signalling events",2778
+"GNAS","R-HSA-9658195","Leishmania infection",2778
+"GNAS","R-HSA-418594","G alpha (i) signalling events",2778
+"GNAS","R-HSA-500792","GPCR ligand binding",2778
+"HLA-DOA","R-HSA-2132295","MHC class II antigen presentation",3111
+"HLA-DOB","R-HSA-2132295","MHC class II antigen presentation",3112
+"HLA-DPA1","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3113
+"HLA-DPA1","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3113
+"HLA-DPA1","R-HSA-389948","PD-1 signaling",3113
+"HLA-DPA1","R-HSA-202433","Generation of second messenger molecules",3113
+"HLA-DPA1","R-HSA-388841","Costimulation by the CD28 family",3113
+"HLA-DPA1","R-HSA-877300","Interferon gamma signaling",3113
+"HLA-DPA1","R-HSA-202424","Downstream TCR signaling",3113
+"HLA-DPA1","R-HSA-202403","TCR signaling",3113
+"HLA-DPA1","R-HSA-2132295","MHC class II antigen presentation",3113
+"HLA-DPA1","R-HSA-913531","Interferon Signaling",3113
+"HLA-DPB1","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3115
+"HLA-DPB1","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3115
+"HLA-DPB1","R-HSA-389948","PD-1 signaling",3115
+"HLA-DPB1","R-HSA-202433","Generation of second messenger molecules",3115
+"HLA-DPB1","R-HSA-388841","Costimulation by the CD28 family",3115
+"HLA-DPB1","R-HSA-877300","Interferon gamma signaling",3115
+"HLA-DPB1","R-HSA-202424","Downstream TCR signaling",3115
+"HLA-DPB1","R-HSA-202403","TCR signaling",3115
+"HLA-DPB1","R-HSA-2132295","MHC class II antigen presentation",3115
+"HLA-DPB1","R-HSA-913531","Interferon Signaling",3115
+"HLA-DQA1","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3117
+"HLA-DQA1","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3117
+"HLA-DQA1","R-HSA-389948","PD-1 signaling",3117
+"HLA-DQA1","R-HSA-202433","Generation of second messenger molecules",3117
+"HLA-DQA1","R-HSA-388841","Costimulation by the CD28 family",3117
+"HLA-DQA1","R-HSA-877300","Interferon gamma signaling",3117
+"HLA-DQA1","R-HSA-202424","Downstream TCR signaling",3117
+"HLA-DQA1","R-HSA-202403","TCR signaling",3117
+"HLA-DQA1","R-HSA-2132295","MHC class II antigen presentation",3117
+"HLA-DQA1","R-HSA-913531","Interferon Signaling",3117
+"HLA-DQA2","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3118
+"HLA-DQA2","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3117
+"HLA-DQA2","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3118
+"HLA-DQA2","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3117
+"HLA-DQA2","R-HSA-389948","PD-1 signaling",3118
+"HLA-DQA2","R-HSA-389948","PD-1 signaling",3117
+"HLA-DQA2","R-HSA-202433","Generation of second messenger molecules",3118
+"HLA-DQA2","R-HSA-202433","Generation of second messenger molecules",3117
+"HLA-DQA2","R-HSA-388841","Costimulation by the CD28 family",3118
+"HLA-DQA2","R-HSA-388841","Costimulation by the CD28 family",3117
+"HLA-DQA2","R-HSA-877300","Interferon gamma signaling",3118
+"HLA-DQA2","R-HSA-877300","Interferon gamma signaling",3117
+"HLA-DQA2","R-HSA-202424","Downstream TCR signaling",3118
+"HLA-DQA2","R-HSA-202424","Downstream TCR signaling",3117
+"HLA-DQA2","R-HSA-202403","TCR signaling",3118
+"HLA-DQA2","R-HSA-202403","TCR signaling",3117
+"HLA-DQA2","R-HSA-2132295","MHC class II antigen presentation",3118
+"HLA-DQA2","R-HSA-2132295","MHC class II antigen presentation",3117
+"HLA-DQA2","R-HSA-913531","Interferon Signaling",3118
+"HLA-DQA2","R-HSA-913531","Interferon Signaling",3117
+"HLA-DQB1","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3119
+"HLA-DQB1","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3119
+"HLA-DQB1","R-HSA-389948","PD-1 signaling",3119
+"HLA-DQB1","R-HSA-202433","Generation of second messenger molecules",3119
+"HLA-DQB1","R-HSA-388841","Costimulation by the CD28 family",3119
+"HLA-DQB1","R-HSA-877300","Interferon gamma signaling",3119
+"HLA-DQB1","R-HSA-202424","Downstream TCR signaling",3119
+"HLA-DQB1","R-HSA-202403","TCR signaling",3119
+"HLA-DQB1","R-HSA-2132295","MHC class II antigen presentation",3119
+"HLA-DQB1","R-HSA-913531","Interferon Signaling",3119
+"HLA-DRA","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3122
+"HLA-DRA","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3122
+"HLA-DRA","R-HSA-389948","PD-1 signaling",3122
+"HLA-DRA","R-HSA-202433","Generation of second messenger molecules",3122
+"HLA-DRA","R-HSA-388841","Costimulation by the CD28 family",3122
+"HLA-DRA","R-HSA-877300","Interferon gamma signaling",3122
+"HLA-DRA","R-HSA-202424","Downstream TCR signaling",3122
+"HLA-DRA","R-HSA-202403","TCR signaling",3122
+"HLA-DRA","R-HSA-2132295","MHC class II antigen presentation",3122
+"HLA-DRA","R-HSA-913531","Interferon Signaling",3122
+"HLA-DRB1","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3123
+"HLA-DRB1","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3123
+"HLA-DRB1","R-HSA-389948","PD-1 signaling",3123
+"HLA-DRB1","R-HSA-202433","Generation of second messenger molecules",3123
+"HLA-DRB1","R-HSA-388841","Costimulation by the CD28 family",3123
+"HLA-DRB1","R-HSA-877300","Interferon gamma signaling",3123
+"HLA-DRB1","R-HSA-202424","Downstream TCR signaling",3123
+"HLA-DRB1","R-HSA-202403","TCR signaling",3123
+"HLA-DRB1","R-HSA-2132295","MHC class II antigen presentation",3123
+"HLA-DRB1","R-HSA-913531","Interferon Signaling",3123
+"HLA-DRB3","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3125
+"HLA-DRB3","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3125
+"HLA-DRB3","R-HSA-389948","PD-1 signaling",3125
+"HLA-DRB3","R-HSA-202433","Generation of second messenger molecules",3125
+"HLA-DRB3","R-HSA-388841","Costimulation by the CD28 family",3125
+"HLA-DRB3","R-HSA-877300","Interferon gamma signaling",3125
+"HLA-DRB3","R-HSA-202424","Downstream TCR signaling",3125
+"HLA-DRB3","R-HSA-202403","TCR signaling",3125
+"HLA-DRB3","R-HSA-2132295","MHC class II antigen presentation",3125
+"HLA-DRB3","R-HSA-913531","Interferon Signaling",3125
+"HLA-DRB4","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3126
+"HLA-DRB4","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3126
+"HLA-DRB4","R-HSA-389948","PD-1 signaling",3126
+"HLA-DRB4","R-HSA-202433","Generation of second messenger molecules",3126
+"HLA-DRB4","R-HSA-388841","Costimulation by the CD28 family",3126
+"HLA-DRB4","R-HSA-877300","Interferon gamma signaling",3126
+"HLA-DRB4","R-HSA-202424","Downstream TCR signaling",3126
+"HLA-DRB4","R-HSA-202403","TCR signaling",3126
+"HLA-DRB4","R-HSA-2132295","MHC class II antigen presentation",3126
+"HLA-DRB4","R-HSA-913531","Interferon Signaling",3126
+"HLA-DRB5","R-HSA-202430","Translocation of ZAP-70 to Immunological synapse",3127
+"HLA-DRB5","R-HSA-202427","Phosphorylation of CD3 and TCR zeta chains",3127
+"HLA-DRB5","R-HSA-389948","PD-1 signaling",3127
+"HLA-DRB5","R-HSA-202433","Generation of second messenger molecules",3127
+"HLA-DRB5","R-HSA-388841","Costimulation by the CD28 family",3127
+"HLA-DRB5","R-HSA-877300","Interferon gamma signaling",3127
+"HLA-DRB5","R-HSA-202424","Downstream TCR signaling",3127
+"HLA-DRB5","R-HSA-202403","TCR signaling",3127
+"HLA-DRB5","R-HSA-2132295","MHC class II antigen presentation",3127
+"HLA-DRB5","R-HSA-913531","Interferon Signaling",3127
+"IFNB1","R-HSA-918233","TRAF3-dependent IRF activation pathway",3456
+"IFNB1","R-HSA-912694","Regulation of IFNA/IFNB signaling",3456
+"IFNB1","R-HSA-933541","TRAF6 mediated IRF7 activation",3456
+"IFNB1","R-HSA-909733","Interferon alpha/beta signaling",3456
+"IFNB1","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",3456
+"IFNB1","R-HSA-2559580","Oxidative Stress Induced Senescence",3456
+"IFNB1","R-HSA-9705671","SARS-CoV-2 activates/modulates innate and adaptive immune responses",3456
+"IFNB1","R-HSA-983231","Factors involved in megakaryocyte development and platelet production",3456
+"IFNB1","R-HSA-2559583","Cellular Senescence",3456
+"IFNB1","R-HSA-913531","Interferon Signaling",3456
+"IFNB1","R-HSA-9705683","SARS-CoV-2-host interactions",3456
+"IFNB1","R-HSA-9694516","SARS-CoV-2 Infection",3456
+"IFNB1","R-HSA-9679506","SARS-CoV Infections",3456
+"IFNG","R-HSA-8877330","RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)",3458
+"IFNG","R-HSA-877312","Regulation of IFNG signaling",3458
+"IFNG","R-HSA-8950505","Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation",3458
+"IFNG","R-HSA-9020591","Interleukin-12 signaling",3458
+"IFNG","R-HSA-447115","Interleukin-12 family signaling",3458
+"IFNG","R-HSA-877300","Interferon gamma signaling",3458
+"IFNG","R-HSA-913531","Interferon Signaling",3458
+"IFNG","R-HSA-8878171","Transcriptional regulation by RUNX1",3458
+"IFNG","R-HSA-449147","Signaling by Interleukins",3458
+"IFNGR1","R-HSA-877312","Regulation of IFNG signaling",3459
+"IFNGR1","R-HSA-877300","Interferon gamma signaling",3459
+"IFNGR1","R-HSA-9679191","Potential therapeutics for SARS",3459
+"IFNGR1","R-HSA-913531","Interferon Signaling",3459
+"IFNGR1","R-HSA-9679506","SARS-CoV Infections",3459
+"IFNGR2","R-HSA-877312","Regulation of IFNG signaling",3460
+"IFNGR2","R-HSA-877300","Interferon gamma signaling",3460
+"IFNGR2","R-HSA-9679191","Potential therapeutics for SARS",3460
+"IFNGR2","R-HSA-913531","Interferon Signaling",3460
+"IFNGR2","R-HSA-9679506","SARS-CoV Infections",3460
+"IKBKB","R-HSA-209543","p75NTR recruits signalling complexes",3551
+"IKBKB","R-HSA-209560","NF-kB is activated and signals survival",3551
+"IKBKB","R-HSA-933543","NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10",3551
+"IKBKB","R-HSA-937039","IRAK1 recruits IKK complex",3551
+"IKBKB","R-HSA-975144","IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation",3551
+"IKBKB","R-HSA-193639","p75NTR signals via NF-kB",3551
+"IKBKB","R-HSA-5684264","MAP3K8 (TPL2)-dependent MAPK1/3 activation",3551
+"IKBKB","R-HSA-1810476","RIP-mediated NFkB activation via ZBP1",3551
+"IKBKB","R-HSA-9758274","Regulation of NF-kappa B signaling",3551
+"IKBKB","R-HSA-168927","TICAM1, RIP1-mediated IKK complex recruitment",3551
+"IKBKB","R-HSA-1606322","ZBP1(DAI) mediated induction of type I IFNs",3551
+"IKBKB","R-HSA-933542","TRAF6 mediated NF-kB activation",3551
+"IKBKB","R-HSA-937041","IKK complex recruitment mediated by RIP1",3551
+"IKBKB","R-HSA-5357956","TNFR1-induced NFkappaB signaling pathway",3551
+"IKBKB","R-HSA-5260271","Diseases of Immune System",3551
+"IKBKB","R-HSA-5602358","Diseases associated with the TLR signaling cascade",3551
+"IKBKB","R-HSA-168638","NOD1/2 Signaling Pathway",3551
+"IKBKB","R-HSA-5357905","Regulation of TNFR1 signaling",3551
+"IKBKB","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",3551
+"IKBKB","R-HSA-75893","TNF signaling",3551
+"IKBKB","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",3551
+"IKBKB","R-HSA-1834949","Cytosolic sensors of pathogen-associated DNA ",3551
+"IKBKB","R-HSA-450294","MAP kinase activation",3551
+"IKBKB","R-HSA-1169091","Activation of NF-kappaB in B cells",3551
+"IKBKB","R-HSA-448424","Interleukin-17 signaling",3551
+"IKBKB","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",3551
+"IKBKB","R-HSA-2871837","FCERI mediated NF-kB activation",3551
+"IKBKB","R-HSA-1168372","Downstream signaling events of B Cell Receptor (BCR)",3551
+"IKBKB","R-HSA-1236974","ER-Phagosome pathway",3551
+"IKBKB","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",3551
+"IKBKG","R-HSA-4755510","SUMOylation of immune response proteins",8517
+"IKBKG","R-HSA-933543","NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10",8517
+"IKBKG","R-HSA-937039","IRAK1 recruits IKK complex",8517
+"IKBKG","R-HSA-975144","IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation",8517
+"IKBKG","R-HSA-5684264","MAP3K8 (TPL2)-dependent MAPK1/3 activation",8517
+"IKBKG","R-HSA-1810476","RIP-mediated NFkB activation via ZBP1",8517
+"IKBKG","R-HSA-9758274","Regulation of NF-kappa B signaling",8517
+"IKBKG","R-HSA-168927","TICAM1, RIP1-mediated IKK complex recruitment",8517
+"IKBKG","R-HSA-1606322","ZBP1(DAI) mediated induction of type I IFNs",8517
+"IKBKG","R-HSA-450321","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",8517
+"IKBKG","R-HSA-450302","activated TAK1 mediates p38 MAPK activation",8517
+"IKBKG","R-HSA-933542","TRAF6 mediated NF-kB activation",8517
+"IKBKG","R-HSA-937041","IKK complex recruitment mediated by RIP1",8517
+"IKBKG","R-HSA-5357956","TNFR1-induced NFkappaB signaling pathway",8517
+"IKBKG","R-HSA-5260271","Diseases of Immune System",8517
+"IKBKG","R-HSA-5602358","Diseases associated with the TLR signaling cascade",8517
+"IKBKG","R-HSA-168638","NOD1/2 Signaling Pathway",8517
+"IKBKG","R-HSA-5689896","Ovarian tumor domain proteases",8517
+"IKBKG","R-HSA-5357905","Regulation of TNFR1 signaling",8517
+"IKBKG","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",8517
+"IKBKG","R-HSA-75893","TNF signaling",8517
+"IKBKG","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",8517
+"IKBKG","R-HSA-1834949","Cytosolic sensors of pathogen-associated DNA ",8517
+"IKBKG","R-HSA-450294","MAP kinase activation",8517
+"IKBKG","R-HSA-1169091","Activation of NF-kappaB in B cells",8517
+"IKBKG","R-HSA-448424","Interleukin-17 signaling",8517
+"IKBKG","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",8517
+"IKBKG","R-HSA-2871837","FCERI mediated NF-kB activation",8517
+"IKBKG","R-HSA-1168372","Downstream signaling events of B Cell Receptor (BCR)",8517
+"IKBKG","R-HSA-1236974","ER-Phagosome pathway",8517
+"IL10","R-HSA-8950505","Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation",3586
+"IL10","R-HSA-9664323","FCGR3A-mediated IL10 synthesis",3586
+"IL10","R-HSA-6783783","Interleukin-10 signaling",3586
+"IL10","R-HSA-9020591","Interleukin-12 signaling",3586
+"IL10","R-HSA-447115","Interleukin-12 family signaling",3586
+"IL10","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",3586
+"IL10","R-HSA-9664433","Leishmania parasite growth and survival",3586
+"IL10","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3586
+"IL10","R-HSA-9658195","Leishmania infection",3586
+"IL10","R-HSA-449147","Signaling by Interleukins",3586
+"IL12A","R-HSA-8984722","Interleukin-35 Signalling",3592
+"IL12A","R-HSA-6783783","Interleukin-10 signaling",3592
+"IL12A","R-HSA-9020591","Interleukin-12 signaling",3592
+"IL12A","R-HSA-447115","Interleukin-12 family signaling",3592
+"IL12A","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3592
+"IL12A","R-HSA-449147","Signaling by Interleukins",3592
+"IL12B","R-HSA-6783783","Interleukin-10 signaling",3593
+"IL12B","R-HSA-9020591","Interleukin-12 signaling",3593
+"IL12B","R-HSA-447115","Interleukin-12 family signaling",3593
+"IL12B","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3593
+"IL12B","R-HSA-449147","Signaling by Interleukins",3593
+"IL1A","R-HSA-9660826","Purinergic signaling in leishmaniasis infection",3552
+"IL1A","R-HSA-9664424","Cell recruitment (pro-inflammatory response)",3552
+"IL1A","R-HSA-5620971","Pyroptosis",3552
+"IL1A","R-HSA-6783783","Interleukin-10 signaling",3552
+"IL1A","R-HSA-5218859","Regulated Necrosis",3552
+"IL1A","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3552
+"IL1A","R-HSA-2559582","Senescence-Associated Secretory Phenotype (SASP)",3552
+"IL1A","R-HSA-9020702","Interleukin-1 signaling",3552
+"IL1A","R-HSA-446652","Interleukin-1 family signaling",3552
+"IL1A","R-HSA-9658195","Leishmania infection",3552
+"IL1A","R-HSA-2559583","Cellular Senescence",3552
+"IL1A","R-HSA-5357801","Programmed Cell Death",3552
+"IL1A","R-HSA-449147","Signaling by Interleukins",3552
+"IL1B","R-HSA-9660826","Purinergic signaling in leishmaniasis infection",3553
+"IL1B","R-HSA-9664424","Cell recruitment (pro-inflammatory response)",3553
+"IL1B","R-HSA-5620971","Pyroptosis",3553
+"IL1B","R-HSA-6783783","Interleukin-10 signaling",3553
+"IL1B","R-HSA-5218859","Regulated Necrosis",3553
+"IL1B","R-HSA-5607764","CLEC7A (Dectin-1) signaling",3553
+"IL1B","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3553
+"IL1B","R-HSA-9020702","Interleukin-1 signaling",3553
+"IL1B","R-HSA-5621481","C-type lectin receptors (CLRs)",3553
+"IL1B","R-HSA-446652","Interleukin-1 family signaling",3553
+"IL1B","R-HSA-9658195","Leishmania infection",3553
+"IL1B","R-HSA-5357801","Programmed Cell Death",3553
+"IL1B","R-HSA-449147","Signaling by Interleukins",3553
+"IL2","R-HSA-8877330","RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)",3558
+"IL2","R-HSA-9020558","Interleukin-2 signaling",3558
+"IL2","R-HSA-912526","Interleukin receptor SHC signaling",3558
+"IL2","R-HSA-451927","Interleukin-2 family signaling",3558
+"IL2","R-HSA-512988","Interleukin-3, Interleukin-5 and GM-CSF signaling",3558
+"IL2","R-HSA-8878171","Transcriptional regulation by RUNX1",3558
+"IL2","R-HSA-5673001","RAF/MAP kinase cascade",3558
+"IL2","R-HSA-5684996","MAPK1/MAPK3 signaling",3558
+"IL2","R-HSA-5683057","MAPK family signaling cascades",3558
+"IL2","R-HSA-449147","Signaling by Interleukins",3558
+"IL4","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3565
+"IL4","R-HSA-446652","Interleukin-1 family signaling",3565
+"IL4","R-HSA-449147","Signaling by Interleukins",3565
+"IL6","R-HSA-110056","MAPK3 (ERK1) activation",3569
+"IL6","R-HSA-1059683","Interleukin-6 signaling",3569
+"IL6","R-HSA-112409","RAF-independent MAPK1/3 activation",3569
+"IL6","R-HSA-6783589","Interleukin-6 family signaling",3569
+"IL6","R-HSA-8853884","Transcriptional Regulation by VENTX",3569
+"IL6","R-HSA-9660821","ADORA2B mediated anti-inflammatory cytokines production",3569
+"IL6","R-HSA-6783783","Interleukin-10 signaling",3569
+"IL6","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",3569
+"IL6","R-HSA-9664433","Leishmania parasite growth and survival",3569
+"IL6","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3569
+"IL6","R-HSA-8957275","Post-translational protein phosphorylation",3569
+"IL6","R-HSA-2559582","Senescence-Associated Secretory Phenotype (SASP)",3569
+"IL6","R-HSA-381426","Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",3569
+"IL6","R-HSA-9658195","Leishmania infection",3569
+"IL6","R-HSA-2559583","Cellular Senescence",3569
+"IL6","R-HSA-5684996","MAPK1/MAPK3 signaling",3569
+"IL6","R-HSA-5683057","MAPK family signaling cascades",3569
+"IL6","R-HSA-449147","Signaling by Interleukins",3569
+"IRAK1","R-HSA-209543","p75NTR recruits signalling complexes",3654
+"IRAK1","R-HSA-209560","NF-kB is activated and signals survival",3654
+"IRAK1","R-HSA-975110","TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling",3654
+"IRAK1","R-HSA-937039","IRAK1 recruits IKK complex",3654
+"IRAK1","R-HSA-975144","IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation",3654
+"IRAK1","R-HSA-193639","p75NTR signals via NF-kB",3654
+"IRAK1","R-HSA-450321","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",3654
+"IRAK1","R-HSA-450302","activated TAK1 mediates p38 MAPK activation",3654
+"IRAK1","R-HSA-168638","NOD1/2 Signaling Pathway",3654
+"IRAK1","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",3654
+"IRAK1","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",3654
+"IRAK1","R-HSA-8986944","Transcriptional Regulation by MECP2",3654
+"IRAK1","R-HSA-450294","MAP kinase activation",3654
+"IRAK1","R-HSA-448424","Interleukin-17 signaling",3654
+"IRAK1","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",3654
+"IRAK1","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",3654
+"IRAK1","R-HSA-193704","p75 NTR receptor-mediated signalling",3654
+"IRAK1","R-HSA-975871","MyD88 cascade initiated on plasma membrane",3654
+"IRAK1","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",3654
+"IRAK1","R-HSA-975155","MyD88 dependent cascade initiated on endosome",3654
+"IRAK1","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",3654
+"IRAK1","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",3654
+"IRAK1","R-HSA-6811558","PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",3654
+"IRAK1","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",3654
+"IRAK1","R-HSA-166166","MyD88-independent TLR4 cascade ",3654
+"IRAK1","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",3654
+"IRAK1","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",3654
+"IRAK1","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",3654
+"IRAK1","R-HSA-199418","Negative regulation of the PI3K/AKT network",3654
+"IRAK1","R-HSA-9020702","Interleukin-1 signaling",3654
+"IRAK4","R-HSA-975110","TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling",51135
+"IRAK4","R-HSA-5603041","IRAK4 deficiency (TLR2/4)",51135
+"IRAK4","R-HSA-5260271","Diseases of Immune System",51135
+"IRAK4","R-HSA-5602358","Diseases associated with the TLR signaling cascade",51135
+"IRAK4","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",51135
+"IRAK4","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",51135
+"IRAK4","R-HSA-975871","MyD88 cascade initiated on plasma membrane",51135
+"IRAK4","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",51135
+"IRAK4","R-HSA-975155","MyD88 dependent cascade initiated on endosome",51135
+"IRAK4","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",51135
+"IRAK4","R-HSA-6811558","PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",51135
+"IRAK4","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",51135
+"IRAK4","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",51135
+"IRAK4","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",51135
+"IRAK4","R-HSA-199418","Negative regulation of the PI3K/AKT network",51135
+"IRAK4","R-HSA-9020702","Interleukin-1 signaling",51135
+"IRAK4","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",51135
+"IRAK4","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",51135
+"IRAK4","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",51135
+"IRAK4","R-HSA-446652","Interleukin-1 family signaling",51135
+"IRAK4","R-HSA-168898","Toll-like Receptor Cascades",51135
+"IRAK4","R-HSA-1257604","PIP3 activates AKT signaling",51135
+"IRAK4","R-HSA-9006925","Intracellular signaling by second messengers",51135
+"IRAK4","R-HSA-449147","Signaling by Interleukins",51135
+"ITGA4","R-HSA-216083","Integrin cell surface interactions",3676
+"ITGA4","R-HSA-8878159","Transcriptional regulation by RUNX3",3676
+"ITGA4","R-HSA-9679191","Potential therapeutics for SARS",3676
+"ITGA4","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",3676
+"ITGA4","R-HSA-202733","Cell surface interactions at the vascular wall",3676
+"ITGA4","R-HSA-1474244","Extracellular matrix organization",3676
+"ITGA4","R-HSA-9679506","SARS-CoV Infections",3676
+"ITGAM","R-HSA-216083","Integrin cell surface interactions",3684
+"ITGAM","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3684
+"ITGAM","R-HSA-202733","Cell surface interactions at the vascular wall",3684
+"ITGAM","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",3684
+"ITGAM","R-HSA-168898","Toll-like Receptor Cascades",3684
+"ITGAM","R-HSA-1474244","Extracellular matrix organization",3684
+"ITGAM","R-HSA-449147","Signaling by Interleukins",3684
+"ITGAM","R-HSA-6798695","Neutrophil degranulation",3684
+"ITGB1","R-HSA-75892","Platelet Adhesion to exposed collagen",3688
+"ITGB1","R-HSA-446353","Cell-extracellular matrix interactions",3688
+"ITGB1","R-HSA-416700","Other semaphorin interactions",3688
+"ITGB1","R-HSA-445144","Signal transduction by L1",3688
+"ITGB1","R-HSA-210991","Basigin interactions",3688
+"ITGB1","R-HSA-3000170","Syndecan interactions",3688
+"ITGB1","R-HSA-3000157","Laminin interactions",3688
+"ITGB1","R-HSA-8874081","MET activates PTK2 signaling",3688
+"ITGB1","R-HSA-2129379","Molecules associated with elastic fibres",3688
+"ITGB1","R-HSA-8875878","MET promotes cell motility",3688
+"ITGB1","R-HSA-1566948","Elastic fibre formation",3688
+"ITGB1","R-HSA-9634597","GPER1 signaling",3688
+"ITGB1","R-HSA-2173789","TGF-beta receptor signaling activates SMADs",3688
+"ITGB1","R-HSA-3000171","Non-integrin membrane-ECM interactions",3688
+"ITGB1","R-HSA-373755","Semaphorin interactions",3688
+"ITGB1","R-HSA-9013408","RHOG GTPase cycle",3688
+"ITGB1","R-HSA-3000178","ECM proteoglycans",3688
+"ITGB1","R-HSA-6806834","Signaling by MET",3688
+"ITGB1","R-HSA-216083","Integrin cell surface interactions",3688
+"ITGB1","R-HSA-9013404","RAC2 GTPase cycle",3688
+"ITGB1","R-HSA-446728","Cell junction organization",3688
+"ITGB1","R-HSA-170834","Signaling by TGF-beta Receptor Complex",3688
+"ITGB1","R-HSA-9013423","RAC3 GTPase cycle",3688
+"ITGB1","R-HSA-9679191","Potential therapeutics for SARS",3688
+"ITGB1","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3688
+"ITGB1","R-HSA-373760","L1CAM interactions",3688
+"ITGB1","R-HSA-9006936","Signaling by TGFB family members",3688
+"ITGB1","R-HSA-1500931","Cell-Cell communication",3688
+"ITGB1","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",3688
+"ITGB1","R-HSA-9609690","HCMV Early Events",3688
+"ITGB2","R-HSA-216083","Integrin cell surface interactions",3689
+"ITGB2","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3689
+"ITGB2","R-HSA-198933","Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",3689
+"ITGB2","R-HSA-202733","Cell surface interactions at the vascular wall",3689
+"ITGB2","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",3689
+"ITGB2","R-HSA-168898","Toll-like Receptor Cascades",3689
+"ITGB2","R-HSA-1474244","Extracellular matrix organization",3689
+"ITGB2","R-HSA-449147","Signaling by Interleukins",3689
+"ITGB2","R-HSA-6798695","Neutrophil degranulation",3689
+"JAK1","R-HSA-110056","MAPK3 (ERK1) activation",3716
+"JAK1","R-HSA-9020958","Interleukin-21 signaling",3716
+"JAK1","R-HSA-1059683","Interleukin-6 signaling",3716
+"JAK1","R-HSA-9020956","Interleukin-27 signaling",3716
+"JAK1","R-HSA-8984722","Interleukin-35 Signalling",3716
+"JAK1","R-HSA-9020558","Interleukin-2 signaling",3716
+"JAK1","R-HSA-877312","Regulation of IFNG signaling",3716
+"JAK1","R-HSA-8983432","Interleukin-15 signaling",3716
+"JAK1","R-HSA-6788467","IL-6-type cytokine receptor ligand interactions",3716
+"JAK1","R-HSA-112409","RAF-independent MAPK1/3 activation",3716
+"JAK1","R-HSA-449836","Other interleukin signaling",3716
+"JAK1","R-HSA-6783589","Interleukin-6 family signaling",3716
+"JAK1","R-HSA-8854691","Interleukin-20 family signaling",3716
+"JAK1","R-HSA-9705462","Inactivation of CSF3 (G-CSF) signaling",3716
+"JAK1","R-HSA-912694","Regulation of IFNA/IFNB signaling",3716
+"JAK1","R-HSA-912526","Interleukin receptor SHC signaling",3716
+"JAK1","R-HSA-9674555","Signaling by CSF3 (G-CSF)",3716
+"JAK1","R-HSA-1266695","Interleukin-7 signaling",3716
+"JAK1","R-HSA-451927","Interleukin-2 family signaling",3716
+"JAK1","R-HSA-6783783","Interleukin-10 signaling",3716
+"JAK1","R-HSA-9020591","Interleukin-12 signaling",3716
+"JAK1","R-HSA-512988","Interleukin-3, Interleukin-5 and GM-CSF signaling",3716
+"JAK1","R-HSA-447115","Interleukin-12 family signaling",3716
+"JAK1","R-HSA-1169408","ISG15 antiviral mechanism",3716
+"JAK1","R-HSA-909733","Interferon alpha/beta signaling",3716
+"JAK1","R-HSA-1169410","Antiviral mechanism by IFN-stimulated genes",3716
+"JAK1","R-HSA-877300","Interferon gamma signaling",3716
+"JAK1","R-HSA-9679191","Potential therapeutics for SARS",3716
+"JAK1","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",3716
+"JAK1","R-HSA-9705671","SARS-CoV-2 activates/modulates innate and adaptive immune responses",3716
+"JAK2","R-HSA-110056","MAPK3 (ERK1) activation",3717
+"JAK2","R-HSA-1059683","Interleukin-6 signaling",3717
+"JAK2","R-HSA-2586552","Signaling by Leptin",3717
+"JAK2","R-HSA-9020956","Interleukin-27 signaling",3717
+"JAK2","R-HSA-8984722","Interleukin-35 Signalling",3717
+"JAK2","R-HSA-9027276","Erythropoietin activates Phosphoinositide-3-kinase (PI3K)",3717
+"JAK2","R-HSA-877312","Regulation of IFNG signaling",3717
+"JAK2","R-HSA-9027284","Erythropoietin activates RAS",3717
+"JAK2","R-HSA-1170546","Prolactin receptor signaling",3717
+"JAK2","R-HSA-6788467","IL-6-type cytokine receptor ligand interactions",3717
+"JAK2","R-HSA-9669938","Signaling by KIT in disease",3717
+"JAK2","R-HSA-9670439","Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",3717
+"JAK2","R-HSA-112409","RAF-independent MAPK1/3 activation",3717
+"JAK2","R-HSA-6783589","Interleukin-6 family signaling",3717
+"JAK2","R-HSA-982772","Growth hormone receptor signaling",3717
+"JAK2","R-HSA-8854691","Interleukin-20 family signaling",3717
+"JAK2","R-HSA-9006335","Signaling by Erythropoietin",3717
+"JAK2","R-HSA-9705462","Inactivation of CSF3 (G-CSF) signaling",3717
+"JAK2","R-HSA-912526","Interleukin receptor SHC signaling",3717
+"JAK2","R-HSA-9674555","Signaling by CSF3 (G-CSF)",3717
+"JAK2","R-HSA-5673000","RAF activation",3717
+"JAK2","R-HSA-1433557","Signaling by SCF-KIT",3717
+"JAK2","R-HSA-9656223","Signaling by RAF1 mutants",3717
+"JAK2","R-HSA-451927","Interleukin-2 family signaling",3717
+"JAK2","R-HSA-6802946","Signaling by moderate kinase activity BRAF mutants",3717
+"JAK2","R-HSA-6802949","Signaling by RAS mutants",3717
+"JAK2","R-HSA-6802955","Paradoxical activation of RAF signaling by kinase inactive BRAF",3717
+"JAK2","R-HSA-69231","Cyclin D associated events in G1",3717
+"JAK2","R-HSA-69236","G1 Phase",3717
+"JAK2","R-HSA-9020591","Interleukin-12 signaling",3717
+"JUN","R-HSA-450341","Activation of the AP-1 family of transcription factors",3725
+"JUN","R-HSA-9664420","Killing mechanisms",3725
+"JUN","R-HSA-9673324","WNT5:FZD7-mediated leishmania damping",3725
+"JUN","R-HSA-8862803","Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models",3725
+"JUN","R-HSA-8863678","Neurodegenerative Diseases",3725
+"JUN","R-HSA-9734009","Defective Intrinsic Pathway for Apoptosis",3725
+"JUN","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",3725
+"JUN","R-HSA-2871796","FCERI mediated MAPK activation",3725
+"JUN","R-HSA-8943724","Regulation of PTEN gene transcription",3725
+"JUN","R-HSA-6796648","TP53 Regulates Transcription of DNA Repair Genes",3725
+"JUN","R-HSA-450294","MAP kinase activation",3725
+"JUN","R-HSA-448424","Interleukin-17 signaling",3725
+"JUN","R-HSA-5687128","MAPK6/MAPK4 signaling",3725
+"JUN","R-HSA-1912408","Pre-NOTCH Transcription and Translation",3725
+"JUN","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",3725
+"JUN","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",3725
+"JUN","R-HSA-975871","MyD88 cascade initiated on plasma membrane",3725
+"JUN","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",3725
+"JUN","R-HSA-975155","MyD88 dependent cascade initiated on endosome",3725
+"JUN","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",3725
+"JUN","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",3725
+"JUN","R-HSA-9645723","Diseases of programmed cell death",3725
+"JUN","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",3725
+"JUN","R-HSA-1912422","Pre-NOTCH Expression and Processing",3725
+"JUN","R-HSA-166166","MyD88-independent TLR4 cascade ",3725
+"JUN","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",3725
+"JUN","R-HSA-2559582","Senescence-Associated Secretory Phenotype (SASP)",3725
+"JUN","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",3725
+"JUN","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",3725
+"JUN","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",3725
+"KNG1","R-HSA-140837","Intrinsic Pathway of Fibrin Clot Formation",3827
+"KNG1","R-HSA-140877","Formation of Fibrin Clot (Clotting Cascade)",3827
+"KNG1","R-HSA-8957275","Post-translational protein phosphorylation",3827
+"KNG1","R-HSA-381426","Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)",3827
+"KNG1","R-HSA-114608","Platelet degranulation ",3827
+"KNG1","R-HSA-76005","Response to elevated platelet cytosolic Ca2+",3827
+"KNG1","R-HSA-375276","Peptide ligand-binding receptors",3827
+"KNG1","R-HSA-416476","G alpha (q) signalling events",3827
+"KNG1","R-HSA-76002","Platelet activation, signaling and aggregation",3827
+"KNG1","R-HSA-418594","G alpha (i) signalling events",3827
+"KNG1","R-HSA-373076","Class A/1 (Rhodopsin-like receptors)",3827
+"KNG1","R-HSA-500792","GPCR ligand binding",3827
+"MAP2K4","R-HSA-5210891","Uptake and function of anthrax toxins",6416
+"MAP2K4","R-HSA-5684264","MAP3K8 (TPL2)-dependent MAPK1/3 activation",6416
+"MAP2K4","R-HSA-450321","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",6416
+"MAP2K4","R-HSA-5339562","Uptake and actions of bacterial toxins",6416
+"MAP2K4","R-HSA-2871796","FCERI mediated MAPK activation",6416
+"MAP2K4","R-HSA-450294","MAP kinase activation",6416
+"MAP2K4","R-HSA-448424","Interleukin-17 signaling",6416
+"MAP2K4","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",6416
+"MAP2K4","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",6416
+"MAP2K4","R-HSA-975871","MyD88 cascade initiated on plasma membrane",6416
+"MAP2K4","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",6416
+"MAP2K4","R-HSA-975155","MyD88 dependent cascade initiated on endosome",6416
+"MAP2K4","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",6416
+"MAP2K4","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",6416
+"MAP2K4","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",6416
+"MAP2K4","R-HSA-166166","MyD88-independent TLR4 cascade ",6416
+"MAP2K4","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",6416
+"MAP2K4","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",6416
+"MAP2K4","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",6416
+"MAP2K4","R-HSA-9020702","Interleukin-1 signaling",6416
+"MAP2K4","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",6416
+"MAP2K4","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",6416
+"MAP2K4","R-HSA-2559580","Oxidative Stress Induced Senescence",6416
+"MAP2K4","R-HSA-2454202","Fc epsilon receptor (FCERI) signaling",6416
+"MAP2K4","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",6416
+"MAP2K4","R-HSA-446652","Interleukin-1 family signaling",6416
+"MAP2K4","R-HSA-168898","Toll-like Receptor Cascades",6416
+"MAP2K4","R-HSA-2559583","Cellular Senescence",6416
+"MAP2K4","R-HSA-449147","Signaling by Interleukins",6416
+"MAP3K7","R-HSA-937042","IRAK2 mediated activation of TAK1 complex",6885
+"MAP3K7","R-HSA-9014325","TICAM1,TRAF6-dependent induction of TAK1 complex",6885
+"MAP3K7","R-HSA-9645460","Alpha-protein kinase 1 signaling pathway",6885
+"MAP3K7","R-HSA-975163","IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation",6885
+"MAP3K7","R-HSA-937072","TRAF6-mediated induction of TAK1 complex within TLR4 complex",6885
+"MAP3K7","R-HSA-450321","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",6885
+"MAP3K7","R-HSA-450302","activated TAK1 mediates p38 MAPK activation",6885
+"MAP3K7","R-HSA-5357956","TNFR1-induced NFkappaB signaling pathway",6885
+"MAP3K7","R-HSA-168638","NOD1/2 Signaling Pathway",6885
+"MAP3K7","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",6885
+"MAP3K7","R-HSA-75893","TNF signaling",6885
+"MAP3K7","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",6885
+"MAP3K7","R-HSA-4086398","Ca2+ pathway",6885
+"MAP3K7","R-HSA-450294","MAP kinase activation",6885
+"MAP3K7","R-HSA-1169091","Activation of NF-kappaB in B cells",6885
+"MAP3K7","R-HSA-448424","Interleukin-17 signaling",6885
+"MAP3K7","R-HSA-2871837","FCERI mediated NF-kB activation",6885
+"MAP3K7","R-HSA-1168372","Downstream signaling events of B Cell Receptor (BCR)",6885
+"MAP3K7","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",6885
+"MAP3K7","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",6885
+"MAP3K7","R-HSA-975871","MyD88 cascade initiated on plasma membrane",6885
+"MAP3K7","R-HSA-202424","Downstream TCR signaling",6885
+"MAP3K7","R-HSA-5607764","CLEC7A (Dectin-1) signaling",6885
+"MAP3K7","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",6885
+"MAP3K7","R-HSA-975155","MyD88 dependent cascade initiated on endosome",6885
+"MAP3K7","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",6885
+"MAP3K7","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",6885
+"MAP3K7","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",6885
+"MAP3K7","R-HSA-166166","MyD88-independent TLR4 cascade ",6885
+"MAP3K7","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",6885
+"MAPK1","R-HSA-450341","Activation of the AP-1 family of transcription factors",5594
+"MAPK1","R-HSA-74749","Signal attenuation",5594
+"MAPK1","R-HSA-111458","Formation of apoptosome",5594
+"MAPK1","R-HSA-9627069","Regulation of the apoptosome activity",5594
+"MAPK1","R-HSA-170968","Frs2-mediated activation",5594
+"MAPK1","R-HSA-111461","Cytochrome c-mediated apoptotic response",5594
+"MAPK1","R-HSA-202670","ERKs are inactivated",5594
+"MAPK1","R-HSA-879415","Advanced glycosylation endproduct receptor signaling",5594
+"MAPK1","R-HSA-162658","Golgi Cisternae Pericentriolar Stack Reorganization",5594
+"MAPK1","R-HSA-169893","Prolonged ERK activation events",5594
+"MAPK1","R-HSA-1502540","Signaling by Activin",5594
+"MAPK1","R-HSA-1295596","Spry regulation of FGF signaling",5594
+"MAPK1","R-HSA-881907","Gastrin-CREB signalling pathway via PKC and MAPK",5594
+"MAPK1","R-HSA-9725371","Nuclear events stimulated by ALK signaling in cancer",5594
+"MAPK1","R-HSA-111471","Apoptotic factor-mediated response",5594
+"MAPK1","R-HSA-445144","Signal transduction by L1",5594
+"MAPK1","R-HSA-1181150","Signaling by NODAL",5594
+"MAPK1","R-HSA-198753","ERK/MAPK targets",5594
+"MAPK1","R-HSA-9768919","NPAS4 regulates expression of target genes",5594
+"MAPK1","R-HSA-112409","RAF-independent MAPK1/3 activation",5594
+"MAPK1","R-HSA-9637690","Response of Mtb to phagocytosis",5594
+"MAPK1","R-HSA-5668599","RHO GTPases Activate NADPH Oxidases",5594
+"MAPK1","R-HSA-8940973","RUNX2 regulates osteoblast differentiation",5594
+"MAPK1","R-HSA-9634638","Estrogen-dependent nuclear events downstream of ESR-membrane signaling",5594
+"MAPK1","R-HSA-982772","Growth hormone receptor signaling",5594
+"MAPK1","R-HSA-9635486","Infection with Mycobacterium tuberculosis",5594
+"MAPK1","R-HSA-442742","CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling",5594
+"MAPK1","R-HSA-5654732","Negative regulation of FGFR3 signaling",5594
+"MAPK1","R-HSA-2173795","Downregulation of SMAD2/3:SMAD4 transcriptional activity",5594
+"MAPK1","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",5594
+"MAPK10","R-HSA-450341","Activation of the AP-1 family of transcription factors",5602
+"MAPK10","R-HSA-450321","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",5602
+"MAPK10","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",5602
+"MAPK10","R-HSA-2871796","FCERI mediated MAPK activation",5602
+"MAPK10","R-HSA-450294","MAP kinase activation",5602
+"MAPK10","R-HSA-448424","Interleukin-17 signaling",5602
+"MAPK10","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",5602
+"MAPK10","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",5602
+"MAPK10","R-HSA-975871","MyD88 cascade initiated on plasma membrane",5602
+"MAPK10","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",5602
+"MAPK10","R-HSA-975155","MyD88 dependent cascade initiated on endosome",5602
+"MAPK10","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",5602
+"MAPK10","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",5602
+"MAPK10","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",5602
+"MAPK10","R-HSA-166166","MyD88-independent TLR4 cascade ",5602
+"MAPK10","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",5602
+"MAPK10","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",5602
+"MAPK10","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",5602
+"MAPK10","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",5602
+"MAPK10","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",5602
+"MAPK10","R-HSA-2559580","Oxidative Stress Induced Senescence",5602
+"MAPK10","R-HSA-2454202","Fc epsilon receptor (FCERI) signaling",5602
+"MAPK10","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",5602
+"MAPK10","R-HSA-168898","Toll-like Receptor Cascades",5602
+"MAPK10","R-HSA-2559583","Cellular Senescence",5602
+"MAPK10","R-HSA-449147","Signaling by Interleukins",5602
+"MAPK11","R-HSA-2151209","Activation of PPARGC1A (PGC-1alpha) by phosphorylation",5600
+"MAPK11","R-HSA-450341","Activation of the AP-1 family of transcription factors",5600
+"MAPK11","R-HSA-376172","DSCAM interactions",5600
+"MAPK11","R-HSA-171007","p38MAPK events",5600
+"MAPK11","R-HSA-450604","KSRP (KHSRP) binds and destabilizes mRNA",5600
+"MAPK11","R-HSA-167044","Signalling to RAS",5600
+"MAPK11","R-HSA-198753","ERK/MAPK targets",5600
+"MAPK11","R-HSA-450302","activated TAK1 mediates p38 MAPK activation",5600
+"MAPK11","R-HSA-5668599","RHO GTPases Activate NADPH Oxidases",5600
+"MAPK11","R-HSA-525793","Myogenesis",5600
+"MAPK11","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",5600
+"MAPK11","R-HSA-187687","Signalling to ERKs",5600
+"MAPK11","R-HSA-168638","NOD1/2 Signaling Pathway",5600
+"MAPK11","R-HSA-373752","Netrin-1 signaling",5600
+"MAPK11","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",5600
+"MAPK11","R-HSA-198725","Nuclear Events (kinase and transcription factor activation)",5600
+"MAPK11","R-HSA-450294","MAP kinase activation",5600
+"MAPK11","R-HSA-448424","Interleukin-17 signaling",5600
+"MAPK11","R-HSA-450531","Regulation of mRNA stability by proteins that bind AU-rich elements",5600
+"MAPK11","R-HSA-6804756","Regulation of TP53 Activity through Phosphorylation",5600
+"MAPK11","R-HSA-1592230","Mitochondrial biogenesis",5600
+"MAPK11","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",5600
+"MAPK11","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",5600
+"MAPK11","R-HSA-975871","MyD88 cascade initiated on plasma membrane",5600
+"MAPK11","R-HSA-4420097","VEGFA-VEGFR2 Pathway",5600
+"MAPK11","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",5600
+"MAPK11","R-HSA-975155","MyD88 dependent cascade initiated on endosome",5600
+"MAPK11","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",5600
+"MAPK11","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",5600
+"MAPK11","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",5600
+"MAPK12","R-HSA-2151209","Activation of PPARGC1A (PGC-1alpha) by phosphorylation",6300
+"MAPK12","R-HSA-376172","DSCAM interactions",6300
+"MAPK12","R-HSA-171007","p38MAPK events",6300
+"MAPK12","R-HSA-167044","Signalling to RAS",6300
+"MAPK12","R-HSA-525793","Myogenesis",6300
+"MAPK12","R-HSA-187687","Signalling to ERKs",6300
+"MAPK12","R-HSA-168638","NOD1/2 Signaling Pathway",6300
+"MAPK12","R-HSA-5675221","Negative regulation of MAPK pathway",6300
+"MAPK12","R-HSA-373752","Netrin-1 signaling",6300
+"MAPK12","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",6300
+"MAPK12","R-HSA-1592230","Mitochondrial biogenesis",6300
+"MAPK12","R-HSA-4420097","VEGFA-VEGFR2 Pathway",6300
+"MAPK12","R-HSA-194138","Signaling by VEGF",6300
+"MAPK12","R-HSA-187037","Signaling by NTRK1 (TRKA)",6300
+"MAPK12","R-HSA-166520","Signaling by NTRKs",6300
+"MAPK12","R-HSA-5673001","RAF/MAP kinase cascade",6300
+"MAPK12","R-HSA-5684996","MAPK1/MAPK3 signaling",6300
+"MAPK12","R-HSA-1852241","Organelle biogenesis and maintenance",6300
+"MAPK12","R-HSA-5683057","MAPK family signaling cascades",6300
+"MAPK13","R-HSA-376172","DSCAM interactions",5603
+"MAPK13","R-HSA-171007","p38MAPK events",5603
+"MAPK13","R-HSA-167044","Signalling to RAS",5603
+"MAPK13","R-HSA-187687","Signalling to ERKs",5603
+"MAPK13","R-HSA-168638","NOD1/2 Signaling Pathway",5603
+"MAPK13","R-HSA-373752","Netrin-1 signaling",5603
+"MAPK13","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",5603
+"MAPK13","R-HSA-4420097","VEGFA-VEGFR2 Pathway",5603
+"MAPK13","R-HSA-194138","Signaling by VEGF",5603
+"MAPK13","R-HSA-187037","Signaling by NTRK1 (TRKA)",5603
+"MAPK13","R-HSA-166520","Signaling by NTRKs",5603
+"MAPK14","R-HSA-2151209","Activation of PPARGC1A (PGC-1alpha) by phosphorylation",1432
+"MAPK14","R-HSA-450341","Activation of the AP-1 family of transcription factors",1432
+"MAPK14","R-HSA-376172","DSCAM interactions",1432
+"MAPK14","R-HSA-171007","p38MAPK events",1432
+"MAPK14","R-HSA-432142","Platelet sensitization by LDL",1432
+"MAPK14","R-HSA-450604","KSRP (KHSRP) binds and destabilizes mRNA",1432
+"MAPK14","R-HSA-167044","Signalling to RAS",1432
+"MAPK14","R-HSA-198753","ERK/MAPK targets",1432
+"MAPK14","R-HSA-450302","activated TAK1 mediates p38 MAPK activation",1432
+"MAPK14","R-HSA-5668599","RHO GTPases Activate NADPH Oxidases",1432
+"MAPK14","R-HSA-418592","ADP signalling through P2Y purinoceptor 1",1432
+"MAPK14","R-HSA-525793","Myogenesis",1432
+"MAPK14","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",1432
+"MAPK14","R-HSA-392518","Signal amplification",1432
+"MAPK14","R-HSA-187687","Signalling to ERKs",1432
+"MAPK14","R-HSA-168638","NOD1/2 Signaling Pathway",1432
+"MAPK14","R-HSA-373752","Netrin-1 signaling",1432
+"MAPK14","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",1432
+"MAPK14","R-HSA-198725","Nuclear Events (kinase and transcription factor activation)",1432
+"MAPK14","R-HSA-450294","MAP kinase activation",1432
+"MAPK14","R-HSA-448424","Interleukin-17 signaling",1432
+"MAPK14","R-HSA-9662851","Anti-inflammatory response favouring Leishmania parasite infection",1432
+"MAPK14","R-HSA-9664433","Leishmania parasite growth and survival",1432
+"MAPK14","R-HSA-418346","Platelet homeostasis",1432
+"MAPK14","R-HSA-450531","Regulation of mRNA stability by proteins that bind AU-rich elements",1432
+"MAPK14","R-HSA-6804756","Regulation of TP53 Activity through Phosphorylation",1432
+"MAPK14","R-HSA-1592230","Mitochondrial biogenesis",1432
+"MAPK14","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",1432
+"MAPK14","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",1432
+"MAPK14","R-HSA-975871","MyD88 cascade initiated on plasma membrane",1432
+"MAPK3","R-HSA-110056","MAPK3 (ERK1) activation",5595
+"MAPK3","R-HSA-450341","Activation of the AP-1 family of transcription factors",5595
+"MAPK3","R-HSA-74749","Signal attenuation",5595
+"MAPK3","R-HSA-111458","Formation of apoptosome",5595
+"MAPK3","R-HSA-9627069","Regulation of the apoptosome activity",5595
+"MAPK3","R-HSA-170968","Frs2-mediated activation",5595
+"MAPK3","R-HSA-111461","Cytochrome c-mediated apoptotic response",5595
+"MAPK3","R-HSA-202670","ERKs are inactivated",5595
+"MAPK3","R-HSA-879415","Advanced glycosylation endproduct receptor signaling",5595
+"MAPK3","R-HSA-162658","Golgi Cisternae Pericentriolar Stack Reorganization",5595
+"MAPK3","R-HSA-169893","Prolonged ERK activation events",5595
+"MAPK3","R-HSA-1502540","Signaling by Activin",5595
+"MAPK3","R-HSA-1295596","Spry regulation of FGF signaling",5595
+"MAPK3","R-HSA-881907","Gastrin-CREB signalling pathway via PKC and MAPK",5595
+"MAPK3","R-HSA-9725371","Nuclear events stimulated by ALK signaling in cancer",5595
+"MAPK3","R-HSA-111471","Apoptotic factor-mediated response",5595
+"MAPK3","R-HSA-445144","Signal transduction by L1",5595
+"MAPK3","R-HSA-1181150","Signaling by NODAL",5595
+"MAPK3","R-HSA-198753","ERK/MAPK targets",5595
+"MAPK3","R-HSA-9768919","NPAS4 regulates expression of target genes",5595
+"MAPK3","R-HSA-112409","RAF-independent MAPK1/3 activation",5595
+"MAPK3","R-HSA-9637690","Response of Mtb to phagocytosis",5595
+"MAPK3","R-HSA-5668599","RHO GTPases Activate NADPH Oxidases",5595
+"MAPK3","R-HSA-8940973","RUNX2 regulates osteoblast differentiation",5595
+"MAPK3","R-HSA-9634638","Estrogen-dependent nuclear events downstream of ESR-membrane signaling",5595
+"MAPK3","R-HSA-982772","Growth hormone receptor signaling",5595
+"MAPK3","R-HSA-9635486","Infection with Mycobacterium tuberculosis",5595
+"MAPK3","R-HSA-442742","CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling",5595
+"MAPK3","R-HSA-5654732","Negative regulation of FGFR3 signaling",5595
+"MAPK3","R-HSA-2173795","Downregulation of SMAD2/3:SMAD4 transcriptional activity",5595
+"MAPK8","R-HSA-450341","Activation of the AP-1 family of transcription factors",5599
+"MAPK8","R-HSA-376172","DSCAM interactions",5599
+"MAPK8","R-HSA-9664420","Killing mechanisms",5599
+"MAPK8","R-HSA-9673324","WNT5:FZD7-mediated leishmania damping",5599
+"MAPK8","R-HSA-205043","NRIF signals cell death from the nucleus",5599
+"MAPK8","R-HSA-450321","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",5599
+"MAPK8","R-HSA-114452","Activation of BH3-only proteins",5599
+"MAPK8","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",5599
+"MAPK8","R-HSA-2871796","FCERI mediated MAPK activation",5599
+"MAPK8","R-HSA-373752","Netrin-1 signaling",5599
+"MAPK8","R-HSA-109606","Intrinsic Pathway for Apoptosis",5599
+"MAPK8","R-HSA-193648","NRAGE signals death through JNK",5599
+"MAPK8","R-HSA-450294","MAP kinase activation",5599
+"MAPK8","R-HSA-448424","Interleukin-17 signaling",5599
+"MAPK8","R-HSA-204998","Cell death signalling via NRAGE, NRIF and NADE",5599
+"MAPK8","R-HSA-5693565","Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",5599
+"MAPK8","R-HSA-5693606","DNA Double Strand Break Response",5599
+"MAPK8","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",5599
+"MAPK8","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",5599
+"MAPK8","R-HSA-193704","p75 NTR receptor-mediated signalling",5599
+"MAPK8","R-HSA-975871","MyD88 cascade initiated on plasma membrane",5599
+"MAPK8","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",5599
+"MAPK8","R-HSA-975155","MyD88 dependent cascade initiated on endosome",5599
+"MAPK8","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",5599
+"MAPK8","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",5599
+"MAPK8","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",5599
+"MAPK8","R-HSA-166166","MyD88-independent TLR4 cascade ",5599
+"MAPK8","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",5599
+"MAPK8","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",5599
+"MAPK8","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",5599
+"MAPK9","R-HSA-450341","Activation of the AP-1 family of transcription factors",5601
+"MAPK9","R-HSA-450321","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",5601
+"MAPK9","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",5601
+"MAPK9","R-HSA-2871796","FCERI mediated MAPK activation",5601
+"MAPK9","R-HSA-450294","MAP kinase activation",5601
+"MAPK9","R-HSA-448424","Interleukin-17 signaling",5601
+"MAPK9","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",5601
+"MAPK9","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",5601
+"MAPK9","R-HSA-975871","MyD88 cascade initiated on plasma membrane",5601
+"MAPK9","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",5601
+"MAPK9","R-HSA-975155","MyD88 dependent cascade initiated on endosome",5601
+"MAPK9","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",5601
+"MAPK9","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",5601
+"MAPK9","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",5601
+"MAPK9","R-HSA-166166","MyD88-independent TLR4 cascade ",5601
+"MAPK9","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",5601
+"MAPK9","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",5601
+"MAPK9","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",5601
+"MAPK9","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",5601
+"MAPK9","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",5601
+"MAPK9","R-HSA-2559580","Oxidative Stress Induced Senescence",5601
+"MAPK9","R-HSA-2454202","Fc epsilon receptor (FCERI) signaling",5601
+"MAPK9","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",5601
+"MAPK9","R-HSA-168898","Toll-like Receptor Cascades",5601
+"MAPK9","R-HSA-2559583","Cellular Senescence",5601
+"MAPK9","R-HSA-449147","Signaling by Interleukins",5601
+"MYD88","R-HSA-209543","p75NTR recruits signalling complexes",4615
+"MYD88","R-HSA-975110","TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling",4615
+"MYD88","R-HSA-193639","p75NTR signals via NF-kB",4615
+"MYD88","R-HSA-1810476","RIP-mediated NFkB activation via ZBP1",4615
+"MYD88","R-HSA-5602498","MyD88 deficiency (TLR2/4)",4615
+"MYD88","R-HSA-5603041","IRAK4 deficiency (TLR2/4)",4615
+"MYD88","R-HSA-1606322","ZBP1(DAI) mediated induction of type I IFNs",4615
+"MYD88","R-HSA-5260271","Diseases of Immune System",4615
+"MYD88","R-HSA-5602358","Diseases associated with the TLR signaling cascade",4615
+"MYD88","R-HSA-1834949","Cytosolic sensors of pathogen-associated DNA ",4615
+"MYD88","R-HSA-1236974","ER-Phagosome pathway",4615
+"MYD88","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",4615
+"MYD88","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",4615
+"MYD88","R-HSA-193704","p75 NTR receptor-mediated signalling",4615
+"MYD88","R-HSA-975871","MyD88 cascade initiated on plasma membrane",4615
+"MYD88","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",4615
+"MYD88","R-HSA-975155","MyD88 dependent cascade initiated on endosome",4615
+"MYD88","R-HSA-1236975","Antigen processing-Cross presentation",4615
+"MYD88","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",4615
+"MYD88","R-HSA-6811558","PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",4615
+"MYD88","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",4615
+"MYD88","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",4615
+"MYD88","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",4615
+"MYD88","R-HSA-199418","Negative regulation of the PI3K/AKT network",4615
+"MYD88","R-HSA-9020702","Interleukin-1 signaling",4615
+"MYD88","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",4615
+"MYD88","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",4615
+"MYD88","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",4615
+"MYD88","R-HSA-73887","Death Receptor Signalling",4615
+"MYD88","R-HSA-446652","Interleukin-1 family signaling",4615
+"NCF1","R-HSA-5668599","RHO GTPases Activate NADPH Oxidases",653361
+"NCF1","R-HSA-1222556","ROS and RNS production in phagocytes",653361
+"NCF1","R-HSA-3299685","Detoxification of Reactive Oxygen Species",653361
+"NCF1","R-HSA-9013404","RAC2 GTPase cycle",653361
+"NCF1","R-HSA-9013423","RAC3 GTPase cycle",653361
+"NCF1","R-HSA-4420097","VEGFA-VEGFR2 Pathway",653361
+"NCF1","R-HSA-1236975","Antigen processing-Cross presentation",653361
+"NCF1","R-HSA-194138","Signaling by VEGF",653361
+"NCF1","R-HSA-9013149","RAC1 GTPase cycle",653361
+"NCF1","R-HSA-9711123","Cellular response to chemical stress",653361
+"NCF1","R-HSA-195258","RHO GTPase Effectors",653361
+"NCF1","R-HSA-983169","Class I MHC mediated antigen processing & presentation",653361
+"NCF1","R-HSA-9012999","RHO GTPase cycle",653361
+"NCF2","R-HSA-5668599","RHO GTPases Activate NADPH Oxidases",4688
+"NCF2","R-HSA-1222556","ROS and RNS production in phagocytes",4688
+"NCF2","R-HSA-3299685","Detoxification of Reactive Oxygen Species",4688
+"NCF2","R-HSA-9013404","RAC2 GTPase cycle",4688
+"NCF2","R-HSA-9013423","RAC3 GTPase cycle",4688
+"NCF2","R-HSA-4420097","VEGFA-VEGFR2 Pathway",4688
+"NCF2","R-HSA-1236975","Antigen processing-Cross presentation",4688
+"NCF2","R-HSA-194138","Signaling by VEGF",4688
+"NCF2","R-HSA-9013149","RAC1 GTPase cycle",4688
+"NCF2","R-HSA-9711123","Cellular response to chemical stress",4688
+"NCF2","R-HSA-195258","RHO GTPase Effectors",4688
+"NCF2","R-HSA-983169","Class I MHC mediated antigen processing & presentation",4688
+"NCF2","R-HSA-9012999","RHO GTPase cycle",4688
+"NCF4","R-HSA-5668599","RHO GTPases Activate NADPH Oxidases",4689
+"NCF4","R-HSA-1222556","ROS and RNS production in phagocytes",4689
+"NCF4","R-HSA-3299685","Detoxification of Reactive Oxygen Species",4689
+"NCF4","R-HSA-9013404","RAC2 GTPase cycle",4689
+"NCF4","R-HSA-9013423","RAC3 GTPase cycle",4689
+"NCF4","R-HSA-4420097","VEGFA-VEGFR2 Pathway",4689
+"NCF4","R-HSA-1236975","Antigen processing-Cross presentation",4689
+"NCF4","R-HSA-194138","Signaling by VEGF",4689
+"NCF4","R-HSA-9013149","RAC1 GTPase cycle",4689
+"NCF4","R-HSA-9711123","Cellular response to chemical stress",4689
+"NCF4","R-HSA-195258","RHO GTPase Effectors",4689
+"NCF4","R-HSA-983169","Class I MHC mediated antigen processing & presentation",4689
+"NCF4","R-HSA-9012999","RHO GTPase cycle",4689
+"NFKB1","R-HSA-193692","Regulated proteolysis of p75NTR",4790
+"NFKB1","R-HSA-209560","NF-kB is activated and signals survival",4790
+"NFKB1","R-HSA-193639","p75NTR signals via NF-kB",4790
+"NFKB1","R-HSA-5684264","MAP3K8 (TPL2)-dependent MAPK1/3 activation",4790
+"NFKB1","R-HSA-844456","The NLRP3 inflammasome",4790
+"NFKB1","R-HSA-1810476","RIP-mediated NFkB activation via ZBP1",4790
+"NFKB1","R-HSA-1606322","ZBP1(DAI) mediated induction of type I IFNs",4790
+"NFKB1","R-HSA-5621575","CD209 (DC-SIGN) signaling",4790
+"NFKB1","R-HSA-622312","Inflammasomes",4790
+"NFKB1","R-HSA-933542","TRAF6 mediated NF-kB activation",4790
+"NFKB1","R-HSA-9660826","Purinergic signaling in leishmaniasis infection",4790
+"NFKB1","R-HSA-9664424","Cell recruitment (pro-inflammatory response)",4790
+"NFKB1","R-HSA-5260271","Diseases of Immune System",4790
+"NFKB1","R-HSA-5602358","Diseases associated with the TLR signaling cascade",4790
+"NFKB1","R-HSA-8853884","Transcriptional Regulation by VENTX",4790
+"NFKB1","R-HSA-9692916","SARS-CoV-1 activates/modulates innate immune responses",4790
+"NFKB1","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",4790
+"NFKB1","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",4790
+"NFKB1","R-HSA-1834949","Cytosolic sensors of pathogen-associated DNA ",4790
+"NFKB1","R-HSA-450294","MAP kinase activation",4790
+"NFKB1","R-HSA-1169091","Activation of NF-kappaB in B cells",4790
+"NFKB1","R-HSA-3214841","PKMTs methylate histone lysines",4790
+"NFKB1","R-HSA-448424","Interleukin-17 signaling",4790
+"NFKB1","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",4790
+"NFKB1","R-HSA-2871837","FCERI mediated NF-kB activation",4790
+"NFKB1","R-HSA-1168372","Downstream signaling events of B Cell Receptor (BCR)",4790
+"NFKB1","R-HSA-381340","Transcriptional regulation of white adipocyte differentiation",4790
+"NFKB1","R-HSA-9692914","SARS-CoV-1-host interactions",4790
+"NFKB1","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",4790
+"NFKB1","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",4790
+"NFKBIA","R-HSA-4755510","SUMOylation of immune response proteins",4792
+"NFKBIA","R-HSA-209560","NF-kB is activated and signals survival",4792
+"NFKBIA","R-HSA-193639","p75NTR signals via NF-kB",4792
+"NFKBIA","R-HSA-1810476","RIP-mediated NFkB activation via ZBP1",4792
+"NFKBIA","R-HSA-1606322","ZBP1(DAI) mediated induction of type I IFNs",4792
+"NFKBIA","R-HSA-933542","TRAF6 mediated NF-kB activation",4792
+"NFKBIA","R-HSA-5260271","Diseases of Immune System",4792
+"NFKBIA","R-HSA-5602358","Diseases associated with the TLR signaling cascade",4792
+"NFKBIA","R-HSA-9692916","SARS-CoV-1 activates/modulates innate immune responses",4792
+"NFKBIA","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",4792
+"NFKBIA","R-HSA-1834949","Cytosolic sensors of pathogen-associated DNA ",4792
+"NFKBIA","R-HSA-1169091","Activation of NF-kappaB in B cells",4792
+"NFKBIA","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",4792
+"NFKBIA","R-HSA-2871837","FCERI mediated NF-kB activation",4792
+"NFKBIA","R-HSA-1168372","Downstream signaling events of B Cell Receptor (BCR)",4792
+"NFKBIA","R-HSA-9692914","SARS-CoV-1-host interactions",4792
+"NFKBIA","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",4792
+"NFKBIA","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",4792
+"NFKBIA","R-HSA-193704","p75 NTR receptor-mediated signalling",4792
+"NFKBIA","R-HSA-975871","MyD88 cascade initiated on plasma membrane",4792
+"NFKBIA","R-HSA-202424","Downstream TCR signaling",4792
+"NFKBIA","R-HSA-5607764","CLEC7A (Dectin-1) signaling",4792
+"NFKBIA","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",4792
+"NFKBIA","R-HSA-975155","MyD88 dependent cascade initiated on endosome",4792
+"NFKBIA","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",4792
+"NFKBIA","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",4792
+"NFKBIA","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",4792
+"NFKBIA","R-HSA-166166","MyD88-independent TLR4 cascade ",4792
+"NFKBIA","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",4792
+"NFKBIA","R-HSA-983705","Signaling by the B Cell Receptor (BCR)",4792
+"NFKBIB","R-HSA-1810476","RIP-mediated NFkB activation via ZBP1",4793
+"NFKBIB","R-HSA-1606322","ZBP1(DAI) mediated induction of type I IFNs",4793
+"NFKBIB","R-HSA-933542","TRAF6 mediated NF-kB activation",4793
+"NFKBIB","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",4793
+"NFKBIB","R-HSA-1834949","Cytosolic sensors of pathogen-associated DNA ",4793
+"NFKBIB","R-HSA-1169091","Activation of NF-kappaB in B cells",4793
+"NFKBIB","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",4793
+"NFKBIB","R-HSA-1168372","Downstream signaling events of B Cell Receptor (BCR)",4793
+"NFKBIB","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",4793
+"NFKBIB","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",4793
+"NFKBIB","R-HSA-975871","MyD88 cascade initiated on plasma membrane",4793
+"NFKBIB","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",4793
+"NFKBIB","R-HSA-975155","MyD88 dependent cascade initiated on endosome",4793
+"NFKBIB","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",4793
+"NFKBIB","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",4793
+"NFKBIB","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",4793
+"NFKBIB","R-HSA-166166","MyD88-independent TLR4 cascade ",4793
+"NFKBIB","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",4793
+"NFKBIB","R-HSA-983705","Signaling by the B Cell Receptor (BCR)",4793
+"NFKBIB","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",4793
+"NFKBIB","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",4793
+"NFKBIB","R-HSA-9020702","Interleukin-1 signaling",4793
+"NFKBIB","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",4793
+"NFKBIB","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",4793
+"NFKBIB","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",4793
+"NFKBIB","R-HSA-446652","Interleukin-1 family signaling",4793
+"NFKBIB","R-HSA-168898","Toll-like Receptor Cascades",4793
+"NFKBIB","R-HSA-449147","Signaling by Interleukins",4793
+"NOS2","R-HSA-9637687","Suppression of phagosomal maturation",4843
+"NOS2","R-HSA-392154","Nitric oxide stimulates guanylate cyclase",4843
+"NOS2","R-HSA-9637690","Response of Mtb to phagocytosis",4843
+"NOS2","R-HSA-9635486","Infection with Mycobacterium tuberculosis",4843
+"NOS2","R-HSA-1222556","ROS and RNS production in phagocytes",4843
+"NOS2","R-HSA-9033241","Peroxisomal protein import",4843
+"NOS2","R-HSA-418346","Platelet homeostasis",4843
+"NOS2","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",4843
+"NOS2","R-HSA-9609507","Protein localization",4843
+"NOS2","R-HSA-449147","Signaling by Interleukins",4843
+"ODC1","R-HSA-350562","Regulation of ornithine decarboxylase (ODC)",4953
+"ODC1","R-HSA-351202","Metabolism of polyamines",4953
+"ODC1","R-HSA-71291","Metabolism of amino acids and derivatives",4953
+"PIK3CA","R-HSA-1250342","PI3K events in ERBB4 signaling",5290
+"PIK3CA","R-HSA-5655291","Signaling by FGFR4 in disease",5290
+"PIK3CA","R-HSA-9027276","Erythropoietin activates Phosphoinositide-3-kinase (PI3K)",5290
+"PIK3CA","R-HSA-9673767","Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants",5290
+"PIK3CA","R-HSA-9673770","Signaling by PDGFRA extracellular domain mutants",5290
+"PIK3CA","R-HSA-5637810","Constitutive Signaling by EGFRvIII",5290
+"PIK3CA","R-HSA-5637812","Signaling by EGFRvIII in Cancer",5290
+"PIK3CA","R-HSA-1963642","PI3K events in ERBB2 signaling",5290
+"PIK3CA","R-HSA-2730905","Role of LAT2/NTAL/LAB on calcium mobilization",5290
+"PIK3CA","R-HSA-9665348","Signaling by ERBB2 ECD mutants",5290
+"PIK3CA","R-HSA-9703648","Signaling by FLT3 ITD and TKD mutants",5290
+"PIK3CA","R-HSA-180292","GAB1 signalosome",5290
+"PIK3CA","R-HSA-9034015","Signaling by NTRK3 (TRKC)",5290
+"PIK3CA","R-HSA-1839117","Signaling by cytosolic FGFR1 fusion mutants",5290
+"PIK3CA","R-HSA-210993","Tie2 Signaling",5290
+"PIK3CA","R-HSA-5654710","PI-3K cascade:FGFR3",5290
+"PIK3CA","R-HSA-1236382","Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants",5290
+"PIK3CA","R-HSA-5637815","Signaling by Ligand-Responsive EGFR Variants in Cancer",5290
+"PIK3CA","R-HSA-9703465","Signaling by FLT3 fusion proteins",5290
+"PIK3CA","R-HSA-5654720","PI-3K cascade:FGFR4",5290
+"PIK3CA","R-HSA-9669938","Signaling by KIT in disease",5290
+"PIK3CA","R-HSA-9670439","Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",5290
+"PIK3CA","R-HSA-9671555","Signaling by PDGFR in disease",5290
+"PIK3CA","R-HSA-5654689","PI-3K cascade:FGFR1",5290
+"PIK3CA","R-HSA-389357","CD28 dependent PI3K/Akt signaling",5290
+"PIK3CA","R-HSA-5655332","Signaling by FGFR3 in disease",5290
+"PIK3CA","R-HSA-912631","Regulation of signaling by CBL",5290
+"PIK3CA","R-HSA-373753","Nephrin family interactions",5290
+"PIK3CA","R-HSA-5654695","PI-3K cascade:FGFR2",5290
+"PIK3CA","R-HSA-1643713","Signaling by EGFR in Cancer",5290
+"PIK3CB","R-HSA-9027276","Erythropoietin activates Phosphoinositide-3-kinase (PI3K)",5291
+"PIK3CB","R-HSA-9673767","Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants",5291
+"PIK3CB","R-HSA-9673770","Signaling by PDGFRA extracellular domain mutants",5291
+"PIK3CB","R-HSA-2730905","Role of LAT2/NTAL/LAB on calcium mobilization",5291
+"PIK3CB","R-HSA-210993","Tie2 Signaling",5291
+"PIK3CB","R-HSA-9671555","Signaling by PDGFR in disease",5291
+"PIK3CB","R-HSA-912631","Regulation of signaling by CBL",5291
+"PIK3CB","R-HSA-373753","Nephrin family interactions",5291
+"PIK3CB","R-HSA-2029485","Role of phospholipids in phagocytosis",5291
+"PIK3CB","R-HSA-9006335","Signaling by Erythropoietin",5291
+"PIK3CB","R-HSA-201556","Signaling by ALK",5291
+"PIK3CB","R-HSA-912526","Interleukin receptor SHC signaling",5291
+"PIK3CB","R-HSA-186763","Downstream signal transduction",5291
+"PIK3CB","R-HSA-2424491","DAP12 signaling",5291
+"PIK3CB","R-HSA-114604","GPVI-mediated activation cascade",5291
+"PIK3CB","R-HSA-8853659","RET signaling",5291
+"PIK3CB","R-HSA-109704","PI3K Cascade",5291
+"PIK3CB","R-HSA-451927","Interleukin-2 family signaling",5291
+"PIK3CB","R-HSA-2172127","DAP12 interactions",5291
+"PIK3CB","R-HSA-112399","IRS-mediated signalling",5291
+"PIK3CB","R-HSA-512988","Interleukin-3, Interleukin-5 and GM-CSF signaling",5291
+"PIK3CB","R-HSA-2428928","IRS-related events triggered by IGF1R",5291
+"PIK3CB","R-HSA-1660499","Synthesis of PIPs at the plasma membrane",5291
+"PIK3CB","R-HSA-2428924","IGF1R signaling cascade",5291
+"PIK3CB","R-HSA-2404192","Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)",5291
+"PIK3CB","R-HSA-74751","Insulin receptor signalling cascade",5291
+"PIK3CB","R-HSA-186797","Signaling by PDGF",5291
+"PIK3CB","R-HSA-2219530","Constitutive Signaling by Aberrant PI3K in Cancer",5291
+"PIK3CB","R-HSA-74752","Signaling by Insulin receptor",5291
+"PIK3CB","R-HSA-1483255","PI Metabolism",5291
+"PIK3CD","R-HSA-9027276","Erythropoietin activates Phosphoinositide-3-kinase (PI3K)",5293
+"PIK3CD","R-HSA-912631","Regulation of signaling by CBL",5293
+"PIK3CD","R-HSA-9006335","Signaling by Erythropoietin",5293
+"PIK3CD","R-HSA-912526","Interleukin receptor SHC signaling",5293
+"PIK3CD","R-HSA-983695","Antigen activates B Cell Receptor (BCR) leading to generation of second messengers",5293
+"PIK3CD","R-HSA-8853659","RET signaling",5293
+"PIK3CD","R-HSA-451927","Interleukin-2 family signaling",5293
+"PIK3CD","R-HSA-512988","Interleukin-3, Interleukin-5 and GM-CSF signaling",5293
+"PIK3CD","R-HSA-1660499","Synthesis of PIPs at the plasma membrane",5293
+"PIK3CD","R-HSA-2219530","Constitutive Signaling by Aberrant PI3K in Cancer",5293
+"PIK3CD","R-HSA-1483255","PI Metabolism",5293
+"PIK3CD","R-HSA-2219528","PI3K/AKT Signaling in Cancer",5293
+"PIK3CD","R-HSA-6811558","PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",5293
+"PIK3CD","R-HSA-983705","Signaling by the B Cell Receptor (BCR)",5293
+"PIK3CD","R-HSA-199418","Negative regulation of the PI3K/AKT network",5293
+"PIK3CD","R-HSA-1483257","Phospholipid metabolism",5293
+"PIK3CD","R-HSA-1257604","PIP3 activates AKT signaling",5293
+"PIK3CD","R-HSA-9006925","Intracellular signaling by second messengers",5293
+"PIK3CD","R-HSA-5663202","Diseases of signal transduction by growth factor receptors and second messengers",5293
+"PIK3CD","R-HSA-449147","Signaling by Interleukins",5293
+"PIK3R1","R-HSA-1250342","PI3K events in ERBB4 signaling",5295
+"PIK3R1","R-HSA-5655291","Signaling by FGFR4 in disease",5295
+"PIK3R1","R-HSA-430116","GP1b-IX-V activation signalling",5295
+"PIK3R1","R-HSA-9027276","Erythropoietin activates Phosphoinositide-3-kinase (PI3K)",5295
+"PIK3R1","R-HSA-9673767","Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants",5295
+"PIK3R1","R-HSA-9673770","Signaling by PDGFRA extracellular domain mutants",5295
+"PIK3R1","R-HSA-5637810","Constitutive Signaling by EGFRvIII",5295
+"PIK3R1","R-HSA-5637812","Signaling by EGFRvIII in Cancer",5295
+"PIK3R1","R-HSA-1963642","PI3K events in ERBB2 signaling",5295
+"PIK3R1","R-HSA-2730905","Role of LAT2/NTAL/LAB on calcium mobilization",5295
+"PIK3R1","R-HSA-9665348","Signaling by ERBB2 ECD mutants",5295
+"PIK3R1","R-HSA-9703648","Signaling by FLT3 ITD and TKD mutants",5295
+"PIK3R1","R-HSA-180292","GAB1 signalosome",5295
+"PIK3R1","R-HSA-9034015","Signaling by NTRK3 (TRKC)",5295
+"PIK3R1","R-HSA-1839117","Signaling by cytosolic FGFR1 fusion mutants",5295
+"PIK3R1","R-HSA-210993","Tie2 Signaling",5295
+"PIK3R1","R-HSA-5654710","PI-3K cascade:FGFR3",5295
+"PIK3R1","R-HSA-1236382","Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants",5295
+"PIK3R1","R-HSA-5637815","Signaling by Ligand-Responsive EGFR Variants in Cancer",5295
+"PIK3R1","R-HSA-9703465","Signaling by FLT3 fusion proteins",5295
+"PIK3R1","R-HSA-5654720","PI-3K cascade:FGFR4",5295
+"PIK3R1","R-HSA-9669938","Signaling by KIT in disease",5295
+"PIK3R1","R-HSA-9670439","Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",5295
+"PIK3R1","R-HSA-9671555","Signaling by PDGFR in disease",5295
+"PIK3R1","R-HSA-5654689","PI-3K cascade:FGFR1",5295
+"PIK3R1","R-HSA-389357","CD28 dependent PI3K/Akt signaling",5295
+"PIK3R1","R-HSA-5655332","Signaling by FGFR3 in disease",5295
+"PIK3R1","R-HSA-912631","Regulation of signaling by CBL",5295
+"PIK3R1","R-HSA-373753","Nephrin family interactions",5295
+"PIK3R1","R-HSA-5654695","PI-3K cascade:FGFR2",5295
+"PIK3R2","R-HSA-9673767","Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants",5296
+"PIK3R2","R-HSA-9673770","Signaling by PDGFRA extracellular domain mutants",5296
+"PIK3R2","R-HSA-2730905","Role of LAT2/NTAL/LAB on calcium mobilization",5296
+"PIK3R2","R-HSA-210993","Tie2 Signaling",5296
+"PIK3R2","R-HSA-9669938","Signaling by KIT in disease",5296
+"PIK3R2","R-HSA-9670439","Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",5296
+"PIK3R2","R-HSA-9671555","Signaling by PDGFR in disease",5296
+"PIK3R2","R-HSA-389357","CD28 dependent PI3K/Akt signaling",5296
+"PIK3R2","R-HSA-912631","Regulation of signaling by CBL",5296
+"PIK3R2","R-HSA-373753","Nephrin family interactions",5296
+"PIK3R2","R-HSA-2029485","Role of phospholipids in phagocytosis",5296
+"PIK3R2","R-HSA-201556","Signaling by ALK",5296
+"PIK3R2","R-HSA-912526","Interleukin receptor SHC signaling",5296
+"PIK3R2","R-HSA-186763","Downstream signal transduction",5296
+"PIK3R2","R-HSA-2424491","DAP12 signaling",5296
+"PIK3R2","R-HSA-389356","CD28 co-stimulation",5296
+"PIK3R2","R-HSA-114604","GPVI-mediated activation cascade",5296
+"PIK3R2","R-HSA-1266695","Interleukin-7 signaling",5296
+"PIK3R2","R-HSA-8853659","RET signaling",5296
+"PIK3R2","R-HSA-9013420","RHOU GTPase cycle",5296
+"PIK3R2","R-HSA-9035034","RHOF GTPase cycle",5296
+"PIK3R2","R-HSA-9696264","RND3 GTPase cycle",5296
+"PIK3R2","R-HSA-9696273","RND1 GTPase cycle",5296
+"PIK3R2","R-HSA-1433557","Signaling by SCF-KIT",5296
+"PIK3R2","R-HSA-9696270","RND2 GTPase cycle",5296
+"PIK3R2","R-HSA-109704","PI3K Cascade",5296
+"PIK3R2","R-HSA-451927","Interleukin-2 family signaling",5296
+"PIK3R2","R-HSA-2172127","DAP12 interactions",5296
+"PIK3R2","R-HSA-112399","IRS-mediated signalling",5296
+"PIK3R2","R-HSA-512988","Interleukin-3, Interleukin-5 and GM-CSF signaling",5296
+"PIK3R3","R-HSA-9669938","Signaling by KIT in disease",8503
+"PIK3R3","R-HSA-9670439","Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",8503
+"PIK3R3","R-HSA-389357","CD28 dependent PI3K/Akt signaling",8503
+"PIK3R3","R-HSA-912631","Regulation of signaling by CBL",8503
+"PIK3R3","R-HSA-912526","Interleukin receptor SHC signaling",8503
+"PIK3R3","R-HSA-389356","CD28 co-stimulation",8503
+"PIK3R3","R-HSA-114604","GPVI-mediated activation cascade",8503
+"PIK3R3","R-HSA-1266695","Interleukin-7 signaling",8503
+"PIK3R3","R-HSA-8853659","RET signaling",8503
+"PIK3R3","R-HSA-1433557","Signaling by SCF-KIT",8503
+"PIK3R3","R-HSA-451927","Interleukin-2 family signaling",8503
+"PIK3R3","R-HSA-512988","Interleukin-3, Interleukin-5 and GM-CSF signaling",8503
+"PIK3R3","R-HSA-1660499","Synthesis of PIPs at the plasma membrane",8503
+"PIK3R3","R-HSA-388841","Costimulation by the CD28 family",8503
+"PIK3R3","R-HSA-9009391","Extra-nuclear estrogen signaling",8503
+"PIK3R3","R-HSA-2219530","Constitutive Signaling by Aberrant PI3K in Cancer",8503
+"PIK3R3","R-HSA-1483255","PI Metabolism",8503
+"PIK3R3","R-HSA-9013404","RAC2 GTPase cycle",8503
+"PIK3R3","R-HSA-2219528","PI3K/AKT Signaling in Cancer",8503
+"PIK3R3","R-HSA-6811558","PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",8503
+"PIK3R3","R-HSA-199418","Negative regulation of the PI3K/AKT network",8503
+"PIK3R3","R-HSA-9013149","RAC1 GTPase cycle",8503
+"PIK3R3","R-HSA-1483257","Phospholipid metabolism",8503
+"PIK3R3","R-HSA-416476","G alpha (q) signalling events",8503
+"PIK3R3","R-HSA-8939211","ESR-mediated signaling",8503
+"PIK3R3","R-HSA-76002","Platelet activation, signaling and aggregation",8503
+"PIK3R3","R-HSA-1257604","PIP3 activates AKT signaling",8503
+"PIK3R3","R-HSA-9006931","Signaling by Nuclear Receptors",8503
+"PIK3R3","R-HSA-9006925","Intracellular signaling by second messengers",8503
+"PIK3R3","R-HSA-5663202","Diseases of signal transduction by growth factor receptors and second messengers",8503
+"PLA2G2A","R-HSA-1482922","Acyl chain remodelling of PI",5320
+"PLA2G2A","R-HSA-1482925","Acyl chain remodelling of PG",5320
+"PLA2G2A","R-HSA-1482801","Acyl chain remodelling of PS",5320
+"PLA2G2A","R-HSA-1482788","Acyl chain remodelling of PC",5320
+"PLA2G2A","R-HSA-1482839","Acyl chain remodelling of PE",5320
+"PLA2G2A","R-HSA-1483166","Synthesis of PA",5320
+"PLA2G2A","R-HSA-6803157","Antimicrobial peptides",5320
+"PLA2G2A","R-HSA-1483206","Glycerophospholipid biosynthesis",5320
+"PLA2G2A","R-HSA-1483257","Phospholipid metabolism",5320
+"PLCB1","R-HSA-399997","Acetylcholine regulates insulin secretion",23236
+"PLCB1","R-HSA-400451","Free fatty acids regulate insulin secretion",23236
+"PLCB1","R-HSA-418217","G beta:gamma signalling through PLC beta",23236
+"PLCB1","R-HSA-500657","Presynaptic function of Kainate receptors",23236
+"PLCB1","R-HSA-1855204","Synthesis of IP3 and IP4 in the cytosol",23236
+"PLCB1","R-HSA-397795","G-protein beta:gamma signalling",23236
+"PLCB1","R-HSA-451326","Activation of kainate receptors upon glutamate binding",23236
+"PLCB1","R-HSA-1483249","Inositol phosphate metabolism",23236
+"PLCB1","R-HSA-112043","PLC beta mediated events",23236
+"PLCB1","R-HSA-112040","G-protein mediated events",23236
+"PLCB1","R-HSA-4086398","Ca2+ pathway",23236
+"PLCB1","R-HSA-422356","Regulation of insulin secretion",23236
+"PLCB1","R-HSA-111885","Opioid Signalling",23236
+"PLCB1","R-HSA-163685","Integration of energy metabolism",23236
+"PLCB1","R-HSA-3858494","Beta-catenin independent WNT signaling",23236
+"PLCB1","R-HSA-112314","Neurotransmitter receptors and postsynaptic signal transmission",23236
+"PLCB1","R-HSA-416476","G alpha (q) signalling events",23236
+"PLCB1","R-HSA-112315","Transmission across Chemical Synapses",23236
+"PLCB1","R-HSA-418594","G alpha (i) signalling events",23236
+"PLCB1","R-HSA-195721","Signaling by WNT",23236
+"PLCB1","R-HSA-112316","Neuronal System",23236
+"PLCB2","R-HSA-399997","Acetylcholine regulates insulin secretion",5330
+"PLCB2","R-HSA-400451","Free fatty acids regulate insulin secretion",5330
+"PLCB2","R-HSA-418217","G beta:gamma signalling through PLC beta",5330
+"PLCB2","R-HSA-500657","Presynaptic function of Kainate receptors",5330
+"PLCB2","R-HSA-1855204","Synthesis of IP3 and IP4 in the cytosol",5330
+"PLCB2","R-HSA-397795","G-protein beta:gamma signalling",5330
+"PLCB2","R-HSA-451326","Activation of kainate receptors upon glutamate binding",5330
+"PLCB2","R-HSA-9717207","Sensory perception of sweet, bitter, and umami (glutamate) taste",5330
+"PLCB2","R-HSA-9717189","Sensory perception of taste",5330
+"PLCB2","R-HSA-1483249","Inositol phosphate metabolism",5330
+"PLCB2","R-HSA-112043","PLC beta mediated events",5330
+"PLCB2","R-HSA-112040","G-protein mediated events",5330
+"PLCB2","R-HSA-4086398","Ca2+ pathway",5330
+"PLCB2","R-HSA-422356","Regulation of insulin secretion",5330
+"PLCB2","R-HSA-111885","Opioid Signalling",5330
+"PLCB2","R-HSA-163685","Integration of energy metabolism",5330
+"PLCB2","R-HSA-3858494","Beta-catenin independent WNT signaling",5330
+"PLCB2","R-HSA-112314","Neurotransmitter receptors and postsynaptic signal transmission",5330
+"PLCB2","R-HSA-416476","G alpha (q) signalling events",5330
+"PLCB2","R-HSA-112315","Transmission across Chemical Synapses",5330
+"PLCB2","R-HSA-418594","G alpha (i) signalling events",5330
+"PLCB2","R-HSA-195721","Signaling by WNT",5330
+"PLCB2","R-HSA-112316","Neuronal System",5330
+"PLCB3","R-HSA-399997","Acetylcholine regulates insulin secretion",5331
+"PLCB3","R-HSA-400451","Free fatty acids regulate insulin secretion",5331
+"PLCB3","R-HSA-418217","G beta:gamma signalling through PLC beta",5331
+"PLCB3","R-HSA-500657","Presynaptic function of Kainate receptors",5331
+"PLCB3","R-HSA-1855204","Synthesis of IP3 and IP4 in the cytosol",5331
+"PLCB3","R-HSA-397795","G-protein beta:gamma signalling",5331
+"PLCB3","R-HSA-451326","Activation of kainate receptors upon glutamate binding",5331
+"PLCB3","R-HSA-1483249","Inositol phosphate metabolism",5331
+"PLCB3","R-HSA-112043","PLC beta mediated events",5331
+"PLCB3","R-HSA-112040","G-protein mediated events",5331
+"PLCB3","R-HSA-4086398","Ca2+ pathway",5331
+"PLCB3","R-HSA-422356","Regulation of insulin secretion",5331
+"PLCB3","R-HSA-111885","Opioid Signalling",5331
+"PLCB3","R-HSA-163685","Integration of energy metabolism",5331
+"PLCB3","R-HSA-3858494","Beta-catenin independent WNT signaling",5331
+"PLCB3","R-HSA-112314","Neurotransmitter receptors and postsynaptic signal transmission",5331
+"PLCB3","R-HSA-416476","G alpha (q) signalling events",5331
+"PLCB3","R-HSA-112315","Transmission across Chemical Synapses",5331
+"PLCB3","R-HSA-418594","G alpha (i) signalling events",5331
+"PLCB3","R-HSA-195721","Signaling by WNT",5331
+"PLCB3","R-HSA-112316","Neuronal System",5331
+"PLCB4","R-HSA-1855204","Synthesis of IP3 and IP4 in the cytosol",5332
+"PLCB4","R-HSA-1483249","Inositol phosphate metabolism",5332
+"PLCB4","R-HSA-112043","PLC beta mediated events",5332
+"PLCB4","R-HSA-112040","G-protein mediated events",5332
+"PLCB4","R-HSA-111885","Opioid Signalling",5332
+"PLCB4","R-HSA-416476","G alpha (q) signalling events",5332
+"PLCB4","R-HSA-418594","G alpha (i) signalling events",5332
+"PLD1","R-HSA-2029485","Role of phospholipids in phagocytosis",5337
+"PLD1","R-HSA-1483166","Synthesis of PA",5337
+"PLD1","R-HSA-9013408","RHOG GTPase cycle",5337
+"PLD1","R-HSA-2029480","Fcgamma receptor (FCGR) dependent phagocytosis",5337
+"PLD1","R-HSA-1483206","Glycerophospholipid biosynthesis",5337
+"PLD1","R-HSA-8980692","RHOA GTPase cycle",5337
+"PLD1","R-HSA-9013148","CDC42 GTPase cycle",5337
+"PLD1","R-HSA-9013149","RAC1 GTPase cycle",5337
+"PLD1","R-HSA-1483257","Phospholipid metabolism",5337
+"PLD1","R-HSA-9012999","RHO GTPase cycle",5337
+"PLD1","R-HSA-6798695","Neutrophil degranulation",5337
+"PPP2CA","R-HSA-2465910","MASTL Facilitates Mitotic Progression",5515
+"PPP2CA","R-HSA-9634600","Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",5515
+"PPP2CA","R-HSA-113501","Inhibition of replication initiation of damaged DNA by RB1/E2F1",5515
+"PPP2CA","R-HSA-202670","ERKs are inactivated",5515
+"PPP2CA","R-HSA-4839735","Signaling by AXIN mutants",5515
+"PPP2CA","R-HSA-4839744","Signaling by APC mutants",5515
+"PPP2CA","R-HSA-4839748","Signaling by AMER1 mutants",5515
+"PPP2CA","R-HSA-5467337","APC truncation mutants have impaired AXIN binding",5515
+"PPP2CA","R-HSA-5467340","AXIN missense mutants destabilize the destruction complex",5515
+"PPP2CA","R-HSA-5467348","Truncations of AMER1 destabilize the destruction complex",5515
+"PPP2CA","R-HSA-4839743","Signaling by CTNNB1 phospho-site mutants",5515
+"PPP2CA","R-HSA-5339716","Signaling by GSK3beta mutants",5515
+"PPP2CA","R-HSA-5358747","CTNNB1 S33 mutants aren't phosphorylated",5515
+"PPP2CA","R-HSA-5358749","CTNNB1 S37 mutants aren't phosphorylated",5515
+"PPP2CA","R-HSA-5358751","CTNNB1 S45 mutants aren't phosphorylated",5515
+"PPP2CA","R-HSA-5358752","CTNNB1 T41 mutants aren't phosphorylated",5515
+"PPP2CA","R-HSA-1295596","Spry regulation of FGF signaling",5515
+"PPP2CA","R-HSA-196299","Beta-catenin phosphorylation cascade",5515
+"PPP2CA","R-HSA-432142","Platelet sensitization by LDL",5515
+"PPP2CA","R-HSA-2995383","Initiation of Nuclear Envelope (NE) Reformation",5515
+"PPP2CA","R-HSA-389513","CTLA4 inhibitory signaling",5515
+"PPP2CA","R-HSA-113510","E2F mediated regulation of DNA replication",5515
+"PPP2CA","R-HSA-198753","ERK/MAPK targets",5515
+"PPP2CA","R-HSA-69273","Cyclin A/B1/B2 associated events during G2/M transition",5515
+"PPP2CA","R-HSA-180024","DARPP-32 events",5515
+"PPP2CA","R-HSA-5654732","Negative regulation of FGFR3 signaling",5515
+"PPP2CA","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",5515
+"PPP2CA","R-HSA-4641262","Disassembly of the destruction complex and recruitment of AXIN to the membrane",5515
+"PPP2CA","R-HSA-5654733","Negative regulation of FGFR4 signaling",5515
+"PPP2CA","R-HSA-5654726","Negative regulation of FGFR1 signaling",5515
+"PPP2CB","R-HSA-2465910","MASTL Facilitates Mitotic Progression",5516
+"PPP2CB","R-HSA-9634600","Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",5516
+"PPP2CB","R-HSA-113501","Inhibition of replication initiation of damaged DNA by RB1/E2F1",5516
+"PPP2CB","R-HSA-202670","ERKs are inactivated",5516
+"PPP2CB","R-HSA-4839735","Signaling by AXIN mutants",5516
+"PPP2CB","R-HSA-4839744","Signaling by APC mutants",5516
+"PPP2CB","R-HSA-4839748","Signaling by AMER1 mutants",5516
+"PPP2CB","R-HSA-5467337","APC truncation mutants have impaired AXIN binding",5516
+"PPP2CB","R-HSA-5467340","AXIN missense mutants destabilize the destruction complex",5516
+"PPP2CB","R-HSA-5467348","Truncations of AMER1 destabilize the destruction complex",5516
+"PPP2CB","R-HSA-4839743","Signaling by CTNNB1 phospho-site mutants",5516
+"PPP2CB","R-HSA-5339716","Signaling by GSK3beta mutants",5516
+"PPP2CB","R-HSA-5358747","CTNNB1 S33 mutants aren't phosphorylated",5516
+"PPP2CB","R-HSA-5358749","CTNNB1 S37 mutants aren't phosphorylated",5516
+"PPP2CB","R-HSA-5358751","CTNNB1 S45 mutants aren't phosphorylated",5516
+"PPP2CB","R-HSA-5358752","CTNNB1 T41 mutants aren't phosphorylated",5516
+"PPP2CB","R-HSA-1295596","Spry regulation of FGF signaling",5516
+"PPP2CB","R-HSA-196299","Beta-catenin phosphorylation cascade",5516
+"PPP2CB","R-HSA-432142","Platelet sensitization by LDL",5516
+"PPP2CB","R-HSA-389513","CTLA4 inhibitory signaling",5516
+"PPP2CB","R-HSA-113510","E2F mediated regulation of DNA replication",5516
+"PPP2CB","R-HSA-198753","ERK/MAPK targets",5516
+"PPP2CB","R-HSA-69273","Cyclin A/B1/B2 associated events during G2/M transition",5516
+"PPP2CB","R-HSA-180024","DARPP-32 events",5516
+"PPP2CB","R-HSA-5654732","Negative regulation of FGFR3 signaling",5516
+"PPP2CB","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",5516
+"PPP2CB","R-HSA-4641262","Disassembly of the destruction complex and recruitment of AXIN to the membrane",5516
+"PPP2CB","R-HSA-5654733","Negative regulation of FGFR4 signaling",5516
+"PPP2CB","R-HSA-5654726","Negative regulation of FGFR1 signaling",5516
+"PPP2CB","R-HSA-4791275","Signaling by WNT in cancer",5516
+"PPP2R1A","R-HSA-2465910","MASTL Facilitates Mitotic Progression",5518
+"PPP2R1A","R-HSA-9634600","Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",5518
+"PPP2R1A","R-HSA-113501","Inhibition of replication initiation of damaged DNA by RB1/E2F1",5518
+"PPP2R1A","R-HSA-202670","ERKs are inactivated",5518
+"PPP2R1A","R-HSA-4839735","Signaling by AXIN mutants",5518
+"PPP2R1A","R-HSA-4839744","Signaling by APC mutants",5518
+"PPP2R1A","R-HSA-4839748","Signaling by AMER1 mutants",5518
+"PPP2R1A","R-HSA-5467337","APC truncation mutants have impaired AXIN binding",5518
+"PPP2R1A","R-HSA-5467340","AXIN missense mutants destabilize the destruction complex",5518
+"PPP2R1A","R-HSA-5467348","Truncations of AMER1 destabilize the destruction complex",5518
+"PPP2R1A","R-HSA-4839743","Signaling by CTNNB1 phospho-site mutants",5518
+"PPP2R1A","R-HSA-5339716","Signaling by GSK3beta mutants",5518
+"PPP2R1A","R-HSA-5358747","CTNNB1 S33 mutants aren't phosphorylated",5518
+"PPP2R1A","R-HSA-5358749","CTNNB1 S37 mutants aren't phosphorylated",5518
+"PPP2R1A","R-HSA-5358751","CTNNB1 S45 mutants aren't phosphorylated",5518
+"PPP2R1A","R-HSA-5358752","CTNNB1 T41 mutants aren't phosphorylated",5518
+"PPP2R1A","R-HSA-1295596","Spry regulation of FGF signaling",5518
+"PPP2R1A","R-HSA-196299","Beta-catenin phosphorylation cascade",5518
+"PPP2R1A","R-HSA-432142","Platelet sensitization by LDL",5518
+"PPP2R1A","R-HSA-2995383","Initiation of Nuclear Envelope (NE) Reformation",5518
+"PPP2R1A","R-HSA-389513","CTLA4 inhibitory signaling",5518
+"PPP2R1A","R-HSA-113510","E2F mediated regulation of DNA replication",5518
+"PPP2R1A","R-HSA-198753","ERK/MAPK targets",5518
+"PPP2R1A","R-HSA-69273","Cyclin A/B1/B2 associated events during G2/M transition",5518
+"PPP2R1A","R-HSA-180024","DARPP-32 events",5518
+"PPP2R1A","R-HSA-5654732","Negative regulation of FGFR3 signaling",5518
+"PPP2R1A","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",5518
+"PPP2R1A","R-HSA-4641262","Disassembly of the destruction complex and recruitment of AXIN to the membrane",5518
+"PPP2R1A","R-HSA-5654733","Negative regulation of FGFR4 signaling",5518
+"PPP2R1A","R-HSA-5654726","Negative regulation of FGFR1 signaling",5518
+"PPP2R1B","R-HSA-2465910","MASTL Facilitates Mitotic Progression",5519
+"PPP2R1B","R-HSA-9634600","Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",5519
+"PPP2R1B","R-HSA-113501","Inhibition of replication initiation of damaged DNA by RB1/E2F1",5519
+"PPP2R1B","R-HSA-202670","ERKs are inactivated",5519
+"PPP2R1B","R-HSA-4839735","Signaling by AXIN mutants",5519
+"PPP2R1B","R-HSA-4839744","Signaling by APC mutants",5519
+"PPP2R1B","R-HSA-4839748","Signaling by AMER1 mutants",5519
+"PPP2R1B","R-HSA-5467337","APC truncation mutants have impaired AXIN binding",5519
+"PPP2R1B","R-HSA-5467340","AXIN missense mutants destabilize the destruction complex",5519
+"PPP2R1B","R-HSA-5467348","Truncations of AMER1 destabilize the destruction complex",5519
+"PPP2R1B","R-HSA-4839743","Signaling by CTNNB1 phospho-site mutants",5519
+"PPP2R1B","R-HSA-5339716","Signaling by GSK3beta mutants",5519
+"PPP2R1B","R-HSA-5358747","CTNNB1 S33 mutants aren't phosphorylated",5519
+"PPP2R1B","R-HSA-5358749","CTNNB1 S37 mutants aren't phosphorylated",5519
+"PPP2R1B","R-HSA-5358751","CTNNB1 S45 mutants aren't phosphorylated",5519
+"PPP2R1B","R-HSA-5358752","CTNNB1 T41 mutants aren't phosphorylated",5519
+"PPP2R1B","R-HSA-196299","Beta-catenin phosphorylation cascade",5519
+"PPP2R1B","R-HSA-432142","Platelet sensitization by LDL",5519
+"PPP2R1B","R-HSA-389513","CTLA4 inhibitory signaling",5519
+"PPP2R1B","R-HSA-113510","E2F mediated regulation of DNA replication",5519
+"PPP2R1B","R-HSA-198753","ERK/MAPK targets",5519
+"PPP2R1B","R-HSA-69273","Cyclin A/B1/B2 associated events during G2/M transition",5519
+"PPP2R1B","R-HSA-180024","DARPP-32 events",5519
+"PPP2R1B","R-HSA-450282","MAPK targets/ Nuclear events mediated by MAP kinases",5519
+"PPP2R1B","R-HSA-4641262","Disassembly of the destruction complex and recruitment of AXIN to the membrane",5519
+"PPP2R1B","R-HSA-4791275","Signaling by WNT in cancer",5519
+"PPP2R1B","R-HSA-5673000","RAF activation",5519
+"PPP2R1B","R-HSA-6804757","Regulation of TP53 Degradation",5519
+"PPP2R1B","R-HSA-6806003","Regulation of TP53 Expression and Degradation",5519
+"PPP2R1B","R-HSA-5675221","Negative regulation of MAPK pathway",5519
+"PPP2R2A","R-HSA-2995383","Initiation of Nuclear Envelope (NE) Reformation",5520
+"PPP2R2A","R-HSA-69273","Cyclin A/B1/B2 associated events during G2/M transition",5520
+"PPP2R2A","R-HSA-69231","Cyclin D associated events in G1",5520
+"PPP2R2A","R-HSA-69236","G1 Phase",5520
+"PPP2R2A","R-HSA-2995410","Nuclear Envelope (NE) Reassembly",5520
+"PPP2R2A","R-HSA-927802","Nonsense-Mediated Decay (NMD)",5520
+"PPP2R2A","R-HSA-975957","Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)",5520
+"PPP2R2A","R-HSA-453279","Mitotic G1 phase and G1/S transition",5520
+"PPP2R2A","R-HSA-69275","G2/M Transition",5520
+"PPP2R2A","R-HSA-453274","Mitotic G2-G2/M phases",5520
+"PPP2R2A","R-HSA-68882","Mitotic Anaphase",5520
+"PPP2R2A","R-HSA-2555396","Mitotic Metaphase and Anaphase",5520
+"PPP2R2A","R-HSA-68886","M Phase",5520
+"PPP2R2D","R-HSA-2465910","MASTL Facilitates Mitotic Progression",55844
+"PPP2R2D","R-HSA-68875","Mitotic Prophase",55844
+"PPP2R2D","R-HSA-68886","M Phase",55844
+"PRKCB","R-HSA-4419969","Depolymerisation of the Nuclear Lamina",5579
+"PRKCB","R-HSA-5099900","WNT5A-dependent internalization of FZD4",5579
+"PRKCB","R-HSA-416993","Trafficking of GluR2-containing AMPA receptors",5579
+"PRKCB","R-HSA-5218921","VEGFR2 mediated cell proliferation",5579
+"PRKCB","R-HSA-5668599","RHO GTPases Activate NADPH Oxidases",5579
+"PRKCB","R-HSA-399719","Trafficking of AMPA receptors",5579
+"PRKCB","R-HSA-399721","Glutamate binding, activation of AMPA receptors and synaptic plasticity",5579
+"PRKCB","R-HSA-418597","G alpha (z) signalling events",5579
+"PRKCB","R-HSA-2980766","Nuclear Envelope Breakdown",5579
+"PRKCB","R-HSA-1169091","Activation of NF-kappaB in B cells",5579
+"PRKCB","R-HSA-1168372","Downstream signaling events of B Cell Receptor (BCR)",5579
+"PRKCB","R-HSA-4086400","PCP/CE pathway",5579
+"PRKCB","R-HSA-4420097","VEGFA-VEGFR2 Pathway",5579
+"PRKCB","R-HSA-194138","Signaling by VEGF",5579
+"PRKCB","R-HSA-983705","Signaling by the B Cell Receptor (BCR)",5579
+"PRKCB","R-HSA-76005","Response to elevated platelet cytosolic Ca2+",5579
+"PRKCB","R-HSA-68875","Mitotic Prophase",5579
+"PRKCB","R-HSA-3858494","Beta-catenin independent WNT signaling",5579
+"PRKCB","R-HSA-112314","Neurotransmitter receptors and postsynaptic signal transmission",5579
+"PRKCB","R-HSA-8878171","Transcriptional regulation by RUNX1",5579
+"PRKCB","R-HSA-76002","Platelet activation, signaling and aggregation",5579
+"PRKCB","R-HSA-112315","Transmission across Chemical Synapses",5579
+"PRKCB","R-HSA-195258","RHO GTPase Effectors",5579
+"PRKCB","R-HSA-195721","Signaling by WNT",5579
+"PRKCB","R-HSA-112316","Neuronal System",5579
+"PRKCB","R-HSA-68886","M Phase",5579
+"PTGS2","R-HSA-2162123","Synthesis of Prostaglandins (PG) and Thromboxanes (TX)",5743
+"PTGS2","R-HSA-9018677","Biosynthesis of DHA-derived SPMs",5743
+"PTGS2","R-HSA-197264","Nicotinamide salvaging",5743
+"PTGS2","R-HSA-9018678","Biosynthesis of specialized proresolving mediators (SPMs)",5743
+"PTGS2","R-HSA-196807","Nicotinate metabolism",5743
+"PTGS2","R-HSA-6783783","Interleukin-10 signaling",5743
+"PTGS2","R-HSA-2142753","Arachidonic acid metabolism",5743
+"PTGS2","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",5743
+"PTGS2","R-HSA-196849","Metabolism of water-soluble vitamins and cofactors",5743
+"PTGS2","R-HSA-8978868","Fatty acid metabolism",5743
+"PTGS2","R-HSA-196854","Metabolism of vitamins and cofactors",5743
+"PTGS2","R-HSA-449147","Signaling by Interleukins",5743
+"PTPN6","R-HSA-210990","PECAM1 interactions",5777
+"PTPN6","R-HSA-877312","Regulation of IFNG signaling",5777
+"PTPN6","R-HSA-1433559","Regulation of KIT signaling",5777
+"PTPN6","R-HSA-391160","Signal regulatory protein family interactions",5777
+"PTPN6","R-HSA-432142","Platelet sensitization by LDL",5777
+"PTPN6","R-HSA-9008059","Interleukin-37 signaling",5777
+"PTPN6","R-HSA-389948","PD-1 signaling",5777
+"PTPN6","R-HSA-982772","Growth hormone receptor signaling",5777
+"PTPN6","R-HSA-912694","Regulation of IFNA/IFNB signaling",5777
+"PTPN6","R-HSA-201556","Signaling by ALK",5777
+"PTPN6","R-HSA-912526","Interleukin receptor SHC signaling",5777
+"PTPN6","R-HSA-983695","Antigen activates B Cell Receptor (BCR) leading to generation of second messengers",5777
+"PTPN6","R-HSA-114604","GPVI-mediated activation cascade",5777
+"PTPN6","R-HSA-1433557","Signaling by SCF-KIT",5777
+"PTPN6","R-HSA-451927","Interleukin-2 family signaling",5777
+"PTPN6","R-HSA-512988","Interleukin-3, Interleukin-5 and GM-CSF signaling",5777
+"PTPN6","R-HSA-388841","Costimulation by the CD28 family",5777
+"PTPN6","R-HSA-909733","Interferon alpha/beta signaling",5777
+"PTPN6","R-HSA-418346","Platelet homeostasis",5777
+"PTPN6","R-HSA-877300","Interferon gamma signaling",5777
+"PTPN6","R-HSA-983705","Signaling by the B Cell Receptor (BCR)",5777
+"PTPN6","R-HSA-9705671","SARS-CoV-2 activates/modulates innate and adaptive immune responses",5777
+"PTPN6","R-HSA-1500931","Cell-Cell communication",5777
+"PTPN6","R-HSA-202733","Cell surface interactions at the vascular wall",5777
+"PTPN6","R-HSA-446652","Interleukin-1 family signaling",5777
+"PTPN6","R-HSA-913531","Interferon Signaling",5777
+"PTPN6","R-HSA-9705683","SARS-CoV-2-host interactions",5777
+"PTPN6","R-HSA-76002","Platelet activation, signaling and aggregation",5777
+"PTPN6","R-HSA-9694516","SARS-CoV-2 Infection",5777
+"PTPN6","R-HSA-9679506","SARS-CoV Infections",5777
+"RELA","R-HSA-193692","Regulated proteolysis of p75NTR",5970
+"RELA","R-HSA-4755510","SUMOylation of immune response proteins",5970
+"RELA","R-HSA-209560","NF-kB is activated and signals survival",5970
+"RELA","R-HSA-193639","p75NTR signals via NF-kB",5970
+"RELA","R-HSA-844456","The NLRP3 inflammasome",5970
+"RELA","R-HSA-1810476","RIP-mediated NFkB activation via ZBP1",5970
+"RELA","R-HSA-1606322","ZBP1(DAI) mediated induction of type I IFNs",5970
+"RELA","R-HSA-5621575","CD209 (DC-SIGN) signaling",5970
+"RELA","R-HSA-622312","Inflammasomes",5970
+"RELA","R-HSA-933542","TRAF6 mediated NF-kB activation",5970
+"RELA","R-HSA-9660826","Purinergic signaling in leishmaniasis infection",5970
+"RELA","R-HSA-9664424","Cell recruitment (pro-inflammatory response)",5970
+"RELA","R-HSA-5260271","Diseases of Immune System",5970
+"RELA","R-HSA-5602358","Diseases associated with the TLR signaling cascade",5970
+"RELA","R-HSA-8853884","Transcriptional Regulation by VENTX",5970
+"RELA","R-HSA-9692916","SARS-CoV-1 activates/modulates innate immune responses",5970
+"RELA","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",5970
+"RELA","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",5970
+"RELA","R-HSA-5607761","Dectin-1 mediated noncanonical NF-kB signaling",5970
+"RELA","R-HSA-1834949","Cytosolic sensors of pathogen-associated DNA ",5970
+"RELA","R-HSA-1169091","Activation of NF-kappaB in B cells",5970
+"RELA","R-HSA-3214841","PKMTs methylate histone lysines",5970
+"RELA","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",5970
+"RELA","R-HSA-2871837","FCERI mediated NF-kB activation",5970
+"RELA","R-HSA-1168372","Downstream signaling events of B Cell Receptor (BCR)",5970
+"RELA","R-HSA-381340","Transcriptional regulation of white adipocyte differentiation",5970
+"RELA","R-HSA-9692914","SARS-CoV-1-host interactions",5970
+"RELA","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",5970
+"RELA","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",5970
+"RELA","R-HSA-193704","p75 NTR receptor-mediated signalling",5970
+"SERPINE1","R-HSA-75205","Dissolution of Fibrin Clot",5054
+"SERPINE1","R-HSA-1368108","BMAL1:CLOCK,NPAS2 activates circadian gene expression",5054
+"SERPINE1","R-HSA-2173796","SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription",5054
+"SERPINE1","R-HSA-2173793","Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer",5054
+"SERPINE1","R-HSA-400253","Circadian Clock",5054
+"SERPINE1","R-HSA-3000178","ECM proteoglycans",5054
+"SERPINE1","R-HSA-170834","Signaling by TGF-beta Receptor Complex",5054
+"SERPINE1","R-HSA-9006936","Signaling by TGFB family members",5054
+"SERPINE1","R-HSA-114608","Platelet degranulation ",5054
+"SERPINE1","R-HSA-76005","Response to elevated platelet cytosolic Ca2+",5054
+"SERPINE1","R-HSA-76002","Platelet activation, signaling and aggregation",5054
+"SERPINE1","R-HSA-1474244","Extracellular matrix organization",5054
+"SIRT5","R-HSA-2151201","Transcriptional activation of mitochondrial biogenesis",23408
+"SIRT5","R-HSA-1592230","Mitochondrial biogenesis",23408
+"SIRT5","R-HSA-1852241","Organelle biogenesis and maintenance",23408
+"SLC22A2","R-HSA-112311","Neurotransmitter clearance",6582
+"SLC22A2","R-HSA-549127","Organic cation transport",6582
+"SLC22A2","R-HSA-549132","Organic cation/anion/zwitterion transport",6582
+"SLC22A2","R-HSA-181430","Norepinephrine Neurotransmitter Release Cycle",6582
+"SLC22A2","R-HSA-442660","Na+/Cl- dependent neurotransmitter transporters",6582
+"SLC22A2","R-HSA-112310","Neurotransmitter release cycle",6582
+"SLC22A2","R-HSA-425366","Transport of bile salts and organic acids, metal ions and amine compounds",6582
+"SLC22A2","R-HSA-9748784","Drug ADME",6582
+"SLC22A2","R-HSA-425407","SLC-mediated transmembrane transport",6582
+"SLC22A2","R-HSA-112315","Transmission across Chemical Synapses",6582
+"SLC22A2","R-HSA-112316","Neuronal System",6582
+"SLC22A6","R-HSA-549132","Organic cation/anion/zwitterion transport",9356
+"SLC22A6","R-HSA-425366","Transport of bile salts and organic acids, metal ions and amine compounds",9356
+"SLC22A6","R-HSA-425407","SLC-mediated transmembrane transport",9356
+"SLC22A8","R-HSA-549132","Organic cation/anion/zwitterion transport",9376
+"SLC22A8","R-HSA-425366","Transport of bile salts and organic acids, metal ions and amine compounds",9376
+"SLC22A8","R-HSA-425407","SLC-mediated transmembrane transport",9376
+"SLC47A1","R-HSA-425366","Transport of bile salts and organic acids, metal ions and amine compounds",55244
+"SLC47A1","R-HSA-425407","SLC-mediated transmembrane transport",55244
+"SLC47A2","R-HSA-425366","Transport of bile salts and organic acids, metal ions and amine compounds",146802
+"SLC47A2","R-HSA-425407","SLC-mediated transmembrane transport",146802
+"SLCO1B1","R-HSA-879518","Transport of organic anions",10599
+"SLCO1B1","R-HSA-189483","Heme degradation",10599
+"SLCO1B1","R-HSA-159418","Recycling of bile acids and salts",10599
+"SLCO1B1","R-HSA-189445","Metabolism of porphyrins",10599
+"SLCO1B1","R-HSA-425397","Transport of vitamins, nucleosides, and related molecules",10599
+"SLCO1B1","R-HSA-194068","Bile acid and bile salt metabolism",10599
+"SLCO1B1","R-HSA-5619102","SLC transporter disorders",10599
+"SLCO1B1","R-HSA-9748784","Drug ADME",10599
+"SLCO1B1","R-HSA-8957322","Metabolism of steroids",10599
+"SLCO1B1","R-HSA-5619115","Disorders of transmembrane transporters",10599
+"SLCO1B1","R-HSA-425407","SLC-mediated transmembrane transport",10599
+"SLCO1B3","R-HSA-879518","Transport of organic anions",28234
+"SLCO1B3","R-HSA-189483","Heme degradation",28234
+"SLCO1B3","R-HSA-159418","Recycling of bile acids and salts",28234
+"SLCO1B3","R-HSA-189445","Metabolism of porphyrins",28234
+"SLCO1B3","R-HSA-425397","Transport of vitamins, nucleosides, and related molecules",28234
+"SLCO1B3","R-HSA-194068","Bile acid and bile salt metabolism",28234
+"SLCO1B3","R-HSA-5619102","SLC transporter disorders",28234
+"SLCO1B3","R-HSA-9748784","Drug ADME",28234
+"SLCO1B3","R-HSA-8957322","Metabolism of steroids",28234
+"SLCO1B3","R-HSA-5619115","Disorders of transmembrane transporters",28234
+"SLCO1B3","R-HSA-425407","SLC-mediated transmembrane transport",28234
+"SMAD2","R-HSA-1502540","Signaling by Activin",4087
+"SMAD2","R-HSA-9617828","FOXO-mediated transcription of cell cycle genes",4087
+"SMAD2","R-HSA-9754189","Germ layer formation at gastrulation",4087
+"SMAD2","R-HSA-9758941","Gastrulation",4087
+"SMAD2","R-HSA-1181150","Signaling by NODAL",4087
+"SMAD2","R-HSA-452723","Transcriptional regulation of pluripotent stem cells",4087
+"SMAD2","R-HSA-2173788","Downregulation of TGF-beta receptor signaling",4087
+"SMAD2","R-HSA-9615017","FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",4087
+"SMAD2","R-HSA-2173795","Downregulation of SMAD2/3:SMAD4 transcriptional activity",4087
+"SMAD2","R-HSA-2173796","SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription",4087
+"SMAD2","R-HSA-2173789","TGF-beta receptor signaling activates SMADs",4087
+"SMAD2","R-HSA-2173793","Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer",4087
+"SMAD2","R-HSA-9614085","FOXO-mediated transcription",4087
+"SMAD2","R-HSA-170834","Signaling by TGF-beta Receptor Complex",4087
+"SMAD2","R-HSA-9006936","Signaling by TGFB family members",4087
+"SMAD2","R-HSA-5689880","Ub-specific processing proteases",4087
+"SMAD2","R-HSA-5688426","Deubiquitination",4087
+"SMAD2","R-HSA-5663202","Diseases of signal transduction by growth factor receptors and second messengers",4087
+"STAT1","R-HSA-9020958","Interleukin-21 signaling",6772
+"STAT1","R-HSA-1059683","Interleukin-6 signaling",6772
+"STAT1","R-HSA-9020956","Interleukin-27 signaling",6772
+"STAT1","R-HSA-8984722","Interleukin-35 Signalling",6772
+"STAT1","R-HSA-9673767","Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants",6772
+"STAT1","R-HSA-9673770","Signaling by PDGFRA extracellular domain mutants",6772
+"STAT1","R-HSA-877312","Regulation of IFNG signaling",6772
+"STAT1","R-HSA-1839117","Signaling by cytosolic FGFR1 fusion mutants",6772
+"STAT1","R-HSA-9669938","Signaling by KIT in disease",6772
+"STAT1","R-HSA-9670439","Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",6772
+"STAT1","R-HSA-9671555","Signaling by PDGFR in disease",6772
+"STAT1","R-HSA-6783589","Interleukin-6 family signaling",6772
+"STAT1","R-HSA-982772","Growth hormone receptor signaling",6772
+"STAT1","R-HSA-8854691","Interleukin-20 family signaling",6772
+"STAT1","R-HSA-9013508","NOTCH3 Intracellular Domain Regulates Transcription",6772
+"STAT1","R-HSA-9705462","Inactivation of CSF3 (G-CSF) signaling",6772
+"STAT1","R-HSA-912694","Regulation of IFNA/IFNB signaling",6772
+"STAT1","R-HSA-186763","Downstream signal transduction",6772
+"STAT1","R-HSA-2173795","Downregulation of SMAD2/3:SMAD4 transcriptional activity",6772
+"STAT1","R-HSA-9674555","Signaling by CSF3 (G-CSF)",6772
+"STAT1","R-HSA-1839124","FGFR1 mutant receptor activation",6772
+"STAT1","R-HSA-5655302","Signaling by FGFR1 in disease",6772
+"STAT1","R-HSA-1433557","Signaling by SCF-KIT",6772
+"STAT1","R-HSA-451927","Interleukin-2 family signaling",6772
+"STAT1","R-HSA-9012852","Signaling by NOTCH3",6772
+"STAT1","R-HSA-2173793","Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer",6772
+"STAT1","R-HSA-447115","Interleukin-12 family signaling",6772
+"STAT1","R-HSA-186797","Signaling by PDGF",6772
+"STAT1","R-HSA-1226099","Signaling by FGFR in disease",6772
+"STAT1","R-HSA-1169408","ISG15 antiviral mechanism",6772
+"TAB1","R-HSA-937042","IRAK2 mediated activation of TAK1 complex",10454
+"TAB1","R-HSA-9014325","TICAM1,TRAF6-dependent induction of TAK1 complex",10454
+"TAB1","R-HSA-9645460","Alpha-protein kinase 1 signaling pathway",10454
+"TAB1","R-HSA-975163","IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation",10454
+"TAB1","R-HSA-937072","TRAF6-mediated induction of TAK1 complex within TLR4 complex",10454
+"TAB1","R-HSA-450321","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",10454
+"TAB1","R-HSA-450302","activated TAK1 mediates p38 MAPK activation",10454
+"TAB1","R-HSA-5357956","TNFR1-induced NFkappaB signaling pathway",10454
+"TAB1","R-HSA-168638","NOD1/2 Signaling Pathway",10454
+"TAB1","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",10454
+"TAB1","R-HSA-75893","TNF signaling",10454
+"TAB1","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",10454
+"TAB1","R-HSA-450294","MAP kinase activation",10454
+"TAB1","R-HSA-448424","Interleukin-17 signaling",10454
+"TAB1","R-HSA-2871837","FCERI mediated NF-kB activation",10454
+"TAB1","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",10454
+"TAB1","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",10454
+"TAB1","R-HSA-975871","MyD88 cascade initiated on plasma membrane",10454
+"TAB1","R-HSA-5607764","CLEC7A (Dectin-1) signaling",10454
+"TAB1","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",10454
+"TAB1","R-HSA-975155","MyD88 dependent cascade initiated on endosome",10454
+"TAB1","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",10454
+"TAB1","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",10454
+"TAB1","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",10454
+"TAB1","R-HSA-166166","MyD88-independent TLR4 cascade ",10454
+"TAB1","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",10454
+"TAB1","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",10454
+"TAB1","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",10454
+"TAB1","R-HSA-9020702","Interleukin-1 signaling",10454
+"TAB1","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",10454
+"TAB2","R-HSA-937042","IRAK2 mediated activation of TAK1 complex",23118
+"TAB2","R-HSA-9014325","TICAM1,TRAF6-dependent induction of TAK1 complex",23118
+"TAB2","R-HSA-9645460","Alpha-protein kinase 1 signaling pathway",23118
+"TAB2","R-HSA-975163","IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation",23118
+"TAB2","R-HSA-937072","TRAF6-mediated induction of TAK1 complex within TLR4 complex",23118
+"TAB2","R-HSA-450321","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",23118
+"TAB2","R-HSA-450302","activated TAK1 mediates p38 MAPK activation",23118
+"TAB2","R-HSA-5357956","TNFR1-induced NFkappaB signaling pathway",23118
+"TAB2","R-HSA-1251985","Nuclear signaling by ERBB4",23118
+"TAB2","R-HSA-168638","NOD1/2 Signaling Pathway",23118
+"TAB2","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",23118
+"TAB2","R-HSA-75893","TNF signaling",23118
+"TAB2","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",23118
+"TAB2","R-HSA-1236394","Signaling by ERBB4",23118
+"TAB2","R-HSA-450294","MAP kinase activation",23118
+"TAB2","R-HSA-448424","Interleukin-17 signaling",23118
+"TAB2","R-HSA-2871837","FCERI mediated NF-kB activation",23118
+"TAB2","R-HSA-168142","Toll Like Receptor 10 (TLR10) Cascade",23118
+"TAB2","R-HSA-168176","Toll Like Receptor 5 (TLR5) Cascade",23118
+"TAB2","R-HSA-975871","MyD88 cascade initiated on plasma membrane",23118
+"TAB2","R-HSA-202424","Downstream TCR signaling",23118
+"TAB2","R-HSA-5607764","CLEC7A (Dectin-1) signaling",23118
+"TAB2","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",23118
+"TAB2","R-HSA-975155","MyD88 dependent cascade initiated on endosome",23118
+"TAB2","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",23118
+"TAB2","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",23118
+"TAB2","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",23118
+"TAB2","R-HSA-166166","MyD88-independent TLR4 cascade ",23118
+"TAB2","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",23118
+"TAB2","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",23118
+"TGFB1","R-HSA-2173791","TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)",7040
+"TGFB1","R-HSA-2173788","Downregulation of TGF-beta receptor signaling",7040
+"TGFB1","R-HSA-3000170","Syndecan interactions",7040
+"TGFB1","R-HSA-2129379","Molecules associated with elastic fibres",7040
+"TGFB1","R-HSA-1566948","Elastic fibre formation",7040
+"TGFB1","R-HSA-2173789","TGF-beta receptor signaling activates SMADs",7040
+"TGFB1","R-HSA-8941858","Regulation of RUNX3 expression and activity",7040
+"TGFB1","R-HSA-3000171","Non-integrin membrane-ECM interactions",7040
+"TGFB1","R-HSA-3000178","ECM proteoglycans",7040
+"TGFB1","R-HSA-381340","Transcriptional regulation of white adipocyte differentiation",7040
+"TGFB1","R-HSA-170834","Signaling by TGF-beta Receptor Complex",7040
+"TGFB1","R-HSA-8878159","Transcriptional regulation by RUNX3",7040
+"TGFB1","R-HSA-5689603","UCH proteinases",7040
+"TGFB1","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",7040
+"TGFB1","R-HSA-9006936","Signaling by TGFB family members",7040
+"TGFB1","R-HSA-114608","Platelet degranulation ",7040
+"TGFB1","R-HSA-76005","Response to elevated platelet cytosolic Ca2+",7040
+"TGFB1","R-HSA-202733","Cell surface interactions at the vascular wall",7040
+"TGFB1","R-HSA-168255","Influenza Infection",7040
+"TGFB1","R-HSA-76002","Platelet activation, signaling and aggregation",7040
+"TGFB1","R-HSA-5688426","Deubiquitination",7040
+"TGFB1","R-HSA-1474244","Extracellular matrix organization",7040
+"TGFB1","R-HSA-5663202","Diseases of signal transduction by growth factor receptors and second messengers",7040
+"TGFB1","R-HSA-449147","Signaling by Interleukins",7040
+"TGFB2","R-HSA-2129379","Molecules associated with elastic fibres",7042
+"TGFB2","R-HSA-1566948","Elastic fibre formation",7042
+"TGFB2","R-HSA-2173789","TGF-beta receptor signaling activates SMADs",7042
+"TGFB2","R-HSA-3000178","ECM proteoglycans",7042
+"TGFB2","R-HSA-170834","Signaling by TGF-beta Receptor Complex",7042
+"TGFB2","R-HSA-9006936","Signaling by TGFB family members",7042
+"TGFB2","R-HSA-114608","Platelet degranulation ",7042
+"TGFB2","R-HSA-76005","Response to elevated platelet cytosolic Ca2+",7042
+"TGFB2","R-HSA-76002","Platelet activation, signaling and aggregation",7042
+"TGFB2","R-HSA-1474244","Extracellular matrix organization",7042
+"TGFB3","R-HSA-2129379","Molecules associated with elastic fibres",7043
+"TGFB3","R-HSA-1566948","Elastic fibre formation",7043
+"TGFB3","R-HSA-2173789","TGF-beta receptor signaling activates SMADs",7043
+"TGFB3","R-HSA-3000178","ECM proteoglycans",7043
+"TGFB3","R-HSA-170834","Signaling by TGF-beta Receptor Complex",7043
+"TGFB3","R-HSA-9006936","Signaling by TGFB family members",7043
+"TGFB3","R-HSA-114608","Platelet degranulation ",7043
+"TGFB3","R-HSA-76005","Response to elevated platelet cytosolic Ca2+",7043
+"TGFB3","R-HSA-76002","Platelet activation, signaling and aggregation",7043
+"TGFB3","R-HSA-1474244","Extracellular matrix organization",7043
+"TGFBR1","R-HSA-2173791","TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)",7046
+"TGFBR1","R-HSA-2173788","Downregulation of TGF-beta receptor signaling",7046
+"TGFBR1","R-HSA-2173789","TGF-beta receptor signaling activates SMADs",7046
+"TGFBR1","R-HSA-170834","Signaling by TGF-beta Receptor Complex",7046
+"TGFBR1","R-HSA-5689603","UCH proteinases",7046
+"TGFBR1","R-HSA-9006936","Signaling by TGFB family members",7046
+"TGFBR1","R-HSA-5689880","Ub-specific processing proteases",7046
+"TGFBR1","R-HSA-5688426","Deubiquitination",7046
+"TGFBR1","R-HSA-5663202","Diseases of signal transduction by growth factor receptors and second messengers",7046
+"TGFBR2","R-HSA-2173791","TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)",7048
+"TGFBR2","R-HSA-2173788","Downregulation of TGF-beta receptor signaling",7048
+"TGFBR2","R-HSA-2173789","TGF-beta receptor signaling activates SMADs",7048
+"TGFBR2","R-HSA-170834","Signaling by TGF-beta Receptor Complex",7048
+"TGFBR2","R-HSA-5689603","UCH proteinases",7048
+"TGFBR2","R-HSA-9006936","Signaling by TGFB family members",7048
+"TGFBR2","R-HSA-5688426","Deubiquitination",7048
+"TGFBR2","R-HSA-5663202","Diseases of signal transduction by growth factor receptors and second messengers",7048
+"TICAM1","R-HSA-2562578","TRIF-mediated programmed cell death",148022
+"TICAM1","R-HSA-9014325","TICAM1,TRAF6-dependent induction of TAK1 complex",148022
+"TICAM1","R-HSA-9013973","TICAM1-dependent activation of IRF3/IRF7",148022
+"TICAM1","R-HSA-975163","IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation",148022
+"TICAM1","R-HSA-140534","Caspase activation via Death Receptors in the presence of ligand",148022
+"TICAM1","R-HSA-1810476","RIP-mediated NFkB activation via ZBP1",148022
+"TICAM1","R-HSA-937072","TRAF6-mediated induction of TAK1 complex within TLR4 complex",148022
+"TICAM1","R-HSA-936964","Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon",148022
+"TICAM1","R-HSA-168927","TICAM1, RIP1-mediated IKK complex recruitment",148022
+"TICAM1","R-HSA-1606322","ZBP1(DAI) mediated induction of type I IFNs",148022
+"TICAM1","R-HSA-937041","IKK complex recruitment mediated by RIP1",148022
+"TICAM1","R-HSA-5357769","Caspase activation via extrinsic apoptotic signalling pathway",148022
+"TICAM1","R-HSA-5260271","Diseases of Immune System",148022
+"TICAM1","R-HSA-5602358","Diseases associated with the TLR signaling cascade",148022
+"TICAM1","R-HSA-1834949","Cytosolic sensors of pathogen-associated DNA ",148022
+"TICAM1","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",148022
+"TICAM1","R-HSA-975155","MyD88 dependent cascade initiated on endosome",148022
+"TICAM1","R-HSA-168164","Toll Like Receptor 3 (TLR3) Cascade",148022
+"TICAM1","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",148022
+"TICAM1","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",148022
+"TICAM1","R-HSA-166166","MyD88-independent TLR4 cascade ",148022
+"TICAM1","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",148022
+"TICAM1","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",148022
+"TICAM1","R-HSA-168898","Toll-like Receptor Cascades",148022
+"TICAM1","R-HSA-109581","Apoptosis",148022
+"TICAM1","R-HSA-5357801","Programmed Cell Death",148022
+"TLR2","R-HSA-5602498","MyD88 deficiency (TLR2/4)",7097
+"TLR2","R-HSA-5603041","IRAK4 deficiency (TLR2/4)",7097
+"TLR2","R-HSA-5686938","Regulation of TLR by endogenous ligand",7097
+"TLR2","R-HSA-9635486","Infection with Mycobacterium tuberculosis",7097
+"TLR2","R-HSA-5260271","Diseases of Immune System",7097
+"TLR2","R-HSA-5602358","Diseases associated with the TLR signaling cascade",7097
+"TLR2","R-HSA-1461957","Beta defensins",7097
+"TLR2","R-HSA-1461973","Defensins",7097
+"TLR2","R-HSA-1236974","ER-Phagosome pathway",7097
+"TLR2","R-HSA-6803157","Antimicrobial peptides",7097
+"TLR2","R-HSA-1236975","Antigen processing-Cross presentation",7097
+"TLR2","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",7097
+"TLR2","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",7097
+"TLR2","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",7097
+"TLR2","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",7097
+"TLR2","R-HSA-9705671","SARS-CoV-2 activates/modulates innate and adaptive immune responses",7097
+"TLR2","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",7097
+"TLR2","R-HSA-168898","Toll-like Receptor Cascades",7097
+"TLR2","R-HSA-9705683","SARS-CoV-2-host interactions",7097
+"TLR2","R-HSA-9694516","SARS-CoV-2 Infection",7097
+"TLR2","R-HSA-983169","Class I MHC mediated antigen processing & presentation",7097
+"TLR2","R-HSA-9679506","SARS-CoV Infections",7097
+"TLR2","R-HSA-6798695","Neutrophil degranulation",7097
+"TLR4","R-HSA-2562578","TRIF-mediated programmed cell death",7099
+"TLR4","R-HSA-975163","IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation",7099
+"TLR4","R-HSA-140534","Caspase activation via Death Receptors in the presence of ligand",7099
+"TLR4","R-HSA-5602498","MyD88 deficiency (TLR2/4)",7099
+"TLR4","R-HSA-937072","TRAF6-mediated induction of TAK1 complex within TLR4 complex",7099
+"TLR4","R-HSA-5603041","IRAK4 deficiency (TLR2/4)",7099
+"TLR4","R-HSA-936964","Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon",7099
+"TLR4","R-HSA-5686938","Regulation of TLR by endogenous ligand",7099
+"TLR4","R-HSA-937041","IKK complex recruitment mediated by RIP1",7099
+"TLR4","R-HSA-5357769","Caspase activation via extrinsic apoptotic signalling pathway",7099
+"TLR4","R-HSA-5260271","Diseases of Immune System",7099
+"TLR4","R-HSA-5602358","Diseases associated with the TLR signaling cascade",7099
+"TLR4","R-HSA-9707616","Heme signaling",7099
+"TLR4","R-HSA-1236974","ER-Phagosome pathway",7099
+"TLR4","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",7099
+"TLR4","R-HSA-975155","MyD88 dependent cascade initiated on endosome",7099
+"TLR4","R-HSA-1236975","Antigen processing-Cross presentation",7099
+"TLR4","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",7099
+"TLR4","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",7099
+"TLR4","R-HSA-166166","MyD88-independent TLR4 cascade ",7099
+"TLR4","R-HSA-937061","TRIF(TICAM1)-mediated TLR4 signaling ",7099
+"TLR4","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",7099
+"TLR4","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",7099
+"TLR4","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",7099
+"TLR4","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",7099
+"TLR4","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",7099
+"TLR4","R-HSA-168898","Toll-like Receptor Cascades",7099
+"TLR4","R-HSA-109581","Apoptosis",7099
+"TLR4","R-HSA-5357801","Programmed Cell Death",7099
+"TLR4","R-HSA-983169","Class I MHC mediated antigen processing & presentation",7099
+"TLR6","R-HSA-5602498","MyD88 deficiency (TLR2/4)",10333
+"TLR6","R-HSA-5603041","IRAK4 deficiency (TLR2/4)",10333
+"TLR6","R-HSA-5686938","Regulation of TLR by endogenous ligand",10333
+"TLR6","R-HSA-5260271","Diseases of Immune System",10333
+"TLR6","R-HSA-5602358","Diseases associated with the TLR signaling cascade",10333
+"TLR6","R-HSA-1236974","ER-Phagosome pathway",10333
+"TLR6","R-HSA-1236975","Antigen processing-Cross presentation",10333
+"TLR6","R-HSA-166058","MyD88:MAL(TIRAP) cascade initiated on plasma membrane",10333
+"TLR6","R-HSA-168188","Toll Like Receptor TLR6:TLR2 Cascade",10333
+"TLR6","R-HSA-168179","Toll Like Receptor TLR1:TLR2 Cascade",10333
+"TLR6","R-HSA-181438","Toll Like Receptor 2 (TLR2) Cascade",10333
+"TLR6","R-HSA-166016","Toll Like Receptor 4 (TLR4) Cascade",10333
+"TLR6","R-HSA-168898","Toll-like Receptor Cascades",10333
+"TLR6","R-HSA-983169","Class I MHC mediated antigen processing & presentation",10333
+"TLR9","R-HSA-1679131","Trafficking and processing of endosomal TLR",54106
+"TLR9","R-HSA-975110","TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling",54106
+"TLR9","R-HSA-109704","PI3K Cascade",54106
+"TLR9","R-HSA-112399","IRS-mediated signalling",54106
+"TLR9","R-HSA-2428928","IRS-related events triggered by IGF1R",54106
+"TLR9","R-HSA-2428924","IGF1R signaling cascade",54106
+"TLR9","R-HSA-2404192","Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)",54106
+"TLR9","R-HSA-74751","Insulin receptor signalling cascade",54106
+"TLR9","R-HSA-74752","Signaling by Insulin receptor",54106
+"TLR9","R-HSA-9679191","Potential therapeutics for SARS",54106
+"TLR9","R-HSA-975138","TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation",54106
+"TLR9","R-HSA-975155","MyD88 dependent cascade initiated on endosome",54106
+"TLR9","R-HSA-168181","Toll Like Receptor 7/8 (TLR7/8) Cascade",54106
+"TLR9","R-HSA-168138","Toll Like Receptor 9 (TLR9) Cascade",54106
+"TLR9","R-HSA-168898","Toll-like Receptor Cascades",54106
+"TLR9","R-HSA-9679506","SARS-CoV Infections",54106
+"TNF","R-HSA-5357786","TNFR1-induced proapoptotic signaling",7124
+"TNF","R-HSA-5357956","TNFR1-induced NFkappaB signaling pathway",7124
+"TNF","R-HSA-5357905","Regulation of TNFR1 signaling",7124
+"TNF","R-HSA-6783783","Interleukin-10 signaling",7124
+"TNF","R-HSA-75893","TNF signaling",7124
+"TNF","R-HSA-381340","Transcriptional regulation of white adipocyte differentiation",7124
+"TNF","R-HSA-5668541","TNFR2 non-canonical NF-kB pathway",7124
+"TNF","R-HSA-6785807","Interleukin-4 and Interleukin-13 signaling",7124
+"TNF","R-HSA-73887","Death Receptor Signalling",7124
+"TNF","R-HSA-449147","Signaling by Interleukins",7124
+"TNFRSF1A","R-HSA-5357786","TNFR1-induced proapoptotic signaling",7132
+"TNFRSF1A","R-HSA-5669034","TNFs bind their physiological receptors",7132
+"TNFRSF1A","R-HSA-5357956","TNFR1-induced NFkappaB signaling pathway",7132
+"TNFRSF1A","R-HSA-5357905","Regulation of TNFR1 signaling",7132
+"TNFRSF1A","R-HSA-6783783","Interleukin-10 signaling",7132
+"TNFRSF1A","R-HSA-75893","TNF signaling",7132
+"TNFRSF1A","R-HSA-5668541","TNFR2 non-canonical NF-kB pathway",7132
+"TNFRSF1A","R-HSA-73887","Death Receptor Signalling",7132
+"TNFRSF1A","R-HSA-449147","Signaling by Interleukins",7132
+"TOP1","R-HSA-4615885","SUMOylation of DNA replication proteins",7150
+"TOP1","R-HSA-3108232","SUMO E3 ligases SUMOylate target proteins",7150
+"TOP1","R-HSA-2990846","SUMOylation",7150
+"TRAF6","R-HSA-937042","IRAK2 mediated activation of TAK1 complex",7189
+"TRAF6","R-HSA-193692","Regulated proteolysis of p75NTR",7189
+"TRAF6","R-HSA-9014325","TICAM1,TRAF6-dependent induction of TAK1 complex",7189
+"TRAF6","R-HSA-9645460","Alpha-protein kinase 1 signaling pathway",7189
+"TRAF6","R-HSA-209543","p75NTR recruits signalling complexes",7189
+"TRAF6","R-HSA-209560","NF-kB is activated and signals survival",7189
+"TRAF6","R-HSA-975110","TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling",7189
+"TRAF6","R-HSA-937039","IRAK1 recruits IKK complex",7189
+"TRAF6","R-HSA-975144","IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation",7189
+"TRAF6","R-HSA-193639","p75NTR signals via NF-kB",7189
+"TRAF6","R-HSA-205043","NRIF signals cell death from the nucleus",7189
+"TRAF6","R-HSA-975163","IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation",7189
+"TRAF6","R-HSA-937072","TRAF6-mediated induction of TAK1 complex within TLR4 complex",7189
+"TRAF6","R-HSA-9758274","Regulation of NF-kappa B signaling",7189
+"TRAF6","R-HSA-168927","TICAM1, RIP1-mediated IKK complex recruitment",7189
+"TRAF6","R-HSA-450321","JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1",7189
+"TRAF6","R-HSA-450302","activated TAK1 mediates p38 MAPK activation",7189
+"TRAF6","R-HSA-933542","TRAF6 mediated NF-kB activation",7189
+"TRAF6","R-HSA-937041","IKK complex recruitment mediated by RIP1",7189
+"TRAF6","R-HSA-933541","TRAF6 mediated IRF7 activation",7189
+"TRAF6","R-HSA-168638","NOD1/2 Signaling Pathway",7189
+"TRAF6","R-HSA-5689896","Ovarian tumor domain proteases",7189
+"TRAF6","R-HSA-9692916","SARS-CoV-1 activates/modulates innate immune responses",7189
+"TRAF6","R-HSA-445989","TAK1-dependent IKK and NF-kappa-B activation  ",7189
+"TRAF6","R-HSA-168643","Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",7189
+"TRAF6","R-HSA-450294","MAP kinase activation",7189
+"TRAF6","R-HSA-448424","Interleukin-17 signaling",7189
+"TRAF6","R-HSA-204998","Cell death signalling via NRAGE, NRIF and NADE",7189
+"TRAF6","R-HSA-168928","DDX58/IFIH1-mediated induction of interferon-alpha/beta",7189
+"TRAF6","R-HSA-2871837","FCERI mediated NF-kB activation",7189
+"TRDMT1","R-HSA-6782315","tRNA modification in the nucleus and cytosol",1787
+"TRDMT1","R-HSA-72306","tRNA processing",1787
+"XDH","R-HSA-8851680","Butyrophilin (BTN) family interactions",7498
+"XDH","R-HSA-74259","Purine catabolism",7498
+"XDH","R-HSA-9748787","Azathioprine ADME",7498
+"XDH","R-HSA-8956319","Nucleotide catabolism",7498
+"XDH","R-HSA-15869","Metabolism of nucleotides",7498
+"XDH","R-HSA-9748784","Drug ADME",7498

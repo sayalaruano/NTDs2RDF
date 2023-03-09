@@ -1,0 +1,47 @@
+﻿Drug,Drugbank ID,Disease,Target_hgcn,Target_entrezgene_id,MESH ID
+Eflornithine,DB06243,"Trypanosomiasis, African",ODC1,4953,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",CYP1A2,1544,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",CYP2B6,1555,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",CYP2C19,1557,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",CYP3A4,1576,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",CYP3A5,1577,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",FMO3,2328,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",CYP2D6,1565,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",SLCO1B1,10599,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",SLCO1B3,28234,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",SLC22A2,6582,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",SLC22A6,9356,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",SLC22A8,9376,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",SLC47A2,146802,D014353
+Fexinidazole,DB12265,"Trypanosomiasis, African",SLC47A1,55244,D014353
+Nifurtimox,DB11820,"Trypanosomiasis, African",ABCG2,9429,D014353
+Nifurtimox,DB11820,"Trypanosomiasis, African",ALB,213,D014353
+Pentamidine,DB00738,"Trypanosomiasis, African",CYP2C19,1557,D014353
+Pentamidine,DB00738,"Trypanosomiasis, African",TRDMT1,1787,D014353
+Pentamidine,DB00738,"Trypanosomiasis, African",CYP2D6,1565,D014353
+Suramin,DB04786,"Trypanosomiasis, African",SIRT5,23408,D014353
+Suramin,DB04786,"Trypanosomiasis, African",PLA2G2A,5320,D014353
+Suramin,DB04786,"Trypanosomiasis, African",F2,2147,D014353
+Fexinidazole,DB12265,Chagas Disease,CYP1A2,1544,D014355
+Fexinidazole,DB12265,Chagas Disease,CYP2B6,1555,D014355
+Fexinidazole,DB12265,Chagas Disease,CYP2C19,1557,D014355
+Fexinidazole,DB12265,Chagas Disease,CYP3A4,1576,D014355
+Fexinidazole,DB12265,Chagas Disease,CYP3A5,1577,D014355
+Fexinidazole,DB12265,Chagas Disease,FMO3,2328,D014355
+Fexinidazole,DB12265,Chagas Disease,CYP2D6,1565,D014355
+Fexinidazole,DB12265,Chagas Disease,SLCO1B1,10599,D014355
+Fexinidazole,DB12265,Chagas Disease,SLCO1B3,28234,D014355
+Fexinidazole,DB12265,Chagas Disease,SLC22A2,6582,D014355
+Fexinidazole,DB12265,Chagas Disease,SLC22A6,9356,D014355
+Fexinidazole,DB12265,Chagas Disease,SLC22A8,9376,D014355
+Fexinidazole,DB12265,Chagas Disease,SLC47A2,146802,D014355
+Fexinidazole,DB12265,Chagas Disease,SLC47A1,55244,D014355
+Nifurtimox,DB11820,Chagas Disease,ABCG2,9429,D014355
+Nifurtimox,DB11820,Chagas Disease,ALB,213,D014355
+Nitrofural,DB00336,Chagas Disease,XDH,7498,D014355
+Miltefosine,DB09031,Leishmaniasis,PLD1,5337,D007896
+Miltefosine,DB09031,Leishmaniasis,ABCB1,5243,D007896
+Pentamidine,DB00738,Leishmaniasis,CYP2C19,1557,D007896
+Pentamidine,DB00738,Leishmaniasis,TRDMT1,1787,D007896
+Pentamidine,DB00738,Leishmaniasis,CYP2D6,1565,D007896
+Sodium stibogluconate,DB05630,Leishmaniasis,TOP1,7150,D007896

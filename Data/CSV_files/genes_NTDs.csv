@@ -1,0 +1,263 @@
+﻿hgnc_symbol,entrezgene_id,Disease,MESH ID
+ACE,1636,Chagas Disease,D014355
+ADCY1,107,Chagas Disease,D014355
+AKT1,207,Chagas Disease,D014355
+AKT2,208,Chagas Disease,D014355
+AKT3,10000,Chagas Disease,D014355
+BDKRB2,624,Chagas Disease,D014355
+C1QA,712,Chagas Disease,D014355
+C1QB,713,Chagas Disease,D014355
+C1QC,714,Chagas Disease,D014355
+C3,718,Chagas Disease,D014355
+CALR,811,Chagas Disease,D014355
+CASP8,841,Chagas Disease,D014355
+CCL2,6347,Chagas Disease,D014355
+CCL3,6348,Chagas Disease,D014355
+CCL3L1,6349,Chagas Disease,D014355
+CCL3L3,414062,Chagas Disease,D014355
+CCL5,6352,Chagas Disease,D014355
+CD247,919,Chagas Disease,D014355
+CD3D,915,Chagas Disease,D014355
+CD3E,916,Chagas Disease,D014355
+CD3G,917,Chagas Disease,D014355
+CYP2B6,1555,Chagas Disease,D014355
+CYP1A2,1544,Chagas Disease,D014355
+CFLAR,8837,Chagas Disease,D014355
+CHUK,1147,Chagas Disease,D014355
+CXCL8,3576,Chagas Disease,D014355
+FADD,8772,Chagas Disease,D014355
+FAS,355,Chagas Disease,D014355
+FASLG,356,Chagas Disease,D014355
+FOS,2353,Chagas Disease,D014355
+GNA11,2767,Chagas Disease,D014355
+GNA14,9630,Chagas Disease,D014355
+GNA15,2769,Chagas Disease,D014355
+GNAI1,2770,Chagas Disease,D014355
+GNAI2,2771,Chagas Disease,D014355
+GNAI3,2773,Chagas Disease,D014355
+GNAL,2774,Chagas Disease,D014355
+GNAO1,2775,Chagas Disease,D014355
+GNAQ,2776,Chagas Disease,D014355
+GNAS,2778,Chagas Disease,D014355
+IFNB1,3456,Chagas Disease,D014355
+IFNG,3458,Chagas Disease,D014355
+IFNGR1,3459,Chagas Disease,D014355
+IFNGR2,3460,Chagas Disease,D014355
+IKBKB,3551,Chagas Disease,D014355
+IKBKG,8517,Chagas Disease,D014355
+IL10,3586,Chagas Disease,D014355
+IL12A,3592,Chagas Disease,D014355
+IL12B,3593,Chagas Disease,D014355
+IL1B,3553,Chagas Disease,D014355
+IL2,3558,Chagas Disease,D014355
+IL6,3569,Chagas Disease,D014355
+IRAK1,3654,Chagas Disease,D014355
+IRAK4,51135,Chagas Disease,D014355
+JUN,3725,Chagas Disease,D014355
+KNG1,3827,Chagas Disease,D014355
+SLC47A1,55244,Chagas Disease,D014355
+MAP2K4,6416,Chagas Disease,D014355
+SLC47A2,146802,Chagas Disease,D014355
+MAPK1,5594,Chagas Disease,D014355
+MAPK10,5602,Chagas Disease,D014355
+MAPK11,5600,Chagas Disease,D014355
+MAPK12,6300,Chagas Disease,D014355
+MAPK13,5603,Chagas Disease,D014355
+MAPK14,1432,Chagas Disease,D014355
+MAPK3,5595,Chagas Disease,D014355
+MAPK8,5599,Chagas Disease,D014355
+MAPK9,5601,Chagas Disease,D014355
+CYP3A4,1576,Chagas Disease,D014355
+CYP2C19,1557,Chagas Disease,D014355
+MYD88,4615,Chagas Disease,D014355
+SLC22A8,9376,Chagas Disease,D014355
+NFKB1,4790,Chagas Disease,D014355
+NFKBIA,4792,Chagas Disease,D014355
+SLC22A6,9356,Chagas Disease,D014355
+NOS2,4843,Chagas Disease,D014355
+PIK3CA,5290,Chagas Disease,D014355
+PIK3CB,5291,Chagas Disease,D014355
+PIK3CD,5293,Chagas Disease,D014355
+PIK3R1,5295,Chagas Disease,D014355
+PIK3R2,5296,Chagas Disease,D014355
+PIK3R3,8503,Chagas Disease,D014355
+PLCB1,23236,Chagas Disease,D014355
+PLCB2,5330,Chagas Disease,D014355
+PLCB3,5331,Chagas Disease,D014355
+PLCB4,5332,Chagas Disease,D014355
+PPP2CA,5515,Chagas Disease,D014355
+PPP2CB,5516,Chagas Disease,D014355
+PPP2R1A,5518,Chagas Disease,D014355
+PPP2R1B,5519,Chagas Disease,D014355
+PPP2R2A,5520,Chagas Disease,D014355
+PPP2R2B,5521,Chagas Disease,D014355
+SLC22A2,6582,Chagas Disease,D014355
+PPP2R2C,5522,Chagas Disease,D014355
+SLCO1B3,28234,Chagas Disease,D014355
+PPP2R2D,55844,Chagas Disease,D014355
+RELA,5970,Chagas Disease,D014355
+SERPINE1,5054,Chagas Disease,D014355
+SMAD2,4087,Chagas Disease,D014355
+TGFB1,7040,Chagas Disease,D014355
+SLCO1B1,10599,Chagas Disease,D014355
+TGFB2,7042,Chagas Disease,D014355
+ABCG2,9429,Chagas Disease,D014355
+CYP2D6,1565,Chagas Disease,D014355
+TGFB3,7043,Chagas Disease,D014355
+TGFBR1,7046,Chagas Disease,D014355
+FMO3,2328,Chagas Disease,D014355
+CYP3A5,1577,Chagas Disease,D014355
+TGFBR2,7048,Chagas Disease,D014355
+TICAM1,148022,Chagas Disease,D014355
+TLR2,7097,Chagas Disease,D014355
+TLR4,7099,Chagas Disease,D014355
+XDH,7498,Chagas Disease,D014355
+ALB,213,Chagas Disease,D014355
+TLR6,10333,Chagas Disease,D014355
+TLR9,54106,Chagas Disease,D014355
+TNF,7124,Chagas Disease,D014355
+TNFRSF1A,7132,Chagas Disease,D014355
+TRAF6,7189,Chagas Disease,D014355
+C3,718,Leishmaniasis,D007896
+CR1,1378,Leishmaniasis,D007896
+CR1L,1379,Leishmaniasis,D007896
+CYBA,1535,Leishmaniasis,D007896
+CYBB,1536,Leishmaniasis,D007896
+CYP2C19,1557,Leishmaniasis,D007896
+EEF1A1,1915,Leishmaniasis,D007896
+EEF1A2,1917,Leishmaniasis,D007896
+ELK1,2002,Leishmaniasis,D007896
+FCGR1A,2209,Leishmaniasis,D007896
+FCGR2A,2212,Leishmaniasis,D007896
+FCGR2C,9103,Leishmaniasis,D007896
+FCGR3A,2214,Leishmaniasis,D007896
+FCGR3B,2215,Leishmaniasis,D007896
+FCGR3B,124905743,Leishmaniasis,D007896
+FOS,2353,Leishmaniasis,D007896
+HLA-DMA,3108,Leishmaniasis,D007896
+HLA-DOA,3111,Leishmaniasis,D007896
+HLA-DOB,3112,Leishmaniasis,D007896
+HLA-DPA1,3113,Leishmaniasis,D007896
+HLA-DPB1,3115,Leishmaniasis,D007896
+HLA-DQA1,3117,Leishmaniasis,D007896
+HLA-DQA2,3117,Leishmaniasis,D007896
+HLA-DQA2,3118,Leishmaniasis,D007896
+HLA-DQB1,3119,Leishmaniasis,D007896
+HLA-DRA,3122,Leishmaniasis,D007896
+HLA-DRB1,3123,Leishmaniasis,D007896
+HLA-DRB3,3125,Leishmaniasis,D007896
+HLA-DRB4,3126,Leishmaniasis,D007896
+HLA-DRB5,3127,Leishmaniasis,D007896
+IFNG,3458,Leishmaniasis,D007896
+IFNGR1,3459,Leishmaniasis,D007896
+IFNGR2,3460,Leishmaniasis,D007896
+IL10,3586,Leishmaniasis,D007896
+IL12A,3592,Leishmaniasis,D007896
+IL12B,3593,Leishmaniasis,D007896
+IL1A,3552,Leishmaniasis,D007896
+IL1B,3553,Leishmaniasis,D007896
+IL4,3565,Leishmaniasis,D007896
+IRAK1,3654,Leishmaniasis,D007896
+IRAK4,51135,Leishmaniasis,D007896
+ITGA4,3676,Leishmaniasis,D007896
+ITGAM,3684,Leishmaniasis,D007896
+ITGB1,3688,Leishmaniasis,D007896
+ITGB2,3689,Leishmaniasis,D007896
+JAK1,3716,Leishmaniasis,D007896
+JAK2,3717,Leishmaniasis,D007896
+JUN,3725,Leishmaniasis,D007896
+MAP3K7,6885,Leishmaniasis,D007896
+MAPK1,5594,Leishmaniasis,D007896
+MAPK11,5600,Leishmaniasis,D007896
+MAPK12,6300,Leishmaniasis,D007896
+MAPK13,5603,Leishmaniasis,D007896
+MAPK14,1432,Leishmaniasis,D007896
+ABCB1,5243,Leishmaniasis,D007896
+PLD1,5337,Leishmaniasis,D007896
+MAPK3,5595,Leishmaniasis,D007896
+MARCKSL1,65108,Leishmaniasis,D007896
+MYD88,4615,Leishmaniasis,D007896
+NCF1,653361,Leishmaniasis,D007896
+TRDMT1,1787,Leishmaniasis,D007896
+CYP2D6,1565,Leishmaniasis,D007896
+NCF2,4688,Leishmaniasis,D007896
+NCF4,4689,Leishmaniasis,D007896
+NFKB1,4790,Leishmaniasis,D007896
+NFKBIA,4792,Leishmaniasis,D007896
+NFKBIB,4793,Leishmaniasis,D007896
+NOS2,4843,Leishmaniasis,D007896
+PRKCB,5579,Leishmaniasis,D007896
+PTGS2,5743,Leishmaniasis,D007896
+PTPN6,5777,Leishmaniasis,D007896
+RELA,5970,Leishmaniasis,D007896
+STAT1,6772,Leishmaniasis,D007896
+TOP1,7150,Leishmaniasis,D007896
+TAB1,10454,Leishmaniasis,D007896
+TAB2,23118,Leishmaniasis,D007896
+TGFB1,7040,Leishmaniasis,D007896
+TGFB2,7042,Leishmaniasis,D007896
+TGFB3,7043,Leishmaniasis,D007896
+TLR2,7097,Leishmaniasis,D007896
+TLR4,7099,Leishmaniasis,D007896
+TNF,7124,Leishmaniasis,D007896
+TRAF6,7189,Leishmaniasis,D007896
+ACE,1636,"Trypanosomiasis, African",D014353
+BDKRB2,624,"Trypanosomiasis, African",D014353
+C1QB,713,"Trypanosomiasis, African",D014353
+CALR,811,"Trypanosomiasis, African",D014353
+CCL2,6347,"Trypanosomiasis, African",D014353
+CCL3,6348,"Trypanosomiasis, African",D014353
+CCL3L3,414062,"Trypanosomiasis, African",D014353
+FOS,2353,"Trypanosomiasis, African",D014353
+GNA11,2767,"Trypanosomiasis, African",D014353
+GNA15,2769,"Trypanosomiasis, African",D014353
+GNAI3,2773,"Trypanosomiasis, African",D014353
+IFNB1,3456,"Trypanosomiasis, African",D014353
+IFNG,3458,"Trypanosomiasis, African",D014353
+IFNGR2,3460,"Trypanosomiasis, African",D014353
+IKBKB,3551,"Trypanosomiasis, African",D014353
+IKBKG,8517,"Trypanosomiasis, African",D014353
+IL10,3586,"Trypanosomiasis, African",D014353
+IL12A,3592,"Trypanosomiasis, African",D014353
+IL6,3569,"Trypanosomiasis, African",D014353
+IRAK4,51135,"Trypanosomiasis, African",D014353
+MAP2K4,6416,"Trypanosomiasis, African",D014353
+MAPK1,5594,"Trypanosomiasis, African",D014353
+MAPK10,5602,"Trypanosomiasis, African",D014353
+MAPK11,5600,"Trypanosomiasis, African",D014353
+MAPK13,5603,"Trypanosomiasis, African",D014353
+MYD88,4615,"Trypanosomiasis, African",D014353
+NFKB1,4790,"Trypanosomiasis, African",D014353
+NOS2,4843,"Trypanosomiasis, African",D014353
+PLCB2,5330,"Trypanosomiasis, African",D014353
+PLCB4,5332,"Trypanosomiasis, African",D014353
+PPP2CA,5515,"Trypanosomiasis, African",D014353
+PPP2R1B,5519,"Trypanosomiasis, African",D014353
+PPP2R2A,5520,"Trypanosomiasis, African",D014353
+PPP2R2C,5522,"Trypanosomiasis, African",D014353
+TGFB2,7042,"Trypanosomiasis, African",D014353
+TICAM1,148022,"Trypanosomiasis, African",D014353
+TLR6,10333,"Trypanosomiasis, African",D014353
+ODC1,4953,"Trypanosomiasis, African",D014353
+CYP1A2,1544,"Trypanosomiasis, African",D014353
+CYP2B6,1555,"Trypanosomiasis, African",D014353
+CYP2C19,1557,"Trypanosomiasis, African",D014353
+CYP3A4,1576,"Trypanosomiasis, African",D014353
+CYP3A5,1577,"Trypanosomiasis, African",D014353
+FMO3,2328,"Trypanosomiasis, African",D014353
+CYP2D6,1565,"Trypanosomiasis, African",D014353
+SLCO1B1,10599,"Trypanosomiasis, African",D014353
+SLCO1B3,28234,"Trypanosomiasis, African",D014353
+SLC22A2,6582,"Trypanosomiasis, African",D014353
+SLC22A6,9356,"Trypanosomiasis, African",D014353
+SLC22A8,9376,"Trypanosomiasis, African",D014353
+SLC47A2,146802,"Trypanosomiasis, African",D014353
+SLC47A1,55244,"Trypanosomiasis, African",D014353
+ABCG2,9429,"Trypanosomiasis, African",D014353
+ALB,213,"Trypanosomiasis, African",D014353
+CYP2C19,1557,"Trypanosomiasis, African",D014353
+TRDMT1,1787,"Trypanosomiasis, African",D014353
+CYP2D6,1565,"Trypanosomiasis, African",D014353
+SIRT5,23408,"Trypanosomiasis, African",D014353
+PLA2G2A,5320,"Trypanosomiasis, African",D014353
+F2,2147,"Trypanosomiasis, African",D014353

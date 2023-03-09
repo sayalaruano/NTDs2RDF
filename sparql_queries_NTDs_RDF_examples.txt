@@ -1,0 +1,190 @@
+# What drugs are used to treat Leishmaniasis?
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+
+SELECT DISTINCT ?drug ?drugname
+WHERE {
+    ?drug a ncit:C1909;
+  		  ncit:C70742 mesh:D007896;
+  sio:SIO_000300 ?drugname;
+}  
+
+# What drugs are used to treat Chagas disease and African Trypanosomiasis?
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+
+SELECT DISTINCT ?drug ?drugname
+WHERE {
+    ?drug a ncit:C1909;
+  		  ncit:C70742 mesh:D014353,
+                      mesh:D014355;
+  sio:SIO_000300 ?drugname;
+} 
+
+# What drugs are used to treat at least two out of the three NTDs?
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+
+SELECT DISTINCT ?drug ?drugname
+WHERE {
+  {
+    ?drug a ncit:C1909;
+  		  ncit:C70742 mesh:D014355,
+  					  mesh:D014353;
+  sio:SIO_000300 ?drugname;
+  }UNION{
+  	?drug a ncit:C1909;
+  		  ncit:C70742 mesh:D014353,
+  					  mesh:D007896;
+  sio:SIO_000300 ?drugname;
+  }UNION{
+  	?drug a ncit:C1909;
+  		  ncit:C70742 mesh:D014355,
+  					  mesh:D007896;
+  sio:SIO_000300 ?drugname;
+  }
+}
+
+# What drug against Chagas disease has the highest number of gene targets?
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+
+SELECT ?drug ?drugname (COUNT(DISTINCT ?gene) AS ?n_genetargets)
+WHERE {
+  ?drug a ncit:C1909;
+  		  ncit:C70742 mesh:D014355;
+  		  ncit:C82888 ?gene;
+   
+  sio:SIO_000300 ?drugname .
+}
+GROUP BY ?drug
+ORDER BY DESC(?n_genetargets)
+LIMIT 1
+
+# What are the genes associated to African Trypanosomiasis?
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+
+SELECT DISTINCT ?gene ?genename
+WHERE {
+  ?gene a ncit:C16612;
+  		  ncit:C25281 mesh:D014353;
+   
+  sio:SIO_000300 ?genename .
+}
+
+# What genes are associated to Leishmaniasis and Chagas Disease?
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+
+SELECT DISTINCT ?gene ?genename
+WHERE {
+  ?gene a ncit:C16612;
+  		  ncit:C25281 mesh:D007896,
+                      mesh:D014355;
+   
+  sio:SIO_000300 ?genename .
+}
+
+# What are the top 20 biological processes with the highest number of genes associated to Leishmaniasis?
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+
+SELECT ?bio_process ?bio_processname (COUNT(DISTINCT ?gene) AS ?count)
+WHERE {    
+  ?gene a ncit:C16612;
+  		  ncit:C25281 mesh:D007896;
+      	  obo:BFO_0000066 ?bio_process.
+  
+  ?bio_process a obo:GO_0008150;
+   
+  sio:SIO_000300 ?bio_processname .
+}
+GROUP BY ?bio_process
+ORDER BY DESC(?count)
+LIMIT 20
+
+# What are the top 20 molecular functions  with the highest number of genes associated to Chagas Disease?
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+
+SELECT ?mol_funct ?mol_functname (COUNT(DISTINCT ?gene) AS ?count)
+WHERE {    
+  ?gene a ncit:C16612;
+  		  ncit:C25281 mesh:D014355;
+      	  obo:RO_0002211 ?mol_funct.
+  
+  ?mol_funct a obo:GO_0003674;
+   
+  sio:SIO_000300 ?mol_functname .
+}
+GROUP BY ?mol_funct
+ORDER BY DESC(?count)
+LIMIT 20
+
+# What are the top 10 cellular components with the highest number of genes associated to African Trypanosomiasis?
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+
+SELECT ?cell_comp ?cell_compname (COUNT(DISTINCT ?gene) AS ?count)
+WHERE {    
+  ?gene a ncit:C16612;
+  		  ncit:C25281 mesh:D014353;
+      	  obo:BFO_0000050 ?cell_comp.
+  
+  ?cell_comp a obo:GO_0016043;
+   
+  sio:SIO_000300 ?cell_compname .
+}
+GROUP BY ?cell_comp
+ORDER BY DESC(?count)
+LIMIT 10
+
+# What are the top 30 pathways associated to the highest number of genes involved in Leishmaniasis?
+SELECT ?path ?path_name (COUNT(DISTINCT ?gene) AS ?count)
+WHERE {    
+  ?gene a ncit:C16612;
+  		  ncit:C25281 mesh:D007896;
+      	  obo:BFO_0000050 ?path.
+  
+  ?path a ncit:C54214;
+   
+  sio:SIO_000300 ?path_name .
+}
+GROUP BY ?path
+ORDER BY DESC(?count)
+LIMIT 30
+
+# What are the top 20 pathways associated to the highest number of genes involved in the three NTDs?
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+PREFIX sio: <http://semanticscience.org/resource/>
+PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+
+SELECT ?path ?path_name (COUNT(DISTINCT ?gene) AS ?count)
+WHERE {    
+  ?gene a ncit:C16612;
+  		  ncit:C25281 mesh:D014353,
+                      mesh:D014355,
+                      mesh:D007896;
+      	  obo:BFO_0000050 ?path.
+  
+  ?path a ncit:C54214;
+   
+  sio:SIO_000300 ?path_name .
+}
+GROUP BY ?path
+ORDER BY DESC(?count)
+LIMIT 20
