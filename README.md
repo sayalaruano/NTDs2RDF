@@ -19,12 +19,9 @@ The **NTDs2RDF** project aimed to create a schema and an RDF graph of proteins, 
 
 ![NTDs2RDF-gif](img/NTDs2RDF.gif)
 
-The RDF schema of the knowledge graph and the software architecture of the web app and the previous steps are shown below:
-
-![NTDs2RDF-schema](img/RDF2NTDs_schema.png)
+The RDF schema of the knowledge graph is presented in [one of the pages of the web app](https://ntds2rdf.streamlit.app/The_RDF_graph_schema). The software architecture of the web app and the previous steps are shown below:
 
 ![NTDs2RDF-arch](img/Architecture_NTDs2RDF.png)
-
 
 ## **How to run the web app locally?**
 I used [Pipenv](https://pypi.org/project/pipenv/) to create a Python virtual environment, which allows the management of python libraries and their dependencies. Each Pipenv virtual environment has a `Pipfile` with the names and versions of libraries installed in the virtual environment, and a `Pipfile.lock`, a JSON file that contains versions of libraries and their dependencies.
