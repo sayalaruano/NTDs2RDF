@@ -75,6 +75,7 @@ elif st.session_state.sparql_query_input != '':
             st.error("Error! Check your query syntax...")
             st.markdown("---")
 
+st.sidebar.warning('If there is an input or syntax error, you should go first to the Home page to load the data and the queries.')
 st.sidebar.header('Code availability')
 st.sidebar.write('The code for this project is available under the [MIT License](https://mit-license.org/) in this [GitHub repo](https://github.com/sayalaruano/NTDs2RDF). If you use or modify the source code of this project, please provide the proper attributions for this work.')
 st.sidebar.header('Support')
