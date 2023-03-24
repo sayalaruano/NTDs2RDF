@@ -1,189 +1,232 @@
-# What drugs are used to treat Leishmaniasis?
-PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+# What genes are associated to Leishmaniasis and Chagas Disease (include external identifiers for Ensembl)?
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
 
-SELECT DISTINCT ?drug ?drugname
+SELECT DISTINCT ?gene ?genename ?ensemblid
 WHERE {
-    ?drug a ncit:C1909;
-  		  ncit:C70742 mesh:D007896;
-  sio:SIO_000300 ?drugname;
-}  
+  ?gene a biolink:Gene;
+  		  biolink:gene_associated_with_condition mesh:D007896,
+                                               mesh:D014355;
+   
+  rdfs:label ?genename;
+  biolink:xref ?ensemblid;
+  FILTER(regex(STR(?ensemblid), "ensembl", "i")).
+}
 
-# What drugs are used to treat Chagas disease and African Trypanosomiasis?
-PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+# List 20 SNVs of genes associated to African Trypanosomiasis, including their phenotypes and chromosome locations
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
 
-SELECT DISTINCT ?drug ?drugname
+SELECT DISTINCT ?gene ?genename ?SNV ?SNVpehnotype ?SNVallele ?chr
 WHERE {
-    ?drug a ncit:C1909;
-  		  ncit:C70742 mesh:D014353,
-                      mesh:D014355;
-  sio:SIO_000300 ?drugname;
-} 
+  ?gene a biolink:Gene;
+  		  biolink:gene_associated_with_condition mesh:D014355;
+  rdfs:label ?genename.
+  
+  ?SNV a biolink:Snv;
+  	     biolink:is_sequence_variant_of ?gene;
+  biolink:has_phenotype ?SNVpehnotype;
+  biolink:has_attribute ?SNVallele;
+  biolink:has_sequence_location ?chr.
+}
+LIMIT 20
 
-# What drugs are used to treat at least two out of the three NTDs?
-PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+# List 10 drug-SNVs associations, including their alleles and phenotypes
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
 
-SELECT DISTINCT ?drug ?drugname
+SELECT DISTINCT ?drug ?drugname ?SNV ?SNVallele ?SNVpehnotype
+WHERE {
+  ?drug a biolink:Drug;
+  rdfs:label ?drugname.
+  
+  ?SNV a biolink:Snv;
+  	     biolink:associated_with ?drug;
+  biolink:has_attribute ?SNVallele;
+  biolink:has_phenotype ?SNVpehnotype.
+}
+LIMIT 10
+
+# What drugs are used to treat Chagas disease and African Trypanosomiasis (include external identifiers for PubChem)?
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
+
+SELECT DISTINCT ?drug ?drugname ?pubchem_id
+WHERE {
+    ?drug a biolink:Drug;
+  		  biolink:treats mesh:D014353,
+                       mesh:D014355;
+  rdfs:label ?drugname;
+  biolink:xref ?pubchem_id;
+  FILTER(regex(STR(?pubchem_id), "pubchem", "i")).
+}
+
+# What drugs are used to treat at least two out of the three NTDs (include external identifiers for CHEMBL)?
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
+
+SELECT DISTINCT ?drug ?drugname ?chembl_id
 WHERE {
   {
-    ?drug a ncit:C1909;
-  		  ncit:C70742 mesh:D014355,
-  					  mesh:D014353;
-  sio:SIO_000300 ?drugname;
+    ?drug a biolink:Drug;
+  		  biolink:treats mesh:D014355,
+  					           mesh:D014353;
+  rdfs:label ?drugname;
+  biolink:xref ?chembl_id;
+  FILTER(regex(STR(?chembl_id), "chembl", "i")).
   }UNION{
-  	?drug a ncit:C1909;
-  		  ncit:C70742 mesh:D014353,
-  					  mesh:D007896;
-  sio:SIO_000300 ?drugname;
+  	?drug a biolink:Drug;
+  		  biolink:treats mesh:D014353,
+  					           mesh:D007896;
+  rdfs:label ?drugname;
+  biolink:xref ?chembl_id;
+  FILTER(regex(STR(?chembl_id), "chembl", "i")).
   }UNION{
-  	?drug a ncit:C1909;
-  		  ncit:C70742 mesh:D014355,
-  					  mesh:D007896;
-  sio:SIO_000300 ?drugname;
+  	?drug a biolink:Drug;
+  		  biolink:treats mesh:D014355,
+  					           mesh:D007896;
+  rdfs:label ?drugname;
+  biolink:xref ?chembl_id;
+  FILTER(regex(STR(?chembl_id), "chembl", "i")).
   }
 }
 
-# What drug against Chagas disease has the highest number of gene targets?
-PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+# What drug against Chagas disease has the highest number of protein targets?
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
 
-SELECT ?drug ?drugname (COUNT(DISTINCT ?gene) AS ?n_genetargets)
+SELECT ?drug ?drugname (COUNT(DISTINCT ?protein) AS ?n_proteintargets)
 WHERE {
-  ?drug a ncit:C1909;
-  		  ncit:C70742 mesh:D014355;
-  		  ncit:C82888 ?gene;
+  ?drug a biolink:Drug;
+  		  biolink:treats mesh:D014355;
+  		  biolink:physically_interacts_with ?protein;
    
-  sio:SIO_000300 ?drugname .
+  rdfs:label ?drugname .
 }
 GROUP BY ?drug
-ORDER BY DESC(?n_genetargets)
+ORDER BY DESC(?n_proteintargets)
 LIMIT 1
 
-# What are the genes associated to African Trypanosomiasis?
-PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+# What are the top 20 protein domains with the highest number of proteins encoded by genes associated to African Trypanosomiasis?
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
 
-SELECT DISTINCT ?gene ?genename
-WHERE {
-  ?gene a ncit:C16612;
-  		  ncit:C25281 mesh:D014353;
+SELECT ?proteindom ?proteindom_name ?protein (COUNT(DISTINCT ?gene) AS ?count)
+WHERE {    
+  ?gene a biolink:Gene;
+  		  biolink:gene_associated_with_condition mesh:D014353;
+      	  biolink:translates_to ?protein.
+  
+  ?protein a biolink:Protein.
+  ?proteindom a biolink:ProteinDomain;
+                biolink:part_of ?protein;
    
-  sio:SIO_000300 ?genename .
+  rdfs:label ?proteindom_name .
 }
-
-# What genes are associated to Leishmaniasis and Chagas Disease?
-PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
-
-SELECT DISTINCT ?gene ?genename
-WHERE {
-  ?gene a ncit:C16612;
-  		  ncit:C25281 mesh:D007896,
-                      mesh:D014355;
-   
-  sio:SIO_000300 ?genename .
-}
+GROUP BY ?proteindom
+ORDER BY DESC(?count)
+LIMIT 20
 
 # What are the top 20 biological processes with the highest number of genes associated to Leishmaniasis?
-PREFIX obo: <http://purl.obolibrary.org/obo/>
-PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
 
 SELECT ?bio_process ?bio_processname (COUNT(DISTINCT ?gene) AS ?count)
 WHERE {    
-  ?gene a ncit:C16612;
-  		  ncit:C25281 mesh:D007896;
-      	  obo:BFO_0000066 ?bio_process.
+  ?gene a biolink:Gene;
+  		  biolink:gene_associated_with_condition mesh:D007896;
+      	biolink:acts_upstream_of ?bio_process.
   
-  ?bio_process a obo:GO_0008150;
+  ?bio_process a biolink:BiologicalProcess;
    
-  sio:SIO_000300 ?bio_processname .
+  rdfs:label ?bio_processname .
 }
 GROUP BY ?bio_process
 ORDER BY DESC(?count)
 LIMIT 20
 
 # What are the top 20 molecular functions  with the highest number of genes associated to Chagas Disease?
-PREFIX obo: <http://purl.obolibrary.org/obo/>
-PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
 
 SELECT ?mol_funct ?mol_functname (COUNT(DISTINCT ?gene) AS ?count)
 WHERE {    
-  ?gene a ncit:C16612;
-  		  ncit:C25281 mesh:D014355;
-      	  obo:RO_0002211 ?mol_funct.
+  ?gene a biolink:Gene;
+  		  biolink:gene_associated_with_condition mesh:D014355;
+      	biolink:participates_in ?mol_funct.
   
-  ?mol_funct a obo:GO_0003674;
+  ?mol_funct a biolink:MolecularActivity;
    
-  sio:SIO_000300 ?mol_functname .
+  rdfs:label ?mol_functname .
 }
 GROUP BY ?mol_funct
 ORDER BY DESC(?count)
 LIMIT 20
 
 # What are the top 10 cellular components with the highest number of genes associated to African Trypanosomiasis?
-PREFIX obo: <http://purl.obolibrary.org/obo/>
-PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
 
 SELECT ?cell_comp ?cell_compname (COUNT(DISTINCT ?gene) AS ?count)
 WHERE {    
-  ?gene a ncit:C16612;
-  		  ncit:C25281 mesh:D014353;
-      	  obo:BFO_0000050 ?cell_comp.
+  ?gene a biolink:Gene;
+  		  biolink:gene_associated_with_condition mesh:D014353;
+      	biolink:active_in ?cell_comp.
   
-  ?cell_comp a obo:GO_0016043;
+  ?cell_comp a biolink:CellularComponent;
    
-  sio:SIO_000300 ?cell_compname .
+  rdfs:label ?cell_compname .
 }
 GROUP BY ?cell_comp
 ORDER BY DESC(?count)
 LIMIT 10
 
-# What are the top 30 pathways associated to the highest number of genes involved in Leishmaniasis?
-SELECT ?path ?path_name (COUNT(DISTINCT ?gene) AS ?count)
+# What are the top 30 pathways associated to the highest number of genes involved in Leishmaniasis (include the data source of the pathways)?
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
+
+SELECT ?path ?path_name ?datasource (COUNT(DISTINCT ?gene) AS ?count)
 WHERE {    
-  ?gene a ncit:C16612;
-  		  ncit:C25281 mesh:D007896;
-      	  obo:BFO_0000050 ?path.
+  ?gene a biolink:Gene;
+  		  biolink:gene_associated_with_condition mesh:D007896;
+      	biolink:participates_in ?path.
   
-  ?path a ncit:C54214;
+  ?path a biolink:Pathway;
    
-  sio:SIO_000300 ?path_name .
+  rdfs:label ?path_name;
+  biolink:provided_by ?datasource.
 }
 GROUP BY ?path
 ORDER BY DESC(?count)
 LIMIT 30
 
-# What are the top 20 pathways associated to the highest number of genes involved in the three NTDs?
-PREFIX obo: <http://purl.obolibrary.org/obo/>
-PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-PREFIX sio: <http://semanticscience.org/resource/>
-PREFIX mesh: <http://purl.bioontology.org/ontology/MESH/>
+# What are the top 20 pathways associated to the highest number of genes involved in the three NTDs (include the data source of the pathways)?
+PREFIX biolink: <https://w3id.org/biolink/vocab/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mesh: <https://bioregistry.io/mesh:>
 
-SELECT ?path ?path_name (COUNT(DISTINCT ?gene) AS ?count)
+SELECT ?path ?path_name ?datasource (COUNT(DISTINCT ?gene) AS ?count)
 WHERE {    
-  ?gene a ncit:C16612;
-  		  ncit:C25281 mesh:D014353,
-                      mesh:D014355,
-                      mesh:D007896;
-      	  obo:BFO_0000050 ?path.
+  ?gene a biolink:Gene;
+  		  biolink:gene_associated_with_condition mesh:D014353,
+                                               mesh:D014355,
+                                               mesh:D007896;
+      	biolink:participates_in ?path.
   
-  ?path a ncit:C54214;
-   
-  sio:SIO_000300 ?path_name .
+  ?path a biolink:Pathway;
+  rdfs:label ?path_name ;
+  biolink:provided_by ?datasource.
 }
 GROUP BY ?path
 ORDER BY DESC(?count)

@@ -39,13 +39,13 @@ if 'sparql_query_input' not in st.session_state:
 # Add a sidebar with the options
 def example_sparql_query():
     st.session_state.sparql_query_input = """# List 5 gene IDs and names from the NTDs knowledge graph
-    PREFIX ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
-    PREFIX sio: <http://semanticscience.org/resource/>
+    PREFIX biolink: <https://w3id.org/biolink/vocab/>
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
     SELECT ?gene ?genename
     WHERE {    
-    ?gene a ncit:C16612;
-    sio:SIO_000300 ?genename;
+    ?gene a biolink:Gene;
+    rdfs:label ?genename;
     }
     LIMIT 5
     """
