@@ -125,9 +125,8 @@ with st.container():
 with st.container():
         st.write("### What are the top 30 pathways associated to the highest number of genes involved in Leishmaniasis (include the data source of the pathways)?")
         res = runQuery(st.session_state.queries[11], st.session_state.graph)
-        fig = px.bar(res, x="path_name", y="count", labels={"path_name":"Pathway", "count":"Number of genes"}, text_auto="True")
-        fig.update_xaxes(type="category")
-        fig.update_yaxes(showticklabels=False)
+        fig = px.pie(res, names="path_name", values="count", hole=.3)
+        fig.update_traces(hoverinfo='label+percent', textinfo='value', textfont_size=15)
         st.plotly_chart(fig, use_container_width=True)
         st.write(res)
         with st.expander("Show query"):
@@ -136,8 +135,9 @@ with st.container():
 with st.container():
         st.write("### What are the top 20 pathways associated to the highest number of genes involved in the three NTDs (include the data source of the pathways)?")
         res = runQuery(st.session_state.queries[12], st.session_state.graph)
-        fig = px.pie(res, names="path_name", values="count", hole=.3)
-        fig.update_traces(hoverinfo='label+percent', textinfo='value', textfont_size=15)
+        fig = px.bar(res, x="path_name", y="count", labels={"path_name":"Pathway", "count":"Number of genes"}, text_auto="True")
+        fig.update_xaxes(type="category")
+        fig.update_yaxes(showticklabels=False)
         st.plotly_chart(fig, use_container_width=True)
         st.write(res)
         with st.expander("Show query"):
