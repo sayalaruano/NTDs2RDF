@@ -7,7 +7,7 @@
         <img alt="PyPI - License" src="https://img.shields.io/pypi/l/bioregistry" />
     </a>
     <a href="https://doi.org/10.5281/zenodo.7772555">
-        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7772555.svg)" alt="DOI">
+        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7772555.svg" alt="DOI">
     </a>
     <a href="https://NTDs2RDF.streamlit.app/" title="NTDs2RDF"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg"></a>
 </p>
