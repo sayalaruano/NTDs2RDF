@@ -113,27 +113,6 @@ GROUP BY ?drug
 ORDER BY DESC(?n_proteintargets)
 LIMIT 1
 
-# What are the top 20 protein domains with the highest number of proteins encoded by genes associated to African Trypanosomiasis?
-PREFIX biolink: <https://w3id.org/biolink/vocab/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX mesh: <https://bioregistry.io/mesh:>
-
-SELECT ?proteindom ?proteindom_name ?protein (COUNT(DISTINCT ?gene) AS ?count)
-WHERE {    
-  ?gene a biolink:Gene;
-  		  biolink:gene_associated_with_condition mesh:D014353;
-      	  biolink:translates_to ?protein.
-  
-  ?protein a biolink:Protein.
-  ?proteindom a biolink:ProteinDomain;
-                biolink:part_of ?protein;
-   
-  rdfs:label ?proteindom_name .
-}
-GROUP BY ?proteindom
-ORDER BY DESC(?count)
-LIMIT 20
-
 # What are the top 20 biological processes with the highest number of genes associated to Leishmaniasis?
 PREFIX biolink: <https://w3id.org/biolink/vocab/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>

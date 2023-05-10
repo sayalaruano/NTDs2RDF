@@ -80,16 +80,6 @@ with st.container():
             st.code(st.session_state.queries[6], language="sparql")
         st.markdown("---")
 with st.container():
-        st.write("### What are the top 20 protein domains with the highest number of proteins encoded by genes associated to African Trypanosomiasis?")
-        res = runQuery(st.session_state.queries[7], st.session_state.graph)
-        fig = px.pie(res, names="proteindom_name", values="count", hole=.3)
-        fig.update_traces(hoverinfo='label+percent', textinfo='value', textfont_size=15)
-        st.plotly_chart(fig, use_container_width=True)
-        st.write(res)
-        with st.expander("Show query"):
-            st.code(st.session_state.queries[7], language="sparql")
-        st.markdown("---")
-with st.container():
         st.write("### What are the top 20 biological processes with the highest number of genes associated to Leishmaniasis?")
         res = runQuery(st.session_state.queries[8], st.session_state.graph)     
         fig = px.pie(res, names="bio_processname", values="count", hole=.3)
