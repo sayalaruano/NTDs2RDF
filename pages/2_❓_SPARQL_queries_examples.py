@@ -81,28 +81,28 @@ with st.container():
         st.markdown("---")
 with st.container():
         st.write("### What are the top 20 biological processes with the highest number of genes associated to Leishmaniasis?")
-        res = runQuery(st.session_state.queries[8], st.session_state.graph)     
+        res = runQuery(st.session_state.queries[7], st.session_state.graph)     
         fig = px.pie(res, names="bio_processname", values="count", hole=.3)
         fig.update_traces(hoverinfo='label+percent', textinfo='value', textfont_size=15)
         st.plotly_chart(fig, use_container_width=True)
         st.write(res)       
         with st.expander("Show query"):
-            st.code(st.session_state.queries[8], language="sparql")
+            st.code(st.session_state.queries[7], language="sparql")
         st.markdown("---")
 with st.container():
         st.write("### What are the top 20 molecular functions  with the highest number of genes associated to Chagas Disease?")
-        res = runQuery(st.session_state.queries[9], st.session_state.graph)
+        res = runQuery(st.session_state.queries[8], st.session_state.graph)
         fig = px.bar(res, x="mol_functname", y="count", labels={"mol_funct":"Molecular function", "count":"Number of genes"}, text_auto="True")
         fig.update_xaxes(type="category")
         fig.update_yaxes(showticklabels=False)
         st.plotly_chart(fig, use_container_width=True)
         st.write(res)
         with st.expander("Show query"):
-            st.code(st.session_state.queries[9], language="sparql")
+            st.code(st.session_state.queries[8], language="sparql")
         st.markdown("---")
 with st.container():
         st.write("### What are the top 10 cellular components with the highest number of genes associated to African Trypanosomiasis?")
-        res = runQuery(st.session_state.queries[10], st.session_state.graph)
+        res = runQuery(st.session_state.queries[9], st.session_state.graph)
         fig = px.treemap(res, path=[px.Constant("Cellular component"), "cell_compname"], values="count", hover_data=["cell_compname","count"])
         fig.update_traces(root_color="lightgrey")
         fig.update_layout(margin = dict(t=50, l=25, r=25, b=25),
@@ -110,28 +110,28 @@ with st.container():
         st.plotly_chart(fig, use_container_width=True)
         st.write(res)
         with st.expander("Show query"):
-            st.code(st.session_state.queries[10], language="sparql")
+            st.code(st.session_state.queries[9], language="sparql")
         st.markdown("---")
 with st.container():
         st.write("### What are the top 30 pathways associated to the highest number of genes involved in Leishmaniasis (include the data source of the pathways)?")
-        res = runQuery(st.session_state.queries[11], st.session_state.graph)
+        res = runQuery(st.session_state.queries[10], st.session_state.graph)
         fig = px.pie(res, names="path_name", values="count", hole=.3)
         fig.update_traces(hoverinfo='label+percent', textinfo='value', textfont_size=15)
         st.plotly_chart(fig, use_container_width=True)
         st.write(res)
         with st.expander("Show query"):
-            st.code(st.session_state.queries[11], language="sparql")
+            st.code(st.session_state.queries[10], language="sparql")
         st.markdown("---")
 with st.container():
         st.write("### What are the top 20 pathways associated to the highest number of genes involved in the three NTDs (include the data source of the pathways)?")
-        res = runQuery(st.session_state.queries[12], st.session_state.graph)
+        res = runQuery(st.session_state.queries[11], st.session_state.graph)
         fig = px.bar(res, x="path_name", y="count", labels={"path_name":"Pathway", "count":"Number of genes"}, text_auto="True")
         fig.update_xaxes(type="category")
         fig.update_yaxes(showticklabels=False)
         st.plotly_chart(fig, use_container_width=True)
         st.write(res)
         with st.expander("Show query"):
-            st.code(st.session_state.queries[12], language="sparql")
+            st.code(st.session_state.queries[11], language="sparql")
         st.markdown("---")
 
 st.sidebar.warning('If there is an input or syntax error, you should go first to the Home page to load the data and the queries.')
