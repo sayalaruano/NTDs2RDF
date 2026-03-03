@@ -2,4 +2,4 @@ pandas
 rdflib
 streamlit
 plotly
-PIL 
+pillow 
