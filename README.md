@@ -3,6 +3,11 @@
 </h1>
 
 <p align="center">
+  <img src="img/ntds2rdf-logo.svg" width="250" alt="NTDs2RDF-logo"/>
+  <br>
+</p>
+
+<p align="center">
     <a href="https://github.com/sayalaruano/NTDs2RDF/blob/main/LICENSE.md">
         <img alt="PyPI - License" src="https://img.shields.io/pypi/l/bioregistry" />
     </a>
