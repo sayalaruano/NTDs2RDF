@@ -57,6 +57,7 @@ rectangles) and components (green rectangles).</em>
 The NTDs2RDF KG has **ten classes and 33.892 triplets**. The [Biolink][biolink] model was the main source to define classes and predicates of 
 the **RDF graph** because it has many **human-readable and domain-specific** predicates for Biology, and its entities also follow a 
 **machine-readable format** and they are integrated with other ontologies using **semantic mappings**, which makes the KGs **interoperable**.
+
 To assure that all the entities of the KG have standardized and stable identifiers, the [Bioregistry][bioregistry] metaregistry was used to assign 
 the URIs and CURIEs. The figure below shows the meta-graph of the NTDs2RDF KG with all the classes and predicates from the Biolink Model and other standard ontologies. 
 
