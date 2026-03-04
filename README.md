@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://github.com/sayalaruano/NTDs2RDF/blob/main/LICENSE.md">
-        <img alt="PyPI - License" src="https://img.shields.io/pypi/l/bioregistry" />
+        <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg" />
     </a>
     <a href="https://doi.org/10.5281/zenodo.7772555">
         <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.7772555-blue" alt="DOI">
